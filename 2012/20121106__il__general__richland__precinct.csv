@@ -1,0 +1,277 @@
+county,precinct,office,district,candidate,party,votes
+Richland,Bonpas,Voters,,Registered,,284
+Richland,Claremont,Voters,,Registered,,642
+Richland,Decker,Voters,,Registered,,315
+Richland,Denver,Voters,,Registered,,295
+Richland,German,Voters,,Registered,,275
+Richland,Madison 1,Voters,,Registered,,285
+Richland,Madison 2,Voters,,Registered,,330
+Richland,Noble 1,Voters,,Registered,,540
+Richland,Noble 2,Voters,,Registered,,486
+Richland,Olney 1,Voters,,Registered,,508
+Richland,Olney 2,Voters,,Registered,,448
+Richland,Olney 3,Voters,,Registered,,729
+Richland,Olney 4,Voters,,Registered,,488
+Richland,Olney 5,Voters,,Registered,,712
+Richland,Olney 6,Voters,,Registered,,533
+Richland,Olney 7,Voters,,Registered,,1085
+Richland,Olney 8,Voters,,Registered,,534
+Richland,Olney 9,Voters,,Registered,,928
+Richland,Olney 10,Voters,,Registered,,595
+Richland,Olney 11,Voters,,Registered,,590
+Richland,Preston 1,Voters,,Registered,,640
+Richland,Preston 2,Voters,,Registered,,313
+Richland,RICHLAND IL,Voters,,Registered,,11555
+Richland,Bonpas,Voters,,Ballots Cast Federal,,190
+Richland,Claremont,Voters,,Ballots Cast Federal,,495
+Richland,Decker,Voters,,Ballots Cast Federal,,215
+Richland,Denver,Voters,,Ballots Cast Federal,,195
+Richland,German,Voters,,Ballots Cast Federal,,195
+Richland,Madison 1,Voters,,Ballots Cast Federal,,192
+Richland,Madison 2,Voters,,Ballots Cast Federal,,215
+Richland,Noble 1,Voters,,Ballots Cast Federal,,322
+Richland,Noble 2,Voters,,Ballots Cast Federal,,292
+Richland,Olney 1,Voters,,Ballots Cast Federal,,307
+Richland,Olney 2,Voters,,Ballots Cast Federal,,281
+Richland,Olney 3,Voters,,Ballots Cast Federal,,398
+Richland,Olney 4,Voters,,Ballots Cast Federal,,267
+Richland,Olney 5,Voters,,Ballots Cast Federal,,448
+Richland,Olney 6,Voters,,Ballots Cast Federal,,326
+Richland,Olney 7,Voters,,Ballots Cast Federal,,790
+Richland,Olney 8,Voters,,Ballots Cast Federal,,275
+Richland,Olney 9,Voters,,Ballots Cast Federal,,486
+Richland,Olney 10,Voters,,Ballots Cast Federal,,385
+Richland,Olney 11,Voters,,Ballots Cast Federal,,428
+Richland,Preston 1,Voters,,Ballots Cast Federal,,479
+Richland,Preston 2,Voters,,Ballots Cast Federal,,184
+Richland,RICHLAND IL,Voters,,Ballots Cast Federal,,7365
+Richland,Bonpas,Voters,,Ballots Cast State,,189
+Richland,Claremont,Voters,,Ballots Cast State,,494
+Richland,Decker,Voters,,Ballots Cast State,,215
+Richland,Denver,Voters,,Ballots Cast State,,194
+Richland,German,Voters,,Ballots Cast State,,195
+Richland,Madison 1,Voters,,Ballots Cast State,,192
+Richland,Madison 2,Voters,,Ballots Cast State,,215
+Richland,Noble 1,Voters,,Ballots Cast State,,318
+Richland,Noble 2,Voters,,Ballots Cast State,,292
+Richland,Olney 1,Voters,,Ballots Cast State,,306
+Richland,Olney 2,Voters,,Ballots Cast State,,281
+Richland,Olney 3,Voters,,Ballots Cast State,,397
+Richland,Olney 4,Voters,,Ballots Cast State,,262
+Richland,Olney 5,Voters,,Ballots Cast State,,444
+Richland,Olney 6,Voters,,Ballots Cast State,,324
+Richland,Olney 7,Voters,,Ballots Cast State,,790
+Richland,Olney 8,Voters,,Ballots Cast State,,272
+Richland,Olney 9,Voters,,Ballots Cast State,,485
+Richland,Olney 10,Voters,,Ballots Cast State,,384
+Richland,Olney 11,Voters,,Ballots Cast State,,428
+Richland,Preston 1,Voters,,Ballots Cast State,,479
+Richland,Preston 2,Voters,,Ballots Cast State,,184
+Richland,RICHLAND IL,Voters,,Ballots Cast State,,7340
+Richland,Bonpas,President,,Barack Obama,DEM,37
+Richland,Claremont,President,,Barack Obama,DEM,129
+Richland,Decker,President,,Barack Obama,DEM,44
+Richland,Denver,President,,Barack Obama,DEM,69
+Richland,German,President,,Barack Obama,DEM,51
+Richland,Madison 1,President,,Barack Obama,DEM,57
+Richland,Madison 2,President,,Barack Obama,DEM,56
+Richland,Noble 1,President,,Barack Obama,DEM,132
+Richland,Noble 2,President,,Barack Obama,DEM,73
+Richland,Olney 1,President,,Barack Obama,DEM,116
+Richland,Olney 2,President,,Barack Obama,DEM,101
+Richland,Olney 3,President,,Barack Obama,DEM,153
+Richland,Olney 4,President,,Barack Obama,DEM,84
+Richland,Olney 5,President,,Barack Obama,DEM,135
+Richland,Olney 6,President,,Barack Obama,DEM,135
+Richland,Olney 7,President,,Barack Obama,DEM,268
+Richland,Olney 8,President,,Barack Obama,DEM,111
+Richland,Olney 9,President,,Barack Obama,DEM,145
+Richland,Olney 10,President,,Barack Obama,DEM,134
+Richland,Olney 11,President,,Barack Obama,DEM,132
+Richland,Preston 1,President,,Barack Obama,DEM,144
+Richland,Preston 2,President,,Barack Obama,DEM,56
+Richland,RICHLAND IL,President,,Barack Obama,DEM,2362
+Richland,Bonpas,President,,Mitt Romney,REP,150
+Richland,Claremont,President,,Mitt Romney,REP,339
+Richland,Decker,President,,Mitt Romney,REP,162
+Richland,Denver,President,,Mitt Romney,REP,119
+Richland,German,President,,Mitt Romney,REP,140
+Richland,Madison 1,President,,Mitt Romney,REP,124
+Richland,Madison 2,President,,Mitt Romney,REP,153
+Richland,Noble 1,President,,Mitt Romney,REP,180
+Richland,Noble 2,President,,Mitt Romney,REP,209
+Richland,Olney 1,President,,Mitt Romney,REP,183
+Richland,Olney 2,President,,Mitt Romney,REP,174
+Richland,Olney 3,President,,Mitt Romney,REP,229
+Richland,Olney 4,President,,Mitt Romney,REP,165
+Richland,Olney 5,President,,Mitt Romney,REP,297
+Richland,Olney 6,President,,Mitt Romney,REP,175
+Richland,Olney 7,President,,Mitt Romney,REP,501
+Richland,Olney 8,President,,Mitt Romney,REP,155
+Richland,Olney 9,President,,Mitt Romney,REP,324
+Richland,Olney 10,President,,Mitt Romney,REP,237
+Richland,Olney 11,President,,Mitt Romney,REP,284
+Richland,Preston 1,President,,Mitt Romney,REP,333
+Richland,Preston 2,President,,Mitt Romney,REP,123
+Richland,RICHLAND IL,President,,Mitt Romney,REP,4756
+Richland,Bonpas,President,,Gary Johnson,LBT,2
+Richland,Claremont,President,,Gary Johnson,LBT,7
+Richland,Decker,President,,Gary Johnson,LBT,6
+Richland,Denver,President,,Gary Johnson,LBT,5
+Richland,German,President,,Gary Johnson,LBT,3
+Richland,Madison 1,President,,Gary Johnson,LBT,4
+Richland,Madison 2,President,,Gary Johnson,LBT,6
+Richland,Noble 1,President,,Gary Johnson,LBT,4
+Richland,Noble 2,President,,Gary Johnson,LBT,5
+Richland,Olney 1,President,,Gary Johnson,LBT,5
+Richland,Olney 2,President,,Gary Johnson,LBT,3
+Richland,Olney 3,President,,Gary Johnson,LBT,8
+Richland,Olney 4,President,,Gary Johnson,LBT,10
+Richland,Olney 5,President,,Gary Johnson,LBT,6
+Richland,Olney 6,President,,Gary Johnson,LBT,9
+Richland,Olney 7,President,,Gary Johnson,LBT,11
+Richland,Olney 8,President,,Gary Johnson,LBT,6
+Richland,Olney 9,President,,Gary Johnson,LBT,10
+Richland,Olney 10,President,,Gary Johnson,LBT,9
+Richland,Olney 11,President,,Gary Johnson,LBT,6
+Richland,Preston 1,President,,Gary Johnson,LBT,2
+Richland,Preston 2,President,,Gary Johnson,LBT,3
+Richland,RICHLAND IL,President,,Gary Johnson,LBT,130
+Richland,Bonpas,President,,Jill Stein,GRN,0
+Richland,Claremont,President,,Jill Stein,GRN,4
+Richland,Decker,President,,Jill Stein,GRN,1
+Richland,Denver,President,,Jill Stein,GRN,1
+Richland,German,President,,Jill Stein,GRN,0
+Richland,Madison 1,President,,Jill Stein,GRN,1
+Richland,Madison 2,President,,Jill Stein,GRN,0
+Richland,Noble 1,President,,Jill Stein,GRN,1
+Richland,Noble 2,President,,Jill Stein,GRN,1
+Richland,Olney 1,President,,Jill Stein,GRN,1
+Richland,Olney 2,President,,Jill Stein,GRN,2
+Richland,Olney 3,President,,Jill Stein,GRN,2
+Richland,Olney 4,President,,Jill Stein,GRN,4
+Richland,Olney 5,President,,Jill Stein,GRN,6
+Richland,Olney 6,President,,Jill Stein,GRN,2
+Richland,Olney 7,President,,Jill Stein,GRN,1
+Richland,Olney 8,President,,Jill Stein,GRN,1
+Richland,Olney 9,President,,Jill Stein,GRN,1
+Richland,Olney 10,President,,Jill Stein,GRN,1
+Richland,Olney 11,President,,Jill Stein,GRN,3
+Richland,Preston 1,President,,Jill Stein,GRN,0
+Richland,Preston 2,President,,Jill Stein,GRN,1
+Richland,RICHLAND IL,President,,Jill Stein,GRN,34
+Richland,Bonpas,President,,write-in,,0
+Richland,Claremont,President,,write-in,,6
+Richland,Decker,President,,write-in,,1
+Richland,Denver,President,,write-in,,0
+Richland,German,President,,write-in,,0
+Richland,Madison 1,President,,write-in,,1
+Richland,Madison 2,President,,write-in,,0
+Richland,Noble 1,President,,write-in,,5
+Richland,Noble 2,President,,write-in,,4
+Richland,Olney 1,President,,write-in,,0
+Richland,Olney 2,President,,write-in,,0
+Richland,Olney 3,President,,write-in,,3
+Richland,Olney 4,President,,write-in,,1
+Richland,Olney 5,President,,write-in,,0
+Richland,Olney 6,President,,write-in,,2
+Richland,Olney 7,President,,write-in,,5
+Richland,Olney 8,President,,write-in,,0
+Richland,Olney 9,President,,write-in,,2
+Richland,Olney 10,President,,write-in,,0
+Richland,Olney 11,President,,write-in,,1
+Richland,Preston 1,President,,write-in,,0
+Richland,Preston 2,President,,write-in,,0
+Richland,RICHLAND IL,President,,write-in,,31
+Richland,Bonpas,U S House,15,John Shimkus,REP,160
+Richland,Claremont,U S House,15,John Shimkus,REP,368
+Richland,Decker,U S House,15,John Shimkus,REP,162
+Richland,Denver,U S House,15,John Shimkus,REP,129
+Richland,German,U S House,15,John Shimkus,REP,147
+Richland,Madison 1,U S House,15,John Shimkus,REP,138
+Richland,Madison 2,U S House,15,John Shimkus,REP,162
+Richland,Noble 1,U S House,15,John Shimkus,REP,185
+Richland,Noble 2,U S House,15,John Shimkus,REP,214
+Richland,Olney 1,U S House,15,John Shimkus,REP,203
+Richland,Olney 2,U S House,15,John Shimkus,REP,172
+Richland,Olney 3,U S House,15,John Shimkus,REP,256
+Richland,Olney 4,U S House,15,John Shimkus,REP,175
+Richland,Olney 5,U S House,15,John Shimkus,REP,298
+Richland,Olney 6,U S House,15,John Shimkus,REP,194
+Richland,Olney 7,U S House,15,John Shimkus,REP,557
+Richland,Olney 8,U S House,15,John Shimkus,REP,176
+Richland,Olney 9,U S House,15,John Shimkus,REP,330
+Richland,Olney 10,U S House,15,John Shimkus,REP,255
+Richland,Olney 11,U S House,15,John Shimkus,REP,306
+Richland,Preston 1,U S House,15,John Shimkus,REP,347
+Richland,Preston 2,U S House,15,John Shimkus,REP,127
+Richland,RICHLAND IL,U S House,15,John Shimkus,REP,5061
+Richland,Bonpas,U S House,15,Angela Michael,DEM,25
+Richland,Claremont,U S House,15,Angela Michael,DEM,111
+Richland,Decker,U S House,15,Angela Michael,DEM,46
+Richland,Denver,U S House,15,Angela Michael,DEM,57
+Richland,German,U S House,15,Angela Michael,DEM,46
+Richland,Madison 1,U S House,15,Angela Michael,DEM,49
+Richland,Madison 2,U S House,15,Angela Michael,DEM,50
+Richland,Noble 1,U S House,15,Angela Michael,DEM,125
+Richland,Noble 2,U S House,15,Angela Michael,DEM,69
+Richland,Olney 1,U S House,15,Angela Michael,DEM,96
+Richland,Olney 2,U S House,15,Angela Michael,DEM,98
+Richland,Olney 3,U S House,15,Angela Michael,DEM,124
+Richland,Olney 4,U S House,15,Angela Michael,DEM,85
+Richland,Olney 5,U S House,15,Angela Michael,DEM,136
+Richland,Olney 6,U S House,15,Angela Michael,DEM,125
+Richland,Olney 7,U S House,15,Angela Michael,DEM,204
+Richland,Olney 8,U S House,15,Angela Michael,DEM,92
+Richland,Olney 9,U S House,15,Angela Michael,DEM,133
+Richland,Olney 10,U S House,15,Angela Michael,DEM,117
+Richland,Olney 11,U S House,15,Angela Michael,DEM,113
+Richland,Preston 1,U S House,15,Angela Michael,DEM,127
+Richland,Preston 2,U S House,15,Angela Michael,DEM,53
+Richland,RICHLAND IL,U S House,15,Angela Michael,DEM,2081
+Richland,Bonpas,State Senate,55,Dale Richter,REP,154
+Richland,Claremont,State Senate,55,Dale Richter,REP,383
+Richland,Decker,State Senate,55,Dale Richter,REP,172
+Richland,Denver,State Senate,55,Dale Richter,REP,137
+Richland,German,State Senate,55,Dale Richter,REP,153
+Richland,Madison 1,State Senate,55,Dale Richter,REP,148
+Richland,Madison 2,State Senate,55,Dale Richter,REP,172
+Richland,Noble 1,State Senate,55,Dale Richter,REP,238
+Richland,Noble 2,State Senate,55,Dale Richter,REP,250
+Richland,Olney 1,State Senate,55,Dale Richter,REP,242
+Richland,Olney 2,State Senate,55,Dale Richter,REP,231
+Richland,Olney 3,State Senate,55,Dale Richter,REP,316
+Richland,Olney 4,State Senate,55,Dale Richter,REP,213
+Richland,Olney 5,State Senate,55,Dale Richter,REP,360
+Richland,Olney 6,State Senate,55,Dale Richter,REP,257
+Richland,Olney 7,State Senate,55,Dale Richter,REP,607
+Richland,Olney 8,State Senate,55,Dale Richter,REP,214
+Richland,Olney 9,State Senate,55,Dale Richter,REP,384
+Richland,Olney 10,State Senate,55,Dale Richter,REP,299
+Richland,Olney 11,State Senate,55,Dale Richter,REP,348
+Richland,Preston 1,State Senate,55,Dale Richter,REP,396
+Richland,Preston 2,State Senate,55,Dale Richter,REP,153
+Richland,RICHLAND IL,State Senate,55,Dale Richter,REP,5827
+Richland,Bonpas,General Assembly,109,David Reis,REP,171
+Richland,Claremont,General Assembly,109,David Reis,REP,416
+Richland,Decker,General Assembly,109,David Reis,REP,187
+Richland,Denver,General Assembly,109,David Reis,REP,158
+Richland,German,General Assembly,109,David Reis,REP,177
+Richland,Madison 1,General Assembly,109,David Reis,REP,159
+Richland,Madison 2,General Assembly,109,David Reis,REP,183
+Richland,Noble 1,General Assembly,109,David Reis,REP,248
+Richland,Noble 2,General Assembly,109,David Reis,REP,264
+Richland,Olney 1,General Assembly,109,David Reis,REP,251
+Richland,Olney 2,General Assembly,109,David Reis,REP,236
+Richland,Olney 3,General Assembly,109,David Reis,REP,332
+Richland,Olney 4,General Assembly,109,David Reis,REP,221
+Richland,Olney 5,General Assembly,109,David Reis,REP,378
+Richland,Olney 6,General Assembly,109,David Reis,REP,268
+Richland,Olney 7,General Assembly,109,David Reis,REP,653
+Richland,Olney 8,General Assembly,109,David Reis,REP,224
+Richland,Olney 9,General Assembly,109,David Reis,REP,402
+Richland,Olney 10,General Assembly,109,David Reis,REP,323
+Richland,Olney 11,General Assembly,109,David Reis,REP,368
+Richland,Preston 1,General Assembly,109,David Reis,REP,418
+Richland,Preston 2,General Assembly,109,David Reis,REP,159
+Richland,RICHLAND IL,General Assembly,109,David Reis,REP,6196
