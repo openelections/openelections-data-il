@@ -1,0 +1,169 @@
+﻿county,precinct,office,district,candidate,party,votes
+Brown,BUCKHORN TOWNSHIP,Voters,,Registration,,66
+Brown,COOPERSTOWN TOWNSHIP,Voters,,Registration,,270
+Brown,ELKHORN TOWNSHIP,Voters,,Registration,,269
+Brown,LEE TOWNSHIP,Voters,,Registration,,219
+Brown,MISSOURI TOWNSHIP,Voters,,Registration,,127
+Brown,MT. STERLING 1,Voters,,Registration,,790
+Brown,MT. STERLING 2,Voters,,Registration,,485
+Brown,MT. STERLING 3,Voters,,Registration,,181
+Brown,MT. STERLING 4,Voters,,Registration,,380
+Brown,MT. STERLING 5,Voters,,Registration,,361
+Brown,PEA RIDGE TOWNSHIP,Voters,,Registration,,160
+Brown,RIPLEY TOWNSHIP,Voters,,Registration,,96
+Brown,VERSAILLES TOWNSHIP 1,Voters,,Registration,,279
+Brown,VERSAILLES TOWNSHIP 2,Voters,,Registration,,302
+Brown,BUCKHORN TOWNSHIP,Voters,,Ballots Cast,,39
+Brown,COOPERSTOWN TOWNSHIP,Voters,,Ballots Cast,,190
+Brown,ELKHORN TOWNSHIP,Voters,,Ballots Cast,,178
+Brown,LEE TOWNSHIP,Voters,,Ballots Cast,,151
+Brown,MISSOURI TOWNSHIP,Voters,,Ballots Cast,,82
+Brown,MT. STERLING 1,Voters,,Ballots Cast,,460
+Brown,MT. STERLING 2,Voters,,Ballots Cast,,244
+Brown,MT. STERLING 3,Voters,,Ballots Cast,,129
+Brown,MT. STERLING 4,Voters,,Ballots Cast,,233
+Brown,MT. STERLING 5,Voters,,Ballots Cast,,171
+Brown,PEA RIDGE TOWNSHIP,Voters,,Ballots Cast,,108
+Brown,RIPLEY TOWNSHIP,Voters,,Ballots Cast,,56
+Brown,VERSAILLES TOWNSHIP 1,Voters,,Ballots Cast,,184
+Brown,VERSAILLES TOWNSHIP 2,Voters,,Ballots Cast,,190
+Brown,BUCKHORN TOWNSHIP,President,,Barack Obama,DEM,8
+Brown,COOPERSTOWN TOWNSHIP,President,,Barack Obama,DEM,57
+Brown,ELKHORN TOWNSHIP,President,,Barack Obama,DEM,56
+Brown,LEE TOWNSHIP,President,,Barack Obama,DEM,45
+Brown,MISSOURI TOWNSHIP,President,,Barack Obama,DEM,24
+Brown,MT. STERLING 1,President,,Barack Obama,DEM,152
+Brown,MT. STERLING 2,President,,Barack Obama,DEM,98
+Brown,MT. STERLING 3,President,,Barack Obama,DEM,37
+Brown,MT. STERLING 4,President,,Barack Obama,DEM,71
+Brown,MT. STERLING 5,President,,Barack Obama,DEM,71
+Brown,PEA RIDGE TOWNSHIP,President,,Barack Obama,DEM,23
+Brown,RIPLEY TOWNSHIP,President,,Barack Obama,DEM,26
+Brown,VERSAILLES TOWNSHIP 1,President,,Barack Obama,DEM,61
+Brown,VERSAILLES TOWNSHIP 2,President,,Barack Obama,DEM,58
+Brown,BUCKHORN TOWNSHIP,President,,Mitt Romney,REP,30
+Brown,COOPERSTOWN TOWNSHIP,President,,Mitt Romney,REP,119
+Brown,ELKHORN TOWNSHIP,President,,Mitt Romney,REP,119
+Brown,LEE TOWNSHIP,President,,Mitt Romney,REP,96
+Brown,MISSOURI TOWNSHIP,President,,Mitt Romney,REP,49
+Brown,MT. STERLING 1,President,,Mitt Romney,REP,287
+Brown,MT. STERLING 2,President,,Mitt Romney,REP,137
+Brown,MT. STERLING 3,President,,Mitt Romney,REP,88
+Brown,MT. STERLING 4,President,,Mitt Romney,REP,151
+Brown,MT. STERLING 5,President,,Mitt Romney,REP,87
+Brown,PEA RIDGE TOWNSHIP,President,,Mitt Romney,REP,84
+Brown,RIPLEY TOWNSHIP,President,,Mitt Romney,REP,24
+Brown,VERSAILLES TOWNSHIP 1,President,,Mitt Romney,REP,118
+Brown,VERSAILLES TOWNSHIP 2,President,,Mitt Romney,REP,124
+Brown,BUCKHORN TOWNSHIP,President,,Gary Johnson,LIB,0
+Brown,COOPERSTOWN TOWNSHIP,President,,Gary Johnson,LIB,3
+Brown,ELKHORN TOWNSHIP,President,,Gary Johnson,LIB,0
+Brown,LEE TOWNSHIP,President,,Gary Johnson,LIB,5
+Brown,MISSOURI TOWNSHIP,President,,Gary Johnson,LIB,2
+Brown,MT. STERLING 1,President,,Gary Johnson,LIB,10
+Brown,MT. STERLING 2,President,,Gary Johnson,LIB,4
+Brown,MT. STERLING 3,President,,Gary Johnson,LIB,0
+Brown,MT. STERLING 4,President,,Gary Johnson,LIB,7
+Brown,MT. STERLING 5,President,,Gary Johnson,LIB,3
+Brown,PEA RIDGE TOWNSHIP,President,,Gary Johnson,LIB,0
+Brown,RIPLEY TOWNSHIP,President,,Gary Johnson,LIB,1
+Brown,VERSAILLES TOWNSHIP 1,President,,Gary Johnson,LIB,1
+Brown,VERSAILLES TOWNSHIP 2,President,,Gary Johnson,LIB,4
+Brown,BUCKHORN TOWNSHIP,President,,Jill Stein,GRN,0
+Brown,COOPERSTOWN TOWNSHIP,President,,Jill Stein,GRN,1
+Brown,ELKHORN TOWNSHIP,President,,Jill Stein,GRN,2
+Brown,LEE TOWNSHIP,President,,Jill Stein,GRN,1
+Brown,MISSOURI TOWNSHIP,President,,Jill Stein,GRN,2
+Brown,MT. STERLING 1,President,,Jill Stein,GRN,2
+Brown,MT. STERLING 2,President,,Jill Stein,GRN,1
+Brown,MT. STERLING 3,President,,Jill Stein,GRN,0
+Brown,MT. STERLING 4,President,,Jill Stein,GRN,3
+Brown,MT. STERLING 5,President,,Jill Stein,GRN,8
+Brown,PEA RIDGE TOWNSHIP,President,,Jill Stein,GRN,0
+Brown,RIPLEY TOWNSHIP,President,,Jill Stein,GRN,0
+Brown,VERSAILLES TOWNSHIP 1,President,,Jill Stein,GRN,2
+Brown,VERSAILLES TOWNSHIP 2,President,,Jill Stein,GRN,2
+Brown,BUCKHORN TOWNSHIP,President,,Write-in,,0
+Brown,COOPERSTOWN TOWNSHIP,President,,Write-in,,1
+Brown,ELKHORN TOWNSHIP,President,,Write-in,,1
+Brown,LEE TOWNSHIP,President,,Write-in,,0
+Brown,MISSOURI TOWNSHIP,President,,Write-in,,2
+Brown,MT. STERLING 1,President,,Write-in,,2
+Brown,MT. STERLING 2,President,,Write-in,,0
+Brown,MT. STERLING 3,President,,Write-in,,2
+Brown,MT. STERLING 4,President,,Write-in,,1
+Brown,MT. STERLING 5,President,,Write-in,,1
+Brown,PEA RIDGE TOWNSHIP,President,,Write-in,,0
+Brown,RIPLEY TOWNSHIP,President,,Write-in,,4
+Brown,VERSAILLES TOWNSHIP 1,President,,Write-in,,0
+Brown,VERSAILLES TOWNSHIP 2,President,,Write-in,,2
+Brown,BUCKHORN TOWNSHIP,US House,18,STEVE WATERWORTH,DEM,7
+Brown,COOPERSTOWN TOWNSHIP,US House,18,STEVE WATERWORTH,DEM,39
+Brown,ELKHORN TOWNSHIP,US House,18,STEVE WATERWORTH,DEM,33
+Brown,LEE TOWNSHIP,US House,18,STEVE WATERWORTH,DEM,28
+Brown,MISSOURI TOWNSHIP,US House,18,STEVE WATERWORTH,DEM,10
+Brown,MT. STERLING 1,US House,18,STEVE WATERWORTH,DEM,84
+Brown,MT. STERLING 2,US House,18,STEVE WATERWORTH,DEM,48
+Brown,MT. STERLING 3,US House,18,STEVE WATERWORTH,DEM,15
+Brown,MT. STERLING 4,US House,18,STEVE WATERWORTH,DEM,41
+Brown,MT. STERLING 5,US House,18,STEVE WATERWORTH,DEM,39
+Brown,PEA RIDGE TOWNSHIP,US House,18,STEVE WATERWORTH,DEM,13
+Brown,RIPLEY TOWNSHIP,US House,18,STEVE WATERWORTH,DEM,23
+Brown,VERSAILLES TOWNSHIP 1,US House,18,STEVE WATERWORTH,DEM,40
+Brown,VERSAILLES TOWNSHIP 2,US House,18,STEVE WATERWORTH,DEM,35
+Brown,BUCKHORN TOWNSHIP,US House,18,AARON SCHOCK,REP,31
+Brown,COOPERSTOWN TOWNSHIP,US House,18,AARON SCHOCK,REP,144
+Brown,ELKHORN TOWNSHIP,US House,18,AARON SCHOCK,REP,139
+Brown,LEE TOWNSHIP,US House,18,AARON SCHOCK,REP,117
+Brown,MISSOURI TOWNSHIP,US House,18,AARON SCHOCK,REP,70
+Brown,MT. STERLING 1,US House,18,AARON SCHOCK,REP,354
+Brown,MT. STERLING 2,US House,18,AARON SCHOCK,REP,188
+Brown,MT. STERLING 3,US House,18,AARON SCHOCK,REP,111
+Brown,MT. STERLING 4,US House,18,AARON SCHOCK,REP,188
+Brown,MT. STERLING 5,US House,18,AARON SCHOCK,REP,125
+Brown,PEA RIDGE TOWNSHIP,US House,18,AARON SCHOCK,REP,91
+Brown,RIPLEY TOWNSHIP,US House,18,AARON SCHOCK,REP,30
+Brown,VERSAILLES TOWNSHIP 1,US House,18,AARON SCHOCK,REP,140
+Brown,VERSAILLES TOWNSHIP 2,US House,18,AARON SCHOCK,REP,149
+Brown,BUCKHORN TOWNSHIP,State Senate,47,JOHN M. SULLIVAN,DEM,26
+Brown,COOPERSTOWN TOWNSHIP,State Senate,47,JOHN M. SULLIVAN,DEM,92
+Brown,ELKHORN TOWNSHIP,State Senate,47,JOHN M. SULLIVAN,DEM,108
+Brown,LEE TOWNSHIP,State Senate,47,JOHN M. SULLIVAN,DEM,84
+Brown,MISSOURI TOWNSHIP,State Senate,47,JOHN M. SULLIVAN,DEM,46
+Brown,MT. STERLING 1,State Senate,47,JOHN M. SULLIVAN,DEM,245
+Brown,MT. STERLING 2,State Senate,47,JOHN M. SULLIVAN,DEM,138
+Brown,MT. STERLING 3,State Senate,47,JOHN M. SULLIVAN,DEM,62
+Brown,MT. STERLING 4,State Senate,47,JOHN M. SULLIVAN,DEM,112
+Brown,MT. STERLING 5,State Senate,47,JOHN M. SULLIVAN,DEM,94
+Brown,PEA RIDGE TOWNSHIP,State Senate,47,JOHN M. SULLIVAN,DEM,54
+Brown,RIPLEY TOWNSHIP,State Senate,47,JOHN M. SULLIVAN,DEM,37
+Brown,VERSAILLES TOWNSHIP 1,State Senate,47,JOHN M. SULLIVAN,DEM,83
+Brown,VERSAILLES TOWNSHIP 2,State Senate,47,JOHN M. SULLIVAN,DEM,97
+Brown,BUCKHORN TOWNSHIP,State Senate,47,RANDY E. FRESE,REP,13
+Brown,COOPERSTOWN TOWNSHIP,State Senate,47,RANDY E. FRESE,REP,93
+Brown,ELKHORN TOWNSHIP,State Senate,47,RANDY E. FRESE,REP,66
+Brown,LEE TOWNSHIP,State Senate,47,RANDY E. FRESE,REP,60
+Brown,MISSOURI TOWNSHIP,State Senate,47,RANDY E. FRESE,REP,36
+Brown,MT. STERLING 1,State Senate,47,RANDY E. FRESE,REP,188
+Brown,MT. STERLING 2,State Senate,47,RANDY E. FRESE,REP,100
+Brown,MT. STERLING 3,State Senate,47,RANDY E. FRESE,REP,63
+Brown,MT. STERLING 4,State Senate,47,RANDY E. FRESE,REP,113
+Brown,MT. STERLING 5,State Senate,47,RANDY E. FRESE,REP,69
+Brown,PEA RIDGE TOWNSHIP,State Senate,47,RANDY E. FRESE,REP,52
+Brown,RIPLEY TOWNSHIP,State Senate,47,RANDY E. FRESE,REP,17
+Brown,VERSAILLES TOWNSHIP 1,State Senate,47,RANDY E. FRESE,REP,96
+Brown,VERSAILLES TOWNSHIP 2,State Senate,47,RANDY E. FRESE,REP,89
+Brown,BUCKHORN TOWNSHIP,General Assembly,93,NORINE K. HAMMOND,REP,30
+Brown,COOPERSTOWN TOWNSHIP,General Assembly,93,NORINE K. HAMMOND,REP,137
+Brown,ELKHORN TOWNSHIP,General Assembly,93,NORINE K. HAMMOND,REP,125
+Brown,LEE TOWNSHIP,General Assembly,93,NORINE K. HAMMOND,REP,109
+Brown,MISSOURI TOWNSHIP,General Assembly,93,NORINE K. HAMMOND,REP,56
+Brown,MT. STERLING 1,General Assembly,93,NORINE K. HAMMOND,REP,318
+Brown,MT. STERLING 2,General Assembly,93,NORINE K. HAMMOND,REP,182
+Brown,MT. STERLING 3,General Assembly,93,NORINE K. HAMMOND,REP,87
+Brown,MT. STERLING 4,General Assembly,93,NORINE K. HAMMOND,REP,172
+Brown,MT. STERLING 5,General Assembly,93,NORINE K. HAMMOND,REP,124
+Brown,PEA RIDGE TOWNSHIP,General Assembly,93,NORINE K. HAMMOND,REP,78
+Brown,RIPLEY TOWNSHIP,General Assembly,93,NORINE K. HAMMOND,REP,33
+Brown,VERSAILLES TOWNSHIP 1,General Assembly,93,NORINE K. HAMMOND,REP,129
+Brown,VERSAILLES TOWNSHIP 2,General Assembly,93,NORINE K. HAMMOND,REP,135

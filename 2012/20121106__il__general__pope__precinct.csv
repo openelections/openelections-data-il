@@ -1,0 +1,78 @@
+county,precinct,office,district,candidate,party,votes
+Pope,Golconda 1,President,,Mitt Romney,REP,253
+Pope,Golconda 2,President,,Mitt Romney,REP,302
+Pope,Golconda 3,President,,Mitt Romney,REP,214
+Pope,Jefferson 4,President,,Mitt Romney,REP,116
+Pope,Webster 5,President,,Mitt Romney,REP,279
+Pope,Eddyville 6,President,,Mitt Romney,REP,348
+Pope,,President,,Mitt Romney,REP,1512
+Pope,Golconda 1,President,,Barack Obama,DEM,110
+Pope,Golconda 2,President,,Barack Obama,DEM,159
+Pope,Golconda 3,President,,Barack Obama,DEM,95
+Pope,Jefferson 4,President,,Barack Obama,DEM,70
+Pope,Webster 5,President,,Barack Obama,DEM,104
+Pope,Eddyville 6,President,,Barack Obama,DEM,112
+Pope,,President,,Barack Obama,DEM,650
+Pope,Golconda 1,President,,Gary Johnson,LBT,6
+Pope,Golconda 2,President,,Gary Johnson,LBT,7
+Pope,Golconda 3,President,,Gary Johnson,LBT,4
+Pope,Jefferson 4,President,,Gary Johnson,LBT,1
+Pope,Webster 5,President,,Gary Johnson,LBT,4
+Pope,Eddyville 6,President,,Gary Johnson,LBT,12
+Pope,,President,,Gary Johnson,LBT,34
+Pope,Golconda 1,President,,Jill Stein,GRN,3
+Pope,Golconda 2,President,,Jill Stein,GRN,7
+Pope,Golconda 3,President,,Jill Stein,GRN,4
+Pope,Jefferson 4,President,,Jill Stein,GRN,2
+Pope,Webster 5,President,,Jill Stein,GRN,3
+Pope,Eddyville 6,President,,Jill Stein,GRN,6
+Pope,,President,,Jill Stein,GRN,25
+Pope,Golconda 1,U.S. House,15,John Shimkus,REP,268
+Pope,Golconda 2,U.S. House,15,John Shimkus,REP,312
+Pope,Golconda 3,U.S. House,15,John Shimkus,REP,219
+Pope,Jefferson 4,U.S. House,15,John Shimkus,REP,120
+Pope,Webster 5,U.S. House,15,John Shimkus,REP,288
+Pope,Eddyville 6,U.S. House,15,John Shimkus,REP,368
+Pope,,U.S. House,15,John Shimkus,REP,1575
+Pope,Golconda 1,U.S. House,15,Angela Michael,DEM,99
+Pope,Golconda 2,U.S. House,15,Angela Michael,DEM,151
+Pope,Golconda 3,U.S. House,15,Angela Michael,DEM,85
+Pope,Jefferson 4,U.S. House,15,Angela Michael,DEM,63
+Pope,Webster 5,U.S. House,15,Angela Michael,DEM,93
+Pope,Eddyville 6,U.S. House,15,Angela Michael,DEM,98
+Pope,,U.S. House,15,Angela Michael,DEM,589
+Pope,Golconda 1,State Senate,59,Mark Minor,REP,164
+Pope,Golconda 2,State Senate,59,Mark Minor,REP,185
+Pope,Golconda 3,State Senate,59,Mark Minor,REP,128
+Pope,Jefferson 4,State Senate,59,Mark Minor,REP,67
+Pope,Webster 5,State Senate,59,Mark Minor,REP,180
+Pope,Eddyville 6,State Senate,59,Mark Minor,REP,173
+Pope,,State Senate,59,Mark Minor,REP,897
+Pope,Golconda 1,State Senate,59,Gary Forby,DEM,205
+Pope,Golconda 2,State Senate,59,Gary Forby,DEM,289
+Pope,Golconda 3,State Senate,59,Gary Forby,DEM,186
+Pope,Jefferson 4,State Senate,59,Gary Forby,DEM,116
+Pope,Webster 5,State Senate,59,Gary Forby,DEM,206
+Pope,Eddyville 6,State Senate,59,Gary Forby,DEM,302
+Pope,,State Senate,59,Gary Forby,DEM,1304
+Pope,Golconda 1,General Assembly,118,Brandon Phelps,DEM,301
+Pope,Golconda 2,General Assembly,118,Brandon Phelps,DEM,394
+Pope,Golconda 3,General Assembly,118,Brandon Phelps,DEM,249
+Pope,Jefferson 4,General Assembly,118,Brandon Phelps,DEM,150
+Pope,Webster 5,General Assembly,118,Brandon Phelps,DEM,306
+Pope,Eddyville 6,General Assembly,118,Brandon Phelps,DEM,398
+Pope,,General Assembly,118,Brandon Phelps,DEM,1798
+Pope,Golconda 1,Voters,,Registered,,492
+Pope,Golconda 2,Voters,,Registered,,608
+Pope,Golconda 3,Voters,,Registered,,481
+Pope,Jefferson 4,Voters,,Registered,,324
+Pope,Webster 5,Voters,,Registered,,511
+Pope,Eddyville 6,Voters,,Registered,,605
+Pope,,Voters,,Registered,,3021
+Pope,Golconda 1,Voters,,Ballots,,375
+Pope,Golconda 2,Voters,,Ballots,,486
+Pope,Golconda 3,Voters,,Ballots,,323
+Pope,Jefferson 4,Voters,,Ballots,,191
+Pope,Webster 5,Voters,,Ballots,,393
+Pope,Eddyville 6,Voters,,Ballots,,486
+Pope,,Voters,,Ballots,,2254

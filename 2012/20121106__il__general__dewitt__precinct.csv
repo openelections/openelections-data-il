@@ -1,0 +1,530 @@
+county,precinct,office,district,candidate,party,votes
+DeWitt,Barnett,General Assembly,101,BILL MITCHELL,REP,157
+DeWitt,Clintonia 1,General Assembly,101,BILL MITCHELL,REP,204
+DeWitt,Clintonia 2,General Assembly,101,BILL MITCHELL,REP,125
+DeWitt,Clintonia 3,General Assembly,101,BILL MITCHELL,REP,241
+DeWitt,Clintonia 4,General Assembly,101,BILL MITCHELL,REP,371
+DeWitt,Clintonia 5,General Assembly,101,BILL MITCHELL,REP,597
+DeWitt,Clintonia 6,General Assembly,101,BILL MITCHELL,REP,316
+DeWitt,Clintonia 7,General Assembly,101,BILL MITCHELL,REP,305
+DeWitt,Clintonia 8,General Assembly,101,BILL MITCHELL,REP,199
+DeWitt,Clintonia 9,General Assembly,101,BILL MITCHELL,REP,177
+DeWitt,Creek,General Assembly,101,BILL MITCHELL,REP,212
+DeWitt,Dewitt,General Assembly,101,BILL MITCHELL,REP,199
+DeWitt,Harp,General Assembly,101,BILL MITCHELL,REP,164
+DeWitt,Nixon,General Assembly,101,BILL MITCHELL,REP,215
+DeWitt,Rutledge,General Assembly,101,BILL MITCHELL,REP,67
+DeWitt,Santa Anna 1,General Assembly,101,BILL MITCHELL,REP,379
+DeWitt,Santa Anna 2,General Assembly,101,BILL MITCHELL,REP,453
+DeWitt,Santa Anna 3,General Assembly,101,BILL MITCHELL,REP,129
+DeWitt,Texas,General Assembly,101,BILL MITCHELL,REP,612
+DeWitt,Tunbridge,General Assembly,101,BILL MITCHELL,REP,321
+DeWitt,Wapella,General Assembly,101,BILL MITCHELL,REP,366
+DeWitt,Waynesville,General Assembly,101,BILL MITCHELL,REP,269
+DeWitt,Wilson,General Assembly,101,BILL MITCHELL,REP,63
+DeWitt,Barnett,President,-,OBAMA,DEM,59
+DeWitt,Clintonia 1,President,-,OBAMA,DEM,111
+DeWitt,Clintonia 2,President,-,OBAMA,DEM,68
+DeWitt,Clintonia 3,President,-,OBAMA,DEM,120
+DeWitt,Clintonia 4,President,-,OBAMA,DEM,167
+DeWitt,Clintonia 5,President,-,OBAMA,DEM,269
+DeWitt,Clintonia 6,President,-,OBAMA,DEM,150
+DeWitt,Clintonia 7,President,-,OBAMA,DEM,173
+DeWitt,Clintonia 8,President,-,OBAMA,DEM,97
+DeWitt,Clintonia 9,President,-,OBAMA,DEM,104
+DeWitt,Creek,President,-,OBAMA,DEM,46
+DeWitt,Dewitt,President,-,OBAMA,DEM,76
+DeWitt,Harp,President,-,OBAMA,DEM,66
+DeWitt,Nixon,President,-,OBAMA,DEM,91
+DeWitt,Rutledge,President,-,OBAMA,DEM,28
+DeWitt,Santa Anna 1,President,-,OBAMA,DEM,136
+DeWitt,Santa Anna 2,President,-,OBAMA,DEM,161
+DeWitt,Santa Anna 3,President,-,OBAMA,DEM,58
+DeWitt,Texas,President,-,OBAMA,DEM,236
+DeWitt,Tunbridge,President,-,OBAMA,DEM,105
+DeWitt,Wapella,President,-,OBAMA,DEM,160
+DeWitt,Waynesville,President,-,OBAMA,DEM,88
+DeWitt,Wilson,President,-,OBAMA,DEM,32
+DeWitt,Barnett,President,-,ROMNEY,REP,126
+DeWitt,Clintonia 1,President,-,ROMNEY,REP,132
+DeWitt,Clintonia 2,President,-,ROMNEY,REP,85
+DeWitt,Clintonia 3,President,-,ROMNEY,REP,177
+DeWitt,Clintonia 4,President,-,ROMNEY,REP,256
+DeWitt,Clintonia 5,President,-,ROMNEY,REP,416
+DeWitt,Clintonia 6,President,-,ROMNEY,REP,204
+DeWitt,Clintonia 7,President,-,ROMNEY,REP,191
+DeWitt,Clintonia 8,President,-,ROMNEY,REP,140
+DeWitt,Clintonia 9,President,-,ROMNEY,REP,111
+DeWitt,Creek,President,-,ROMNEY,REP,189
+DeWitt,Dewitt,President,-,ROMNEY,REP,171
+DeWitt,Harp,President,-,ROMNEY,REP,119
+DeWitt,Nixon,President,-,ROMNEY,REP,155
+DeWitt,Rutledge,President,-,ROMNEY,REP,54
+DeWitt,Santa Anna 1,President,-,ROMNEY,REP,305
+DeWitt,Santa Anna 2,President,-,ROMNEY,REP,365
+DeWitt,Santa Anna 3,President,-,ROMNEY,REP,92
+DeWitt,Texas,President,-,ROMNEY,REP,455
+DeWitt,Tunbridge,President,-,ROMNEY,REP,267
+DeWitt,Wapella,President,-,ROMNEY,REP,296
+DeWitt,Waynesville,President,-,ROMNEY,REP,223
+DeWitt,Wilson,President,-,ROMNEY,REP,50
+DeWitt,Barnett,President,-,JOHNSON,LIB,1
+DeWitt,Clintonia 1,President,-,JOHNSON,LIB,2
+DeWitt,Clintonia 2,President,-,JOHNSON,LIB,3
+DeWitt,Clintonia 3,President,-,JOHNSON,LIB,1
+DeWitt,Clintonia 4,President,-,JOHNSON,LIB,6
+DeWitt,Clintonia 5,President,-,JOHNSON,LIB,9
+DeWitt,Clintonia 6,President,-,JOHNSON,LIB,6
+DeWitt,Clintonia 7,President,-,JOHNSON,LIB,6
+DeWitt,Clintonia 8,President,-,JOHNSON,LIB,2
+DeWitt,Clintonia 9,President,-,JOHNSON,LIB,4
+DeWitt,Creek,President,-,JOHNSON,LIB,2
+DeWitt,Dewitt,President,-,JOHNSON,LIB,3
+DeWitt,Harp,President,-,JOHNSON,LIB,4
+DeWitt,Nixon,President,-,JOHNSON,LIB,5
+DeWitt,Rutledge,President,-,JOHNSON,LIB,1
+DeWitt,Santa Anna 1,President,-,JOHNSON,LIB,5
+DeWitt,Santa Anna 2,President,-,JOHNSON,LIB,9
+DeWitt,Santa Anna 3,President,-,JOHNSON,LIB,0
+DeWitt,Texas,President,-,JOHNSON,LIB,13
+DeWitt,Tunbridge,President,-,JOHNSON,LIB,1
+DeWitt,Wapella,President,-,JOHNSON,LIB,5
+DeWitt,Waynesville,President,-,JOHNSON,LIB,10
+DeWitt,Wilson,President,-,JOHNSON,LIB,1
+DeWitt,Barnett,President,-,STEIN,GRN,0
+DeWitt,Clintonia 1,President,-,STEIN,GRN,4
+DeWitt,Clintonia 2,President,-,STEIN,GRN,4
+DeWitt,Clintonia 3,President,-,STEIN,GRN,4
+DeWitt,Clintonia 4,President,-,STEIN,GRN,3
+DeWitt,Clintonia 5,President,-,STEIN,GRN,5
+DeWitt,Clintonia 6,President,-,STEIN,GRN,8
+DeWitt,Clintonia 7,President,-,STEIN,GRN,6
+DeWitt,Clintonia 8,President,-,STEIN,GRN,1
+DeWitt,Clintonia 9,President,-,STEIN,GRN,4
+DeWitt,Creek,President,-,STEIN,GRN,3
+DeWitt,Dewitt,President,-,STEIN,GRN,1
+DeWitt,Harp,President,-,STEIN,GRN,0
+DeWitt,Nixon,President,-,STEIN,GRN,2
+DeWitt,Rutledge,President,-,STEIN,GRN,0
+DeWitt,Santa Anna 1,President,-,STEIN,GRN,3
+DeWitt,Santa Anna 2,President,-,STEIN,GRN,3
+DeWitt,Santa Anna 3,President,-,STEIN,GRN,3
+DeWitt,Texas,President,-,STEIN,GRN,5
+DeWitt,Tunbridge,President,-,STEIN,GRN,2
+DeWitt,Wapella,President,-,STEIN,GRN,4
+DeWitt,Waynesville,President,-,STEIN,GRN,0
+DeWitt,Wilson,President,-,STEIN,GRN,0
+DeWitt,Barnett,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Clintonia 1,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Clintonia 2,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Clintonia 3,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Clintonia 4,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Clintonia 5,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Clintonia 6,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Clintonia 7,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Clintonia 8,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Clintonia 9,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Creek,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Dewitt,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Harp,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Nixon,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Rutledge,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Santa Anna 1,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Santa Anna 2,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Santa Anna 3,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Texas,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Tunbridge,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Wapella,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Waynesville,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Wilson,President,-,BARBARA PROKOPICH,-,0
+DeWitt,Barnett,President,-,DENNIS KNILL,-,0
+DeWitt,Clintonia 1,President,-,DENNIS KNILL,-,0
+DeWitt,Clintonia 2,President,-,DENNIS KNILL,-,0
+DeWitt,Clintonia 3,President,-,DENNIS KNILL,-,0
+DeWitt,Clintonia 4,President,-,DENNIS KNILL,-,0
+DeWitt,Clintonia 5,President,-,DENNIS KNILL,-,0
+DeWitt,Clintonia 6,President,-,DENNIS KNILL,-,0
+DeWitt,Clintonia 7,President,-,DENNIS KNILL,-,0
+DeWitt,Clintonia 8,President,-,DENNIS KNILL,-,0
+DeWitt,Clintonia 9,President,-,DENNIS KNILL,-,0
+DeWitt,Creek,President,-,DENNIS KNILL,-,0
+DeWitt,Dewitt,President,-,DENNIS KNILL,-,0
+DeWitt,Harp,President,-,DENNIS KNILL,-,0
+DeWitt,Nixon,President,-,DENNIS KNILL,-,0
+DeWitt,Rutledge,President,-,DENNIS KNILL,-,0
+DeWitt,Santa Anna 1,President,-,DENNIS KNILL,-,0
+DeWitt,Santa Anna 2,President,-,DENNIS KNILL,-,0
+DeWitt,Santa Anna 3,President,-,DENNIS KNILL,-,0
+DeWitt,Texas,President,-,DENNIS KNILL,-,0
+DeWitt,Tunbridge,President,-,DENNIS KNILL,-,0
+DeWitt,Wapella,President,-,DENNIS KNILL,-,0
+DeWitt,Waynesville,President,-,DENNIS KNILL,-,0
+DeWitt,Wilson,President,-,DENNIS KNILL,-,0
+DeWitt,Barnett,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Clintonia 1,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Clintonia 2,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Clintonia 3,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Clintonia 4,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Clintonia 5,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Clintonia 6,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Clintonia 7,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Clintonia 8,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Clintonia 9,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Creek,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Dewitt,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Harp,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Nixon,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Rutledge,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Santa Anna 1,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Santa Anna 2,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Santa Anna 3,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Texas,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Tunbridge,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Wapella,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Waynesville,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Wilson,President,-,CECIL JAMES ROTH,-,0
+DeWitt,Barnett,President,-,JILL REED,-,0
+DeWitt,Clintonia 1,President,-,JILL REED,-,0
+DeWitt,Clintonia 2,President,-,JILL REED,-,0
+DeWitt,Clintonia 3,President,-,JILL REED,-,0
+DeWitt,Clintonia 4,President,-,JILL REED,-,0
+DeWitt,Clintonia 5,President,-,JILL REED,-,0
+DeWitt,Clintonia 6,President,-,JILL REED,-,0
+DeWitt,Clintonia 7,President,-,JILL REED,-,0
+DeWitt,Clintonia 8,President,-,JILL REED,-,0
+DeWitt,Clintonia 9,President,-,JILL REED,-,0
+DeWitt,Creek,President,-,JILL REED,-,0
+DeWitt,Dewitt,President,-,JILL REED,-,0
+DeWitt,Harp,President,-,JILL REED,-,0
+DeWitt,Nixon,President,-,JILL REED,-,0
+DeWitt,Rutledge,President,-,JILL REED,-,0
+DeWitt,Santa Anna 1,President,-,JILL REED,-,0
+DeWitt,Santa Anna 2,President,-,JILL REED,-,0
+DeWitt,Santa Anna 3,President,-,JILL REED,-,0
+DeWitt,Texas,President,-,JILL REED,-,0
+DeWitt,Tunbridge,President,-,JILL REED,-,0
+DeWitt,Wapella,President,-,JILL REED,-,0
+DeWitt,Waynesville,President,-,JILL REED,-,0
+DeWitt,Wilson,President,-,JILL REED,-,0
+DeWitt,Barnett,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Clintonia 1,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Clintonia 2,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Clintonia 3,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Clintonia 4,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Clintonia 5,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Clintonia 6,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Clintonia 7,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Clintonia 8,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Clintonia 9,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Creek,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Dewitt,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Harp,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Nixon,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Rutledge,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Santa Anna 1,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Santa Anna 2,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Santa Anna 3,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Texas,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Tunbridge,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Wapella,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Waynesville,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Wilson,President,-,ROSS C. ANDERSON,-,0
+DeWitt,Barnett,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Clintonia 1,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Clintonia 2,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Clintonia 3,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Clintonia 4,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Clintonia 5,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Clintonia 6,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Clintonia 7,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Clintonia 8,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Clintonia 9,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Creek,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Dewitt,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Harp,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Nixon,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Rutledge,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Santa Anna 1,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Santa Anna 2,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Santa Anna 3,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Texas,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Tunbridge,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Wapella,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Waynesville,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Wilson,President,-,MARY ANN T SEGAL,-,0
+DeWitt,Barnett,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Clintonia 1,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Clintonia 2,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Clintonia 3,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Clintonia 4,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Clintonia 5,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Clintonia 6,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Clintonia 7,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Clintonia 8,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Clintonia 9,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Creek,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Dewitt,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Harp,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Nixon,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Rutledge,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Santa Anna 1,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Santa Anna 2,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Santa Anna 3,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Texas,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Tunbridge,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Wapella,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Waynesville,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Wilson,President,-,JOANN BREIVOGEL,-,0
+DeWitt,Barnett,President,-,GOODE/CLYMER,-,0
+DeWitt,Clintonia 1,President,-,GOODE/CLYMER,-,0
+DeWitt,Clintonia 2,President,-,GOODE/CLYMER,-,0
+DeWitt,Clintonia 3,President,-,GOODE/CLYMER,-,0
+DeWitt,Clintonia 4,President,-,GOODE/CLYMER,-,0
+DeWitt,Clintonia 5,President,-,GOODE/CLYMER,-,0
+DeWitt,Clintonia 6,President,-,GOODE/CLYMER,-,0
+DeWitt,Clintonia 7,President,-,GOODE/CLYMER,-,0
+DeWitt,Clintonia 8,President,-,GOODE/CLYMER,-,0
+DeWitt,Clintonia 9,President,-,GOODE/CLYMER,-,0
+DeWitt,Creek,President,-,GOODE/CLYMER,-,0
+DeWitt,Dewitt,President,-,GOODE/CLYMER,-,0
+DeWitt,Harp,President,-,GOODE/CLYMER,-,0
+DeWitt,Nixon,President,-,GOODE/CLYMER,-,0
+DeWitt,Rutledge,President,-,GOODE/CLYMER,-,0
+DeWitt,Santa Anna 1,President,-,GOODE/CLYMER,-,0
+DeWitt,Santa Anna 2,President,-,GOODE/CLYMER,-,0
+DeWitt,Santa Anna 3,President,-,GOODE/CLYMER,-,0
+DeWitt,Texas,President,-,GOODE/CLYMER,-,0
+DeWitt,Tunbridge,President,-,GOODE/CLYMER,-,0
+DeWitt,Wapella,President,-,GOODE/CLYMER,-,0
+DeWitt,Waynesville,President,-,GOODE/CLYMER,-,0
+DeWitt,Wilson,President,-,GOODE/CLYMER,-,0
+DeWitt,Barnett,President,-,TOM HOEFLING,-,0
+DeWitt,Clintonia 1,President,-,TOM HOEFLING,-,0
+DeWitt,Clintonia 2,President,-,TOM HOEFLING,-,0
+DeWitt,Clintonia 3,President,-,TOM HOEFLING,-,0
+DeWitt,Clintonia 4,President,-,TOM HOEFLING,-,0
+DeWitt,Clintonia 5,President,-,TOM HOEFLING,-,0
+DeWitt,Clintonia 6,President,-,TOM HOEFLING,-,0
+DeWitt,Clintonia 7,President,-,TOM HOEFLING,-,0
+DeWitt,Clintonia 8,President,-,TOM HOEFLING,-,0
+DeWitt,Clintonia 9,President,-,TOM HOEFLING,-,0
+DeWitt,Creek,President,-,TOM HOEFLING,-,0
+DeWitt,Dewitt,President,-,TOM HOEFLING,-,0
+DeWitt,Harp,President,-,TOM HOEFLING,-,0
+DeWitt,Nixon,President,-,TOM HOEFLING,-,0
+DeWitt,Rutledge,President,-,TOM HOEFLING,-,0
+DeWitt,Santa Anna 1,President,-,TOM HOEFLING,-,0
+DeWitt,Santa Anna 2,President,-,TOM HOEFLING,-,0
+DeWitt,Santa Anna 3,President,-,TOM HOEFLING,-,0
+DeWitt,Texas,President,-,TOM HOEFLING,-,0
+DeWitt,Tunbridge,President,-,TOM HOEFLING,-,0
+DeWitt,Wapella,President,-,TOM HOEFLING,-,0
+DeWitt,Waynesville,President,-,TOM HOEFLING,-,1
+DeWitt,Wilson,President,-,TOM HOEFLING,-,0
+DeWitt,Barnett,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Clintonia 1,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Clintonia 2,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Clintonia 3,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Clintonia 4,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Clintonia 5,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Clintonia 6,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Clintonia 7,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Clintonia 8,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Clintonia 9,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Creek,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Dewitt,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Harp,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Nixon,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Rutledge,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Santa Anna 1,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Santa Anna 2,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Santa Anna 3,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Texas,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Tunbridge,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Wapella,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Waynesville,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Wilson,President,-,JONATHAN D. ELLIS,-,0
+DeWitt,Barnett,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Clintonia 1,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Clintonia 2,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Clintonia 3,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Clintonia 4,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Clintonia 5,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Clintonia 6,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Clintonia 7,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Clintonia 8,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Clintonia 9,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Creek,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Dewitt,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Harp,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Nixon,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Rutledge,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Santa Anna 1,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Santa Anna 2,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Santa Anna 3,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Texas,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Tunbridge,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Wapella,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Waynesville,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Wilson,President,-,ROY WAYNE TYRSE,-,0
+DeWitt,Barnett,President,-,Write-In Votes,-,0
+DeWitt,Clintonia 1,President,-,Write-In Votes,-,0
+DeWitt,Clintonia 2,President,-,Write-In Votes,-,0
+DeWitt,Clintonia 3,President,-,Write-In Votes,-,4
+DeWitt,Clintonia 4,President,-,Write-In Votes,-,0
+DeWitt,Clintonia 5,President,-,Write-In Votes,-,2
+DeWitt,Clintonia 6,President,-,Write-In Votes,-,2
+DeWitt,Clintonia 7,President,-,Write-In Votes,-,1
+DeWitt,Clintonia 8,President,-,Write-In Votes,-,0
+DeWitt,Clintonia 9,President,-,Write-In Votes,-,1
+DeWitt,Creek,President,-,Write-In Votes,-,0
+DeWitt,Dewitt,President,-,Write-In Votes,-,1
+DeWitt,Harp,President,-,Write-In Votes,-,0
+DeWitt,Nixon,President,-,Write-In Votes,-,2
+DeWitt,Rutledge,President,-,Write-In Votes,-,0
+DeWitt,Santa Anna 1,President,-,Write-In Votes,-,0
+DeWitt,Santa Anna 2,President,-,Write-In Votes,-,3
+DeWitt,Santa Anna 3,President,-,Write-In Votes,-,0
+DeWitt,Texas,President,-,Write-In Votes,-,1
+DeWitt,Tunbridge,President,-,Write-In Votes,-,0
+DeWitt,Wapella,President,-,Write-In Votes,-,1
+DeWitt,Waynesville,President,-,Write-In Votes,-,5
+DeWitt,Wilson,President,-,Write-In Votes,-,0
+DeWitt,Barnett,Voters,-,Reg. Voters,-,293
+DeWitt,Clintonia 1,Voters,-,Reg. Voters,-,498
+DeWitt,Clintonia 2,Voters,-,Reg. Voters,-,319
+DeWitt,Clintonia 3,Voters,-,Reg. Voters,-,506
+DeWitt,Clintonia 4,Voters,-,Reg. Voters,-,691
+DeWitt,Clintonia 5,Voters,-,Reg. Voters,-,1087
+DeWitt,Clintonia 6,Voters,-,Reg. Voters,-,573
+DeWitt,Clintonia 7,Voters,-,Reg. Voters,-,648
+DeWitt,Clintonia 8,Voters,-,Reg. Voters,-,396
+DeWitt,Clintonia 9,Voters,-,Reg. Voters,-,503
+DeWitt,Creek,Voters,-,Reg. Voters,-,341
+DeWitt,Dewitt,Voters,-,Reg. Voters,-,389
+DeWitt,Harp,Voters,-,Reg. Voters,-,265
+DeWitt,Nixon,Voters,-,Reg. Voters,-,366
+DeWitt,Rutledge,Voters,-,Reg. Voters,-,115
+DeWitt,Santa Anna 1,Voters,-,Reg. Voters,-,695
+DeWitt,Santa Anna 2,Voters,-,Reg. Voters,-,853
+DeWitt,Santa Anna 3,Voters,-,Reg. Voters,-,255
+DeWitt,Texas,Voters,-,Reg. Voters,-,992
+DeWitt,Tunbridge,Voters,-,Reg. Voters,-,554
+DeWitt,Wapella,Voters,-,Reg. Voters,-,708
+DeWitt,Waynesville,Voters,-,Reg. Voters,-,474
+DeWitt,Wilson,Voters,-,Reg. Voters,-,107
+DeWitt,Barnett,Voters,-,Cards Cast,-,186
+DeWitt,Clintonia 1,Voters,-,Cards Cast,-,250
+DeWitt,Clintonia 2,Voters,-,Cards Cast,-,160
+DeWitt,Clintonia 3,Voters,-,Cards Cast,-,307
+DeWitt,Clintonia 4,Voters,-,Cards Cast,-,435
+DeWitt,Clintonia 5,Voters,-,Cards Cast,-,711
+DeWitt,Clintonia 6,Voters,-,Cards Cast,-,374
+DeWitt,Clintonia 7,Voters,-,Cards Cast,-,381
+DeWitt,Clintonia 8,Voters,-,Cards Cast,-,241
+DeWitt,Clintonia 9,Voters,-,Cards Cast,-,225
+DeWitt,Creek,Voters,-,Cards Cast,-,240
+DeWitt,Dewitt,Voters,-,Cards Cast,-,253
+DeWitt,Harp,Voters,-,Cards Cast,-,189
+DeWitt,Nixon,Voters,-,Cards Cast,-,258
+DeWitt,Rutledge,Voters,-,Cards Cast,-,83
+DeWitt,Santa Anna 1,Voters,-,Cards Cast,-,453
+DeWitt,Santa Anna 2,Voters,-,Cards Cast,-,541
+DeWitt,Santa Anna 3,Voters,-,Cards Cast,-,154
+DeWitt,Texas,Voters,-,Cards Cast,-,716
+DeWitt,Tunbridge,Voters,-,Cards Cast,-,379
+DeWitt,Wapella,Voters,-,Cards Cast,-,467
+DeWitt,Waynesville,Voters,-,Cards Cast,-,328
+DeWitt,Wilson,Voters,-,Cards Cast,-,83
+DeWitt,Barnett,State Senate,51,CHAPIN ROSE,REP,156
+DeWitt,Clintonia 1,State Senate,51,CHAPIN ROSE,REP,201
+DeWitt,Clintonia 2,State Senate,51,CHAPIN ROSE,REP,123
+DeWitt,Clintonia 3,State Senate,51,CHAPIN ROSE,REP,238
+DeWitt,Clintonia 4,State Senate,51,CHAPIN ROSE,REP,361
+DeWitt,Clintonia 5,State Senate,51,CHAPIN ROSE,REP,592
+DeWitt,Clintonia 6,State Senate,51,CHAPIN ROSE,REP,312
+DeWitt,Clintonia 7,State Senate,51,CHAPIN ROSE,REP,303
+DeWitt,Clintonia 8,State Senate,51,CHAPIN ROSE,REP,186
+DeWitt,Clintonia 9,State Senate,51,CHAPIN ROSE,REP,176
+DeWitt,Creek,State Senate,51,CHAPIN ROSE,REP,205
+DeWitt,Dewitt,State Senate,51,CHAPIN ROSE,REP,196
+DeWitt,Harp,State Senate,51,CHAPIN ROSE,REP,162
+DeWitt,Nixon,State Senate,51,CHAPIN ROSE,REP,219
+DeWitt,Rutledge,State Senate,51,CHAPIN ROSE,REP,67
+DeWitt,Santa Anna 1,State Senate,51,CHAPIN ROSE,REP,373
+DeWitt,Santa Anna 2,State Senate,51,CHAPIN ROSE,REP,456
+DeWitt,Santa Anna 3,State Senate,51,CHAPIN ROSE,REP,132
+DeWitt,Texas,State Senate,51,CHAPIN ROSE,REP,596
+DeWitt,Tunbridge,State Senate,51,CHAPIN ROSE,REP,311
+DeWitt,Wapella,State Senate,51,CHAPIN ROSE,REP,361
+DeWitt,Waynesville,State Senate,51,CHAPIN ROSE,REP,263
+DeWitt,Wilson,State Senate,51,CHAPIN ROSE,REP,59
+DeWitt,Barnett,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,54
+DeWitt,Clintonia 1,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,104
+DeWitt,Clintonia 2,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,64
+DeWitt,Clintonia 3,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,130
+DeWitt,Clintonia 4,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,175
+DeWitt,Clintonia 5,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,259
+DeWitt,Clintonia 6,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,151
+DeWitt,Clintonia 7,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,174
+DeWitt,Clintonia 8,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,99
+DeWitt,Clintonia 9,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,105
+DeWitt,Creek,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,55
+DeWitt,Dewitt,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,77
+DeWitt,Harp,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,63
+DeWitt,Nixon,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,94
+DeWitt,Rutledge,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,26
+DeWitt,Santa Anna 1,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,129
+DeWitt,Santa Anna 2,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,171
+DeWitt,Santa Anna 3,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,54
+DeWitt,Texas,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,237
+DeWitt,Tunbridge,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,111
+DeWitt,Wapella,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,165
+DeWitt,Waynesville,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,97
+DeWitt,Wilson,Rep In Congress 13Th Dist,13,DAVID M. GILL,DEM,25
+DeWitt,Barnett,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,109
+DeWitt,Clintonia 1,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,108
+DeWitt,Clintonia 2,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,74
+DeWitt,Clintonia 3,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,157
+DeWitt,Clintonia 4,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,223
+DeWitt,Clintonia 5,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,383
+DeWitt,Clintonia 6,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,191
+DeWitt,Clintonia 7,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,152
+DeWitt,Clintonia 8,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,118
+DeWitt,Clintonia 9,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,102
+DeWitt,Creek,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,164
+DeWitt,Dewitt,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,149
+DeWitt,Harp,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,105
+DeWitt,Nixon,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,146
+DeWitt,Rutledge,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,47
+DeWitt,Santa Anna 1,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,285
+DeWitt,Santa Anna 2,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,313
+DeWitt,Santa Anna 3,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,80
+DeWitt,Texas,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,402
+DeWitt,Tunbridge,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,231
+DeWitt,Wapella,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,258
+DeWitt,Waynesville,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,193
+DeWitt,Wilson,Rep In Congress 13Th Dist,13,RODNEY DAVIS,REP,49
+DeWitt,Barnett,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,17
+DeWitt,Clintonia 1,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,26
+DeWitt,Clintonia 2,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,18
+DeWitt,Clintonia 3,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,17
+DeWitt,Clintonia 4,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,31
+DeWitt,Clintonia 5,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,50
+DeWitt,Clintonia 6,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,26
+DeWitt,Clintonia 7,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,47
+DeWitt,Clintonia 8,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,19
+DeWitt,Clintonia 9,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,15
+DeWitt,Creek,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,19
+DeWitt,Dewitt,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,19
+DeWitt,Harp,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,17
+DeWitt,Nixon,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,14
+DeWitt,Rutledge,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,9
+DeWitt,Santa Anna 1,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,28
+DeWitt,Santa Anna 2,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,47
+DeWitt,Santa Anna 3,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,16
+DeWitt,Texas,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,60
+DeWitt,Tunbridge,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,32
+DeWitt,Wapella,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,34
+DeWitt,Waynesville,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,25
+DeWitt,Wilson,Rep In Congress 13Th Dist,13,JOHN HARTMAN,IND,7
