@@ -1,4 +1,4 @@
-County,Precinct,Office,District,Party,Candidate,Absentee,Early,Election,Total
+county,precinct,office,district,party,candidate,absentee,early,election,total
 Peoria,Peoria 50,Assembly,73,REP,David R. Leitch,1,29,59,89
 Peoria,Peoria 52,Assembly,73,REP,David R. Leitch,19,111,269,399
 Peoria,Peoria 53,Assembly,73,REP,David R. Leitch,22,144,290,456
