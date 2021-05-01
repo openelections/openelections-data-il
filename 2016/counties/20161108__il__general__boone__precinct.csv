@@ -1,580 +1,580 @@
-"county","precinct","office","district","party","candidate","votes"
-"BOONE","BELVIDERE  1","State House","4","Republican","JOE SOSNOWSKI","223"
-"BOONE","BELVIDERE  7","State House","4","Democrat","ANGELIQUE A. BODINE","192"
-"BOONE","BELVIDERE 14","State House","4","Democrat","ANGELIQUE A. BODINE","155"
-"BOONE","BELVIDERE  3","State House","4","Democrat","ANGELIQUE A. BODINE","159"
-"BOONE","BELVIDERE 21","State House","4","Democrat","ANGELIQUE A. BODINE","121"
-"BOONE","BELVIDERE  4","State House","4","Democrat","ANGELIQUE A. BODINE","262"
-"BOONE","BELVIDERE 21","State House","4","Republican","JOE SOSNOWSKI","471"
-"BOONE","BELVIDERE 18","State House","4","Democrat","ANGELIQUE A. BODINE","106"
-"BOONE","BELVIDERE 17","State House","4","Democrat","ANGELIQUE A. BODINE","426"
-"BOONE","BOONE 2","State House","4","Republican","JOE SOSNOWSKI","236"
-"BOONE","BELVIDERE 22","State House","4","Republican","JOE SOSNOWSKI","477"
-"BOONE","FLORA  2","State House","4","Democrat","ANGELIQUE A. BODINE","143"
-"BOONE","BELVIDERE 16","State House","4","Republican","JOE SOSNOWSKI","950"
-"BOONE","BELVIDERE 22","State House","4","Democrat","ANGELIQUE A. BODINE","171"
-"BOONE","BELVIDERE  3","State House","4","Republican","JOE SOSNOWSKI","164"
-"BOONE","BELVIDERE 11","State House","4","Republican","JOE SOSNOWSKI","283"
-"BOONE","BELVIDERE 12","State House","4","Democrat","ANGELIQUE A. BODINE","301"
-"BOONE","CALEDONIA  3","State House","4","Democrat","ANGELIQUE A. BODINE","260"
-"BOONE","BELVIDERE  4","State House","4","Republican","JOE SOSNOWSKI","269"
-"BOONE","BELVIDERE 15","State House","4","Democrat","ANGELIQUE A. BODINE","35"
-"BOONE","BELVIDERE 20","State House","4","Republican","JOE SOSNOWSKI","509"
-"BOONE","FLORA  1","State House","4","Republican","JOE SOSNOWSKI","452"
-"BOONE","BELVIDERE  1","State House","4","Democrat","ANGELIQUE A. BODINE","177"
-"BOONE","CALEDONIA  2","State House","4","Republican","JOE SOSNOWSKI","514"
-"BOONE","BELVIDERE 14","State House","4","Republican","JOE SOSNOWSKI","182"
-"BOONE","FLORA  2","State House","4","Republican","JOE SOSNOWSKI","349"
-"BOONE","POPLAR GROVE 2","State House","4","Democrat","ANGELIQUE A. BODINE","88"
-"BOONE","BONUS 2","State House","4","Democrat","ANGELIQUE A. BODINE","4"
-"BOONE","BELVIDERE 15","State House","4","Republican","JOE SOSNOWSKI","38"
-"BOONE","BELVIDERE 12","State House","4","Republican","JOE SOSNOWSKI","506"
-"BOONE","BELVIDERE 19","State House","4","Democrat","ANGELIQUE A. BODINE","123"
-"BOONE","POPLAR GROVE 3","State House","4","Democrat","ANGELIQUE A. BODINE","165"
-"BOONE","BELVIDERE 18","State House","4","Republican","JOE SOSNOWSKI","440"
-"BOONE","CALEDONIA  2","State House","4","Democrat","ANGELIQUE A. BODINE","318"
-"BOONE","CALEDONIA  1","State House","4","Republican","JOE SOSNOWSKI","1209"
-"BOONE","BELVIDERE  9","State House","4","Democrat","ANGELIQUE A. BODINE","201"
-"BOONE","BELVIDERE 16","State House","4","Democrat","ANGELIQUE A. BODINE","412"
-"BOONE","BOONE 2","State House","4","Democrat","ANGELIQUE A. BODINE","154"
-"BOONE","BELVIDERE  8","State House","4","Republican","JOE SOSNOWSKI","235"
-"BOONE","BELVIDERE  5","State House","4","Republican","JOE SOSNOWSKI","151"
-"BOONE","CALEDONIA  3","State House","4","Republican","JOE SOSNOWSKI","449"
-"BOONE","BOONE 1","State House","4","Democrat","ANGELIQUE A. BODINE","74"
-"BOONE","BELVIDERE  8","State House","4","Democrat","ANGELIQUE A. BODINE","292"
-"BOONE","POPLAR GROVE 2","State House","4","Republican","JOE SOSNOWSKI","218"
-"BOONE","BELVIDERE 20","State House","4","Democrat","ANGELIQUE A. BODINE","114"
-"BOONE","BELVIDERE 19","State House","4","Republican","JOE SOSNOWSKI","485"
-"BOONE","POPLAR GROVE 3","State House","4","Republican","JOE SOSNOWSKI","255"
-"BOONE","BOONE 1","State House","4","Republican","JOE SOSNOWSKI","226"
-"BOONE","MANCHESTER","State House","4","Democrat","ANGELIQUE A. BODINE","137"
-"BOONE","BELVIDERE  6","State House","4","Democrat","ANGELIQUE A. BODINE","125"
-"BOONE","LE ROY","State House","4","Democrat","ANGELIQUE A. BODINE","72"
-"BOONE","BELVIDERE  7","State House","4","Republican","JOE SOSNOWSKI","177"
-"BOONE","BELVIDERE  5","State House","4","Democrat","ANGELIQUE A. BODINE","120"
-"BOONE","LE ROY","State House","4","Republican","JOE SOSNOWSKI","201"
-"BOONE","BELVIDERE 17","State House","4","Republican","JOE SOSNOWSKI","883"
-"BOONE","POPLAR GROVE 1","State House","4","Republican","JOE SOSNOWSKI","811"
-"BOONE","BELVIDERE 11","State House","4","Democrat","ANGELIQUE A. BODINE","194"
-"BOONE","BELVIDERE 10","State House","4","Republican","JOE SOSNOWSKI","105"
-"BOONE","FLORA  1","State House","4","Democrat","ANGELIQUE A. BODINE","326"
-"BOONE","BELVIDERE  6","State House","4","Republican","JOE SOSNOWSKI","196"
-"BOONE","BONUS 2","State House","4","Republican","JOE SOSNOWSKI","2"
-"BOONE","POPLAR GROVE 1","State House","4","Democrat","ANGELIQUE A. BODINE","416"
-"BOONE","BELVIDERE  9","State House","4","Republican","JOE SOSNOWSKI","249"
-"BOONE","MANCHESTER","State House","4","Republican","JOE SOSNOWSKI","395"
-"BOONE","BELVIDERE  2","State House","4","Democrat","ANGELIQUE A. BODINE","162"
-"BOONE","BELVIDERE 10","State House","4","Democrat","ANGELIQUE A. BODINE","102"
-"BOONE","BELVIDERE  2","State House","4","Republican","JOE SOSNOWSKI","190"
-"BOONE","CALEDONIA  1","State House","4","Democrat","ANGELIQUE A. BODINE","450"
-"BOONE","BONUS 3","State House","4","NonPartisan","Write-in","29"
-"BOONE","BONUS 3","State House","4","Republican","ROBERT W. PRITCHARD","764"
-"BOONE","BONUS 1","State House","4","NonPartisan","Write-in","3"
-"BOONE","BELVIDERE 13","State House","4","Republican","ROBERT W. PRITCHARD","275"
-"BOONE","BONUS 2","State House","4","Republican","ROBERT W. PRITCHARD","438"
-"BOONE","SPRING","State House","4","Republican","ROBERT W. PRITCHARD","381"
-"BOONE","BELVIDERE 15","State House","4","NonPartisan","Write-in","4"
-"BOONE","BONUS 2","State House","4","NonPartisan","Write-in","2"
-"BOONE","BELVIDERE 15","State House","4","Republican","ROBERT W. PRITCHARD","413"
-"BOONE","BONUS 1","State House","4","Republican","ROBERT W. PRITCHARD","337"
-"BOONE","BELVIDERE 13","State House","4","NonPartisan","Write-in","0"
-"BOONE","SPRING","State House","4","NonPartisan","Write-in","3"
-"BOONE","BELVIDERE  6","State Senate","4","Republican","DAVE SYVERSON","265"
-"BOONE","LE ROY","State Senate","4","Republican","DAVE SYVERSON","238"
-"BOONE","BELVIDERE 18","State Senate","4","Republican","DAVE SYVERSON","484"
-"BOONE","BELVIDERE 13","State Senate","4","Republican","DAVE SYVERSON","284"
-"BOONE","FLORA  1","State Senate","4","Republican","DAVE SYVERSON","621"
-"BOONE","BONUS 2","State Senate","4","Republican","DAVE SYVERSON","453"
-"BOONE","BOONE 1","State Senate","4","Republican","DAVE SYVERSON","256"
-"BOONE","POPLAR GROVE 2","State Senate","4","Republican","DAVE SYVERSON","268"
-"BOONE","BELVIDERE 16","State Senate","4","Republican","DAVE SYVERSON","1170"
-"BOONE","MANCHESTER","State Senate","4","Republican","DAVE SYVERSON","462"
-"BOONE","BELVIDERE  4","State Senate","4","Republican","DAVE SYVERSON","410"
-"BOONE","BELVIDERE  7","State Senate","4","Republican","DAVE SYVERSON","300"
-"BOONE","BONUS 3","State Senate","4","Republican","DAVE SYVERSON","791"
-"BOONE","BELVIDERE  3","State Senate","4","Republican","DAVE SYVERSON","259"
-"BOONE","BELVIDERE 21","State Senate","4","Republican","DAVE SYVERSON","527"
-"BOONE","CALEDONIA  1","State Senate","4","Republican","DAVE SYVERSON","1408"
-"BOONE","BELVIDERE  1","State Senate","4","Republican","DAVE SYVERSON","321"
-"BOONE","BELVIDERE  8","State Senate","4","Republican","DAVE SYVERSON","407"
-"BOONE","BELVIDERE 10","State Senate","4","Republican","DAVE SYVERSON","170"
-"BOONE","POPLAR GROVE 3","State Senate","4","Republican","DAVE SYVERSON","356"
-"BOONE","BELVIDERE 11","State Senate","4","Republican","DAVE SYVERSON","408"
-"BOONE","CALEDONIA  2","State Senate","4","Republican","DAVE SYVERSON","720"
-"BOONE","BELVIDERE 20","State Senate","4","Republican","DAVE SYVERSON","546"
-"BOONE","SPRING","State Senate","4","Republican","DAVE SYVERSON","395"
-"BOONE","BONUS 1","State Senate","4","Republican","DAVE SYVERSON","345"
-"BOONE","CALEDONIA  3","State Senate","4","Republican","DAVE SYVERSON","625"
-"BOONE","BELVIDERE  9","State Senate","4","Republican","DAVE SYVERSON","390"
-"BOONE","BOONE 2","State Senate","4","Republican","DAVE SYVERSON","335"
-"BOONE","FLORA  2","State Senate","4","Republican","DAVE SYVERSON","422"
-"BOONE","BELVIDERE 14","State Senate","4","Republican","DAVE SYVERSON","278"
-"BOONE","BELVIDERE 17","State Senate","4","Republican","DAVE SYVERSON","1117"
-"BOONE","POPLAR GROVE 1","State Senate","4","Republican","DAVE SYVERSON","1081"
-"BOONE","BELVIDERE 15","State Senate","4","Republican","DAVE SYVERSON","481"
-"BOONE","BELVIDERE  5","State Senate","4","Republican","DAVE SYVERSON","226"
-"BOONE","BELVIDERE  2","State Senate","4","Republican","DAVE SYVERSON","291"
-"BOONE","BELVIDERE 12","State Senate","4","Republican","DAVE SYVERSON","670"
-"BOONE","BELVIDERE 19","State Senate","4","Republican","DAVE SYVERSON","536"
-"BOONE","BELVIDERE 22","State Senate","4","Republican","DAVE SYVERSON","554"
-"BOONE","CALEDONIA  3","U.S. House","4","Republican","ADAM KINZINGER","629"
-"BOONE","BONUS 2","U.S. House","4","NonPartisan","Write-in","8"
-"BOONE","BELVIDERE  6","U.S. House","4","Republican","ADAM KINZINGER","264"
-"BOONE","BELVIDERE  5","U.S. House","4","NonPartisan","Write-in","6"
-"BOONE","FLORA  1","U.S. House","4","NonPartisan","Write-in","16"
-"BOONE","BONUS 3","U.S. House","4","Republican","ADAM KINZINGER","782"
-"BOONE","CALEDONIA  1","U.S. House","4","NonPartisan","Write-in","20"
-"BOONE","BELVIDERE  2","U.S. House","4","Republican","ADAM KINZINGER","294"
-"BOONE","BELVIDERE 20","U.S. House","4","Republican","ADAM KINZINGER","569"
-"BOONE","BONUS 1","U.S. House","4","NonPartisan","Write-in","3"
-"BOONE","BELVIDERE 21","U.S. House","4","Republican","ADAM KINZINGER","537"
-"BOONE","LE ROY","U.S. House","4","NonPartisan","Write-in","3"
-"BOONE","POPLAR GROVE 3","U.S. House","4","Republican","ADAM KINZINGER","359"
-"BOONE","BELVIDERE  9","U.S. House","4","NonPartisan","Write-in","13"
-"BOONE","BELVIDERE  4","U.S. House","4","NonPartisan","Write-in","8"
-"BOONE","CALEDONIA  1","U.S. House","4","Republican","ADAM KINZINGER","1450"
-"BOONE","POPLAR GROVE 2","U.S. House","4","Republican","ADAM KINZINGER","266"
-"BOONE","POPLAR GROVE 1","U.S. House","4","NonPartisan","Write-in","22"
-"BOONE","MANCHESTER","U.S. House","4","Republican","ADAM KINZINGER","464"
-"BOONE","BELVIDERE 12","U.S. House","4","NonPartisan","Write-in","16"
-"BOONE","BELVIDERE  1","U.S. House","4","Republican","ADAM KINZINGER","325"
-"BOONE","BELVIDERE 19","U.S. House","4","Republican","ADAM KINZINGER","542"
-"BOONE","BOONE 2","U.S. House","4","NonPartisan","Write-in","7"
-"BOONE","POPLAR GROVE 1","U.S. House","4","Republican","ADAM KINZINGER","1078"
-"BOONE","BELVIDERE 11","U.S. House","4","NonPartisan","Write-in","11"
-"BOONE","BELVIDERE 17","U.S. House","4","Republican","ADAM KINZINGER","1127"
-"BOONE","BONUS 2","U.S. House","4","Republican","ADAM KINZINGER","460"
-"BOONE","BELVIDERE 18","U.S. House","4","NonPartisan","Write-in","7"
-"BOONE","POPLAR GROVE 2","U.S. House","4","NonPartisan","Write-in","5"
-"BOONE","BELVIDERE 15","U.S. House","4","Republican","ADAM KINZINGER","473"
-"BOONE","BELVIDERE 14","U.S. House","4","NonPartisan","Write-in","4"
-"BOONE","BOONE 2","U.S. House","4","Republican","ADAM KINZINGER","332"
-"BOONE","BELVIDERE  1","U.S. House","4","NonPartisan","Write-in","7"
-"BOONE","BELVIDERE  8","U.S. House","4","NonPartisan","Write-in","15"
-"BOONE","BOONE 1","U.S. House","4","NonPartisan","Write-in","1"
-"BOONE","BELVIDERE 19","U.S. House","4","NonPartisan","Write-in","8"
-"BOONE","BELVIDERE 10","U.S. House","4","Republican","ADAM KINZINGER","168"
-"BOONE","BELVIDERE  7","U.S. House","4","Republican","ADAM KINZINGER","306"
-"BOONE","BELVIDERE  2","U.S. House","4","NonPartisan","Write-in","12"
-"BOONE","CALEDONIA  2","U.S. House","4","NonPartisan","Write-in","19"
-"BOONE","BELVIDERE 13","U.S. House","4","Republican","ADAM KINZINGER","281"
-"BOONE","FLORA  1","U.S. House","4","Republican","ADAM KINZINGER","615"
-"BOONE","BELVIDERE 14","U.S. House","4","Republican","ADAM KINZINGER","272"
-"BOONE","FLORA  2","U.S. House","4","Republican","ADAM KINZINGER","430"
-"BOONE","BELVIDERE 22","U.S. House","4","NonPartisan","Write-in","5"
-"BOONE","POPLAR GROVE 3","U.S. House","4","NonPartisan","Write-in","11"
-"BOONE","BELVIDERE 17","U.S. House","4","NonPartisan","Write-in","17"
-"BOONE","BELVIDERE 16","U.S. House","4","Republican","ADAM KINZINGER","1187"
-"BOONE","CALEDONIA  3","U.S. House","4","NonPartisan","Write-in","9"
-"BOONE","BELVIDERE 12","U.S. House","4","Republican","ADAM KINZINGER","677"
-"BOONE","BELVIDERE  6","U.S. House","4","NonPartisan","Write-in","8"
-"BOONE","BELVIDERE  9","U.S. House","4","Republican","ADAM KINZINGER","382"
-"BOONE","BELVIDERE  3","U.S. House","4","Republican","ADAM KINZINGER","260"
-"BOONE","BELVIDERE 15","U.S. House","4","NonPartisan","Write-in","14"
-"BOONE","BELVIDERE  3","U.S. House","4","NonPartisan","Write-in","9"
-"BOONE","BELVIDERE 21","U.S. House","4","NonPartisan","Write-in","8"
-"BOONE","SPRING","U.S. House","4","Republican","ADAM KINZINGER","396"
-"BOONE","BELVIDERE 16","U.S. House","4","NonPartisan","Write-in","21"
-"BOONE","MANCHESTER","U.S. House","4","NonPartisan","Write-in","9"
-"BOONE","BELVIDERE 22","U.S. House","4","Republican","ADAM KINZINGER","559"
-"BOONE","BELVIDERE  4","U.S. House","4","Republican","ADAM KINZINGER","420"
-"BOONE","FLORA  2","U.S. House","4","NonPartisan","Write-in","7"
-"BOONE","BELVIDERE  7","U.S. House","4","NonPartisan","Write-in","5"
-"BOONE","BELVIDERE  8","U.S. House","4","Republican","ADAM KINZINGER","406"
-"BOONE","LE ROY","U.S. House","4","Republican","ADAM KINZINGER","236"
-"BOONE","BELVIDERE 20","U.S. House","4","NonPartisan","Write-in","6"
-"BOONE","BELVIDERE  5","U.S. House","4","Republican","ADAM KINZINGER","223"
-"BOONE","BONUS 1","U.S. House","4","Republican","ADAM KINZINGER","342"
-"BOONE","BELVIDERE 13","U.S. House","4","NonPartisan","Write-in","2"
-"BOONE","BELVIDERE 18","U.S. House","4","Republican","ADAM KINZINGER","484"
-"BOONE","BELVIDERE 10","U.S. House","4","NonPartisan","Write-in","5"
-"BOONE","BOONE 1","U.S. House","4","Republican","ADAM KINZINGER","261"
-"BOONE","SPRING","U.S. House","4","NonPartisan","Write-in","6"
-"BOONE","BELVIDERE 11","U.S. House","4","Republican","ADAM KINZINGER","411"
-"BOONE","CALEDONIA  2","U.S. House","4","Republican","ADAM KINZINGER","724"
-"BOONE","BONUS 3","U.S. House","4","NonPartisan","Write-in","36"
-"BOONE","POPLAR GROVE 1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","467"
-"BOONE","LE ROY","U.S. Senate","","Republican","MARK STEVEN KIRK","185"
-"BOONE","BELVIDERE 17","U.S. Senate","","Green","SCOTT SUMMERS","30"
-"BOONE","BELVIDERE  9","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BELVIDERE  1","U.S. Senate","","Republican","MARK STEVEN KIRK","191"
-"BOONE","BELVIDERE 19","U.S. Senate","","Republican","MARK STEVEN KIRK","424"
-"BOONE","BOONE 1","U.S. Senate","","Republican","MARK STEVEN KIRK","190"
-"BOONE","CALEDONIA  1","U.S. Senate","","Green","SCOTT SUMMERS","34"
-"BOONE","BELVIDERE 11","U.S. Senate","","Republican","MARK STEVEN KIRK","236"
-"BOONE","BELVIDERE  1","U.S. Senate","","Libertarian","KENTON McMILLEN","21"
-"BOONE","BELVIDERE 19","U.S. Senate","","Libertarian","KENTON McMILLEN","23"
-"BOONE","BELVIDERE  3","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BELVIDERE  1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","174"
-"BOONE","LE ROY","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BELVIDERE 16","U.S. Senate","","Democrat","TAMMY DUCKWORTH","509"
-"BOONE","BELVIDERE  7","U.S. Senate","","Republican","MARK STEVEN KIRK","146"
-"BOONE","BELVIDERE  9","U.S. Senate","","Green","SCOTT SUMMERS","16"
-"BOONE","BELVIDERE 15","U.S. Senate","","Libertarian","KENTON McMILLEN","24"
-"BOONE","BELVIDERE 17","U.S. Senate","","NonPartisan","Write-in","2"
-"BOONE","POPLAR GROVE 1","U.S. Senate","","NonPartisan","Write-in","3"
-"BOONE","BELVIDERE  4","U.S. Senate","","Green","SCOTT SUMMERS","19"
-"BOONE","BELVIDERE 22","U.S. Senate","","Green","SCOTT SUMMERS","10"
-"BOONE","BELVIDERE 10","U.S. Senate","","Libertarian","KENTON McMILLEN","9"
-"BOONE","BELVIDERE  6","U.S. Senate","","Democrat","TAMMY DUCKWORTH","121"
-"BOONE","BELVIDERE 22","U.S. Senate","","Republican","MARK STEVEN KIRK","401"
-"BOONE","BELVIDERE  8","U.S. Senate","","Green","SCOTT SUMMERS","16"
-"BOONE","FLORA  2","U.S. Senate","","Libertarian","KENTON McMILLEN","19"
-"BOONE","CALEDONIA  2","U.S. Senate","","Green","SCOTT SUMMERS","21"
-"BOONE","BELVIDERE 17","U.S. Senate","","Libertarian","KENTON McMILLEN","42"
-"BOONE","BELVIDERE 12","U.S. Senate","","Democrat","TAMMY DUCKWORTH","328"
-"BOONE","CALEDONIA  1","U.S. Senate","","Republican","MARK STEVEN KIRK","1056"
-"BOONE","BELVIDERE 12","U.S. Senate","","Green","SCOTT SUMMERS","21"
-"BOONE","BELVIDERE 18","U.S. Senate","","Libertarian","KENTON McMILLEN","23"
-"BOONE","CALEDONIA  2","U.S. Senate","","Libertarian","KENTON McMILLEN","42"
-"BOONE","BOONE 2","U.S. Senate","","Green","SCOTT SUMMERS","15"
-"BOONE","LE ROY","U.S. Senate","","Libertarian","KENTON McMILLEN","10"
-"BOONE","BELVIDERE  2","U.S. Senate","","Republican","MARK STEVEN KIRK","165"
-"BOONE","BELVIDERE 20","U.S. Senate","","Republican","MARK STEVEN KIRK","433"
-"BOONE","CALEDONIA  1","U.S. Senate","","Libertarian","KENTON McMILLEN","50"
-"BOONE","BELVIDERE 12","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BELVIDERE 14","U.S. Senate","","Green","SCOTT SUMMERS","13"
-"BOONE","FLORA  2","U.S. Senate","","Green","SCOTT SUMMERS","12"
-"BOONE","FLORA  1","U.S. Senate","","Libertarian","KENTON McMILLEN","27"
-"BOONE","POPLAR GROVE 3","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BELVIDERE 19","U.S. Senate","","Democrat","TAMMY DUCKWORTH","161"
-"BOONE","POPLAR GROVE 3","U.S. Senate","","Democrat","TAMMY DUCKWORTH","185"
-"BOONE","BELVIDERE 10","U.S. Senate","","Republican","MARK STEVEN KIRK","80"
-"BOONE","BELVIDERE  1","U.S. Senate","","Green","SCOTT SUMMERS","16"
-"BOONE","BELVIDERE  3","U.S. Senate","","Democrat","TAMMY DUCKWORTH","160"
-"BOONE","BELVIDERE 21","U.S. Senate","","Democrat","TAMMY DUCKWORTH","165"
-"BOONE","POPLAR GROVE 3","U.S. Senate","","Republican","MARK STEVEN KIRK","214"
-"BOONE","BELVIDERE  2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","153"
-"BOONE","BELVIDERE 18","U.S. Senate","","Republican","MARK STEVEN KIRK","383"
-"BOONE","POPLAR GROVE 2","U.S. Senate","","Republican","MARK STEVEN KIRK","190"
-"BOONE","SPRING","U.S. Senate","","Green","SCOTT SUMMERS","6"
-"BOONE","BELVIDERE 16","U.S. Senate","","Libertarian","KENTON McMILLEN","44"
-"BOONE","BELVIDERE  7","U.S. Senate","","Democrat","TAMMY DUCKWORTH","181"
-"BOONE","BONUS 3","U.S. Senate","","Democrat","TAMMY DUCKWORTH","448"
-"BOONE","MANCHESTER","U.S. Senate","","Republican","MARK STEVEN KIRK","355"
-"BOONE","BELVIDERE 18","U.S. Senate","","Green","SCOTT SUMMERS","8"
-"BOONE","BONUS 2","U.S. Senate","","Libertarian","KENTON McMILLEN","22"
-"BOONE","BOONE 1","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BELVIDERE 15","U.S. Senate","","Democrat","TAMMY DUCKWORTH","251"
-"BOONE","BELVIDERE  3","U.S. Senate","","Libertarian","KENTON McMILLEN","19"
-"BOONE","BELVIDERE 11","U.S. Senate","","NonPartisan","Write-in","2"
-"BOONE","POPLAR GROVE 2","U.S. Senate","","Libertarian","KENTON McMILLEN","13"
-"BOONE","BELVIDERE 22","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BONUS 1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","133"
-"BOONE","FLORA  2","U.S. Senate","","Republican","MARK STEVEN KIRK","314"
-"BOONE","BELVIDERE 22","U.S. Senate","","Libertarian","KENTON McMILLEN","23"
-"BOONE","BELVIDERE 10","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","CALEDONIA  1","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BELVIDERE  2","U.S. Senate","","Green","SCOTT SUMMERS","15"
-"BOONE","BELVIDERE 20","U.S. Senate","","Green","SCOTT SUMMERS","7"
-"BOONE","BELVIDERE  8","U.S. Senate","","Libertarian","KENTON McMILLEN","32"
-"BOONE","BELVIDERE  7","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BONUS 3","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","CALEDONIA  3","U.S. Senate","","Democrat","TAMMY DUCKWORTH","259"
-"BOONE","BELVIDERE  3","U.S. Senate","","Republican","MARK STEVEN KIRK","142"
-"BOONE","BELVIDERE 21","U.S. Senate","","Republican","MARK STEVEN KIRK","406"
-"BOONE","FLORA  1","U.S. Senate","","Republican","MARK STEVEN KIRK","377"
-"BOONE","BELVIDERE 21","U.S. Senate","","Libertarian","KENTON McMILLEN","24"
-"BOONE","CALEDONIA  2","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BELVIDERE 10","U.S. Senate","","Democrat","TAMMY DUCKWORTH","117"
-"BOONE","CALEDONIA  1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","559"
-"BOONE","BELVIDERE  8","U.S. Senate","","Republican","MARK STEVEN KIRK","198"
-"BOONE","BELVIDERE 10","U.S. Senate","","Green","SCOTT SUMMERS","4"
-"BOONE","MANCHESTER","U.S. Senate","","Libertarian","KENTON McMILLEN","14"
-"BOONE","BELVIDERE  6","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BONUS 2","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BELVIDERE  7","U.S. Senate","","Green","SCOTT SUMMERS","18"
-"BOONE","SPRING","U.S. Senate","","Libertarian","KENTON McMILLEN","26"
-"BOONE","BELVIDERE  1","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BELVIDERE 19","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BELVIDERE  8","U.S. Senate","","Democrat","TAMMY DUCKWORTH","293"
-"BOONE","BELVIDERE 15","U.S. Senate","","Republican","MARK STEVEN KIRK","278"
-"BOONE","POPLAR GROVE 1","U.S. Senate","","Green","SCOTT SUMMERS","38"
-"BOONE","BELVIDERE  5","U.S. Senate","","Libertarian","KENTON McMILLEN","7"
-"BOONE","BELVIDERE 14","U.S. Senate","","Democrat","TAMMY DUCKWORTH","163"
-"BOONE","FLORA  2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","152"
-"BOONE","BELVIDERE  5","U.S. Senate","","Republican","MARK STEVEN KIRK","130"
-"BOONE","BONUS 1","U.S. Senate","","Republican","MARK STEVEN KIRK","234"
-"BOONE","BONUS 3","U.S. Senate","","Green","SCOTT SUMMERS","34"
-"BOONE","BELVIDERE 13","U.S. Senate","","Libertarian","KENTON McMILLEN","11"
-"BOONE","BELVIDERE  5","U.S. Senate","","Green","SCOTT SUMMERS","9"
-"BOONE","CALEDONIA  3","U.S. Senate","","Green","SCOTT SUMMERS","15"
-"BOONE","BELVIDERE 11","U.S. Senate","","Libertarian","KENTON McMILLEN","22"
-"BOONE","BELVIDERE  4","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BELVIDERE 11","U.S. Senate","","Green","SCOTT SUMMERS","14"
-"BOONE","BELVIDERE 16","U.S. Senate","","NonPartisan","Write-in","4"
-"BOONE","MANCHESTER","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BELVIDERE 18","U.S. Senate","","Democrat","TAMMY DUCKWORTH","135"
-"BOONE","POPLAR GROVE 2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","106"
-"BOONE","BELVIDERE  9","U.S. Senate","","Republican","MARK STEVEN KIRK","227"
-"BOONE","BOONE 2","U.S. Senate","","Republican","MARK STEVEN KIRK","213"
-"BOONE","POPLAR GROVE 1","U.S. Senate","","Libertarian","KENTON McMILLEN","59"
-"BOONE","BELVIDERE  5","U.S. Senate","","Democrat","TAMMY DUCKWORTH","129"
-"BOONE","BELVIDERE 14","U.S. Senate","","Republican","MARK STEVEN KIRK","159"
-"BOONE","BELVIDERE 16","U.S. Senate","","Green","SCOTT SUMMERS","26"
-"BOONE","BONUS 1","U.S. Senate","","Green","SCOTT SUMMERS","11"
-"BOONE","MANCHESTER","U.S. Senate","","Green","SCOTT SUMMERS","11"
-"BOONE","BELVIDERE  4","U.S. Senate","","Libertarian","KENTON McMILLEN","22"
-"BOONE","BELVIDERE 12","U.S. Senate","","Republican","MARK STEVEN KIRK","446"
-"BOONE","BELVIDERE 21","U.S. Senate","","Green","SCOTT SUMMERS","9"
-"BOONE","BELVIDERE  2","U.S. Senate","","Libertarian","KENTON McMILLEN","24"
-"BOONE","BELVIDERE 20","U.S. Senate","","Libertarian","KENTON McMILLEN","23"
-"BOONE","BOONE 2","U.S. Senate","","Libertarian","KENTON McMILLEN","27"
-"BOONE","FLORA  1","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BELVIDERE 16","U.S. Senate","","Republican","MARK STEVEN KIRK","805"
-"BOONE","POPLAR GROVE 2","U.S. Senate","","Green","SCOTT SUMMERS","5"
-"BOONE","BELVIDERE  6","U.S. Senate","","Libertarian","KENTON McMILLEN","21"
-"BOONE","BELVIDERE 17","U.S. Senate","","Democrat","TAMMY DUCKWORTH","497"
-"BOONE","BONUS 1","U.S. Senate","","Libertarian","KENTON McMILLEN","16"
-"BOONE","BOONE 2","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BELVIDERE  6","U.S. Senate","","Green","SCOTT SUMMERS","10"
-"BOONE","BELVIDERE 12","U.S. Senate","","Libertarian","KENTON McMILLEN","38"
-"BOONE","BELVIDERE 20","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","SPRING","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","LE ROY","U.S. Senate","","Democrat","TAMMY DUCKWORTH","77"
-"BOONE","BELVIDERE 13","U.S. Senate","","Republican","MARK STEVEN KIRK","160"
-"BOONE","BELVIDERE 15","U.S. Senate","","Green","SCOTT SUMMERS","18"
-"BOONE","LE ROY","U.S. Senate","","Green","SCOTT SUMMERS","7"
-"BOONE","MANCHESTER","U.S. Senate","","Democrat","TAMMY DUCKWORTH","157"
-"BOONE","BONUS 3","U.S. Senate","","Republican","MARK STEVEN KIRK","434"
-"BOONE","BELVIDERE  3","U.S. Senate","","Green","SCOTT SUMMERS","9"
-"BOONE","BELVIDERE  9","U.S. Senate","","Libertarian","KENTON McMILLEN","24"
-"BOONE","CALEDONIA  3","U.S. Senate","","Republican","MARK STEVEN KIRK","415"
-"BOONE","BELVIDERE 13","U.S. Senate","","NonPartisan","Write-in","2"
-"BOONE","BOONE 1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","91"
-"BOONE","BELVIDERE  6","U.S. Senate","","Republican","MARK STEVEN KIRK","177"
-"BOONE","BONUS 2","U.S. Senate","","Republican","MARK STEVEN KIRK","329"
-"BOONE","BOONE 1","U.S. Senate","","Green","SCOTT SUMMERS","10"
-"BOONE","BELVIDERE 14","U.S. Senate","","Libertarian","KENTON McMILLEN","12"
-"BOONE","BELVIDERE 18","U.S. Senate","","NonPartisan","Write-in","2"
-"BOONE","POPLAR GROVE 2","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BELVIDERE  4","U.S. Senate","","Democrat","TAMMY DUCKWORTH","278"
-"BOONE","BELVIDERE 11","U.S. Senate","","Democrat","TAMMY DUCKWORTH","215"
-"BOONE","BELVIDERE 22","U.S. Senate","","Democrat","TAMMY DUCKWORTH","218"
-"BOONE","CALEDONIA  2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","333"
-"BOONE","SPRING","U.S. Senate","","Republican","MARK STEVEN KIRK","276"
-"BOONE","BELVIDERE  5","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BONUS 1","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","CALEDONIA  3","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BELVIDERE 17","U.S. Senate","","Republican","MARK STEVEN KIRK","766"
-"BOONE","POPLAR GROVE 1","U.S. Senate","","Republican","MARK STEVEN KIRK","681"
-"BOONE","BELVIDERE 19","U.S. Senate","","Green","SCOTT SUMMERS","10"
-"BOONE","POPLAR GROVE 3","U.S. Senate","","Green","SCOTT SUMMERS","10"
-"BOONE","BELVIDERE  7","U.S. Senate","","Libertarian","KENTON McMILLEN","24"
-"BOONE","BONUS 3","U.S. Senate","","Libertarian","KENTON McMILLEN","56"
-"BOONE","BELVIDERE 15","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BELVIDERE 13","U.S. Senate","","Democrat","TAMMY DUCKWORTH","144"
-"BOONE","BELVIDERE 20","U.S. Senate","","Democrat","TAMMY DUCKWORTH","161"
-"BOONE","SPRING","U.S. Senate","","Democrat","TAMMY DUCKWORTH","133"
-"BOONE","BELVIDERE 13","U.S. Senate","","Green","SCOTT SUMMERS","13"
-"BOONE","BELVIDERE 14","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","FLORA  1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","351"
-"BOONE","CALEDONIA  2","U.S. Senate","","Republican","MARK STEVEN KIRK","470"
-"BOONE","FLORA  1","U.S. Senate","","Green","SCOTT SUMMERS","28"
-"BOONE","POPLAR GROVE 3","U.S. Senate","","Libertarian","KENTON McMILLEN","27"
-"BOONE","BELVIDERE 21","U.S. Senate","","NonPartisan","Write-in","0"
-"BOONE","BONUS 2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","181"
-"BOONE","BELVIDERE  4","U.S. Senate","","Republican","MARK STEVEN KIRK","234"
-"BOONE","BONUS 2","U.S. Senate","","Green","SCOTT SUMMERS","10"
-"BOONE","CALEDONIA  3","U.S. Senate","","Libertarian","KENTON McMILLEN","35"
-"BOONE","BELVIDERE  2","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BELVIDERE  8","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BELVIDERE  9","U.S. Senate","","Democrat","TAMMY DUCKWORTH","188"
-"BOONE","BOONE 2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","136"
-"BOONE","BOONE 1","U.S. Senate","","Libertarian","KENTON McMILLEN","17"
-"BOONE","FLORA  2","U.S. Senate","","NonPartisan","Write-in","1"
-"BOONE","BONUS 3","President","","Democrat","HILLARY RODHAM CLINTON","456"
-"BOONE","BONUS 3","President","","Republican","DONALD J. TRUMP","458"
-"BOONE","BONUS 2","President","","Green","JILL STEIN","1"
-"BOONE","FLORA  1","President","","Green","JILL STEIN","8"
-"BOONE","BELVIDERE 12","President","","Libertarian","GARY JOHNSON","32"
-"BOONE","CALEDONIA  3","President","","Libertarian","GARY JOHNSON","32"
-"BOONE","BONUS 2","President","","NonPartisan","Write-in","9"
-"BOONE","BELVIDERE  2","President","","Democrat","HILLARY RODHAM CLINTON","153"
-"BOONE","BELVIDERE  2","President","","Republican","DONALD J. TRUMP","176"
-"BOONE","BELVIDERE 20","President","","Republican","DONALD J. TRUMP","389"
-"BOONE","BELVIDERE  1","President","","Green","JILL STEIN","7"
-"BOONE","BONUS 3","President","","Libertarian","GARY JOHNSON","48"
-"BOONE","MANCHESTER","President","","Republican","DONALD J. TRUMP","350"
-"BOONE","BELVIDERE 22","President","","Green","JILL STEIN","2"
-"BOONE","BELVIDERE  3","President","","Libertarian","GARY JOHNSON","22"
-"BOONE","BELVIDERE 21","President","","Libertarian","GARY JOHNSON","26"
-"BOONE","LE ROY","President","","NonPartisan","Write-in","2"
-"BOONE","BELVIDERE  5","President","","Democrat","HILLARY RODHAM CLINTON","131"
-"BOONE","BELVIDERE  5","President","","Republican","DONALD J. TRUMP","134"
-"BOONE","BONUS 1","President","","Republican","DONALD J. TRUMP","232"
-"BOONE","BELVIDERE 11","President","","Green","JILL STEIN","18"
-"BOONE","CALEDONIA  3","President","","Republican","DONALD J. TRUMP","413"
-"BOONE","BELVIDERE  2","President","","NonPartisan","Write-in","8"
-"BOONE","BELVIDERE 13","President","","Republican","DONALD J. TRUMP","149"
-"BOONE","FLORA  1","President","","Republican","DONALD J. TRUMP","387"
-"BOONE","BELVIDERE 18","President","","Libertarian","GARY JOHNSON","28"
-"BOONE","BOONE 1","President","","NonPartisan","Write-in","4"
-"BOONE","BELVIDERE 16","President","","Democrat","HILLARY RODHAM CLINTON","521"
-"BOONE","BELVIDERE 16","President","","Republican","DONALD J. TRUMP","795"
-"BOONE","BELVIDERE 15","President","","Green","JILL STEIN","7"
-"BOONE","ELECTIONS OFFICE","President","","Libertarian","GARY JOHNSON","0"
-"BOONE","BELVIDERE 15","President","","NonPartisan","Write-in","7"
-"BOONE","POPLAR GROVE 2","President","","Republican","DONALD J. TRUMP","189"
-"BOONE","POPLAR GROVE 1","President","","Green","JILL STEIN","24"
-"BOONE","BELVIDERE 13","President","","NonPartisan","Write-in","6"
-"BOONE","SPRING","President","","NonPartisan","Write-in","11"
-"BOONE","BELVIDERE 15","President","","Republican","DONALD J. TRUMP","285"
-"BOONE","BELVIDERE 14","President","","Green","JILL STEIN","7"
-"BOONE","FLORA  2","President","","Green","JILL STEIN","4"
-"BOONE","SPRING","President","","Libertarian","GARY JOHNSON","15"
-"BOONE","BELVIDERE  5","President","","Green","JILL STEIN","3"
-"BOONE","BELVIDERE 11","President","","Libertarian","GARY JOHNSON","23"
-"BOONE","BOONE 2","President","","Democrat","HILLARY RODHAM CLINTON","161"
-"BOONE","BELVIDERE  8","President","","Green","JILL STEIN","11"
-"BOONE","BELVIDERE  4","President","","NonPartisan","Write-in","5"
-"BOONE","LE ROY","President","","Democrat","HILLARY RODHAM CLINTON","75"
-"BOONE","LE ROY","President","","Republican","DONALD J. TRUMP","191"
-"BOONE","BELVIDERE  2","President","","Libertarian","GARY JOHNSON","12"
-"BOONE","BELVIDERE  5","President","","NonPartisan","Write-in","4"
-"BOONE","BONUS 1","President","","NonPartisan","Write-in","9"
-"BOONE","BELVIDERE  4","President","","Democrat","HILLARY RODHAM CLINTON","292"
-"BOONE","BELVIDERE  4","President","","Republican","DONALD J. TRUMP","242"
-"BOONE","BOONE 2","President","","Libertarian","GARY JOHNSON","27"
-"BOONE","BELVIDERE 17","President","","Republican","DONALD J. TRUMP","728"
-"BOONE","BELVIDERE  7","President","","Democrat","HILLARY RODHAM CLINTON","191"
-"BOONE","BELVIDERE  7","President","","Republican","DONALD J. TRUMP","149"
-"BOONE","BELVIDERE 13","President","","Green","JILL STEIN","8"
-"BOONE","POPLAR GROVE 3","President","","Libertarian","GARY JOHNSON","18"
-"BOONE","BELVIDERE  6","President","","NonPartisan","Write-in","5"
-"BOONE","CALEDONIA  1","President","","Democrat","HILLARY RODHAM CLINTON","632"
-"BOONE","BOONE 2","President","","Green","JILL STEIN","4"
-"BOONE","LE ROY","President","","Libertarian","GARY JOHNSON","14"
-"BOONE","BELVIDERE  3","President","","NonPartisan","Write-in","3"
-"BOONE","BELVIDERE 18","President","","Democrat","HILLARY RODHAM CLINTON","155"
-"BOONE","BELVIDERE 17","President","","Green","JILL STEIN","22"
-"BOONE","FLORA  1","President","","NonPartisan","Write-in","7"
-"BOONE","BELVIDERE 15","President","","Democrat","HILLARY RODHAM CLINTON","265"
-"BOONE","BELVIDERE 20","President","","Libertarian","GARY JOHNSON","33"
-"BOONE","BELVIDERE 11","President","","Democrat","HILLARY RODHAM CLINTON","205"
-"BOONE","BELVIDERE 11","President","","Republican","DONALD J. TRUMP","243"
-"BOONE","CALEDONIA  1","President","","NonPartisan","Write-in","30"
-"BOONE","BELVIDERE 13","President","","Libertarian","GARY JOHNSON","25"
-"BOONE","BELVIDERE 16","President","","Green","JILL STEIN","24"
-"BOONE","BELVIDERE  4","President","","Libertarian","GARY JOHNSON","21"
-"BOONE","BELVIDERE 21","President","","NonPartisan","Write-in","11"
-"BOONE","ELECTIONS OFFICE","President","","Republican","DONALD J. TRUMP","0"
-"BOONE","BELVIDERE 20","President","","Green","JILL STEIN","2"
-"BOONE","BELVIDERE  8","President","","Libertarian","GARY JOHNSON","22"
-"BOONE","BOONE 1","President","","Libertarian","GARY JOHNSON","17"
-"BOONE","BONUS 3","President","","NonPartisan","Write-in","8"
-"BOONE","FLORA  2","President","","Republican","DONALD J. TRUMP","289"
-"BOONE","BELVIDERE  2","President","","Green","JILL STEIN","15"
-"BOONE","SPRING","President","","Republican","DONALD J. TRUMP","294"
-"BOONE","POPLAR GROVE 3","President","","Green","JILL STEIN","10"
-"BOONE","BELVIDERE  7","President","","Libertarian","GARY JOHNSON","18"
-"BOONE","BELVIDERE 19","President","","NonPartisan","Write-in","15"
-"BOONE","BELVIDERE  3","President","","Democrat","HILLARY RODHAM CLINTON","176"
-"BOONE","CALEDONIA  1","President","","Republican","DONALD J. TRUMP","976"
-"BOONE","BELVIDERE  9","President","","Green","JILL STEIN","17"
-"BOONE","BELVIDERE 15","President","","Libertarian","GARY JOHNSON","21"
-"BOONE","BELVIDERE 11","President","","NonPartisan","Write-in","8"
-"BOONE","CALEDONIA  2","President","","NonPartisan","Write-in","18"
-"BOONE","POPLAR GROVE 2","President","","NonPartisan","Write-in","5"
-"BOONE","BELVIDERE  6","President","","Green","JILL STEIN","6"
-"BOONE","BELVIDERE 12","President","","Democrat","HILLARY RODHAM CLINTON","355"
-"BOONE","BOONE 2","President","","NonPartisan","Write-in","7"
-"BOONE","BELVIDERE 10","President","","Democrat","HILLARY RODHAM CLINTON","122"
-"BOONE","BELVIDERE  3","President","","Republican","DONALD J. TRUMP","132"
-"BOONE","BELVIDERE 10","President","","Republican","DONALD J. TRUMP","82"
-"BOONE","BELVIDERE 21","President","","Republican","DONALD J. TRUMP","359"
-"BOONE","BELVIDERE 18","President","","NonPartisan","Write-in","6"
-"BOONE","CALEDONIA  2","President","","Democrat","HILLARY RODHAM CLINTON","349"
-"BOONE","CALEDONIA  2","President","","Republican","DONALD J. TRUMP","467"
-"BOONE","CALEDONIA  1","President","","Green","JILL STEIN","11"
-"BOONE","MANCHESTER","President","","Libertarian","GARY JOHNSON","17"
-"BOONE","BELVIDERE 13","President","","Democrat","HILLARY RODHAM CLINTON","148"
-"BOONE","FLORA  1","President","","Democrat","HILLARY RODHAM CLINTON","381"
-"BOONE","BELVIDERE 12","President","","Green","JILL STEIN","15"
-"BOONE","CALEDONIA  3","President","","Green","JILL STEIN","11"
-"BOONE","POPLAR GROVE 2","President","","Libertarian","GARY JOHNSON","20"
-"BOONE","BELVIDERE  8","President","","Democrat","HILLARY RODHAM CLINTON","316"
-"BOONE","BELVIDERE  1","President","","Republican","DONALD J. TRUMP","190"
-"BOONE","BOONE 1","President","","Republican","DONALD J. TRUMP","200"
-"BOONE","BONUS 3","President","","Green","JILL STEIN","25"
-"BOONE","FLORA  1","President","","Libertarian","GARY JOHNSON","21"
-"BOONE","BELVIDERE 12","President","","NonPartisan","Write-in","10"
-"BOONE","CALEDONIA  3","President","","NonPartisan","Write-in","11"
-"BOONE","BELVIDERE 17","President","","Democrat","HILLARY RODHAM CLINTON","526"
-"BOONE","POPLAR GROVE 1","President","","Democrat","HILLARY RODHAM CLINTON","449"
-"BOONE","POPLAR GROVE 1","President","","Republican","DONALD J. TRUMP","688"
-"BOONE","MANCHESTER","President","","Green","JILL STEIN","3"
-"BOONE","BELVIDERE 22","President","","Libertarian","GARY JOHNSON","30"
-"BOONE","ELECTIONS OFFICE","President","","NonPartisan","Write-in","0"
-"BOONE","BONUS 1","President","","Democrat","HILLARY RODHAM CLINTON","131"
-"BOONE","CALEDONIA  3","President","","Democrat","HILLARY RODHAM CLINTON","272"
-"BOONE","CALEDONIA  2","President","","Green","JILL STEIN","6"
-"BOONE","BELVIDERE 17","President","","Libertarian","GARY JOHNSON","63"
-"BOONE","BELVIDERE 14","President","","Democrat","HILLARY RODHAM CLINTON","162"
-"BOONE","BELVIDERE 21","President","","Democrat","HILLARY RODHAM CLINTON","199"
-"BOONE","FLORA  2","President","","Democrat","HILLARY RODHAM CLINTON","174"
-"BOONE","ELECTIONS OFFICE","President","","Democrat","HILLARY RODHAM CLINTON","0"
-"BOONE","BELVIDERE 14","President","","Republican","DONALD J. TRUMP","163"
-"BOONE","BELVIDERE  1","President","","Libertarian","GARY JOHNSON","20"
-"BOONE","BELVIDERE  6","President","","Republican","DONALD J. TRUMP","184"
-"BOONE","BONUS 1","President","","Green","JILL STEIN","6"
-"BOONE","BELVIDERE 14","President","","NonPartisan","Write-in","7"
-"BOONE","SPRING","President","","Green","JILL STEIN","5"
-"BOONE","BELVIDERE 19","President","","Libertarian","GARY JOHNSON","27"
-"BOONE","BELVIDERE  7","President","","NonPartisan","Write-in","8"
-"BOONE","BELVIDERE 21","President","","Green","JILL STEIN","4"
-"BOONE","ELECTIONS OFFICE","President","","Green","JILL STEIN","0"
-"BOONE","BELVIDERE  9","President","","Libertarian","GARY JOHNSON","23"
-"BOONE","BELVIDERE 17","President","","NonPartisan","Write-in","23"
-"BOONE","BELVIDERE  4","President","","Green","JILL STEIN","7"
-"BOONE","BELVIDERE 10","President","","Libertarian","GARY JOHNSON","10"
-"BOONE","BELVIDERE 16","President","","NonPartisan","Write-in","19"
-"BOONE","MANCHESTER","President","","NonPartisan","Write-in","4"
-"BOONE","POPLAR GROVE 2","President","","Democrat","HILLARY RODHAM CLINTON","104"
-"BOONE","BELVIDERE 18","President","","Republican","DONALD J. TRUMP","367"
-"BOONE","BELVIDERE  5","President","","Libertarian","GARY JOHNSON","12"
-"BOONE","BONUS 1","President","","Libertarian","GARY JOHNSON","15"
-"BOONE","BELVIDERE  1","President","","Democrat","HILLARY RODHAM CLINTON","196"
-"BOONE","BELVIDERE 19","President","","Democrat","HILLARY RODHAM CLINTON","192"
-"BOONE","POPLAR GROVE 3","President","","Democrat","HILLARY RODHAM CLINTON","178"
-"BOONE","BELVIDERE 12","President","","Republican","DONALD J. TRUMP","438"
-"BOONE","BELVIDERE 19","President","","Republican","DONALD J. TRUMP","385"
-"BOONE","POPLAR GROVE 3","President","","Republican","DONALD J. TRUMP","231"
-"BOONE","BELVIDERE 18","President","","Green","JILL STEIN","1"
-"BOONE","POPLAR GROVE 2","President","","Green","JILL STEIN","3"
-"BOONE","BELVIDERE  6","President","","Libertarian","GARY JOHNSON","20"
-"BOONE","BONUS 2","President","","Libertarian","GARY JOHNSON","23"
-"BOONE","BELVIDERE  9","President","","NonPartisan","Write-in","7"
-"BOONE","BELVIDERE 20","President","","NonPartisan","Write-in","10"
-"BOONE","BOONE 1","President","","Democrat","HILLARY RODHAM CLINTON","86"
-"BOONE","BELVIDERE  8","President","","Republican","DONALD J. TRUMP","191"
-"BOONE","BELVIDERE  7","President","","Green","JILL STEIN","15"
-"BOONE","BELVIDERE  9","President","","Democrat","HILLARY RODHAM CLINTON","200"
-"BOONE","BELVIDERE  9","President","","Republican","DONALD J. TRUMP","216"
-"BOONE","BOONE 2","President","","Republican","DONALD J. TRUMP","200"
-"BOONE","BELVIDERE  8","President","","NonPartisan","Write-in","4"
-"BOONE","MANCHESTER","President","","Democrat","HILLARY RODHAM CLINTON","171"
-"BOONE","LE ROY","President","","Green","JILL STEIN","3"
-"BOONE","BELVIDERE 22","President","","Democrat","HILLARY RODHAM CLINTON","235"
-"BOONE","BELVIDERE 10","President","","Green","JILL STEIN","2"
-"BOONE","BELVIDERE 16","President","","Libertarian","GARY JOHNSON","57"
-"BOONE","BELVIDERE 10","President","","NonPartisan","Write-in","3"
-"BOONE","BOONE 1","President","","Green","JILL STEIN","8"
-"BOONE","BELVIDERE 14","President","","Libertarian","GARY JOHNSON","12"
-"BOONE","FLORA  2","President","","Libertarian","GARY JOHNSON","27"
-"BOONE","BELVIDERE 22","President","","NonPartisan","Write-in","10"
-"BOONE","BELVIDERE  6","President","","Democrat","HILLARY RODHAM CLINTON","125"
-"BOONE","BONUS 2","President","","Democrat","HILLARY RODHAM CLINTON","180"
-"BOONE","BONUS 2","President","","Republican","DONALD J. TRUMP","334"
-"BOONE","CALEDONIA  2","President","","Libertarian","GARY JOHNSON","51"
-"BOONE","FLORA  2","President","","NonPartisan","Write-in","4"
-"BOONE","BELVIDERE 22","President","","Republican","DONALD J. TRUMP","386"
-"BOONE","BELVIDERE  3","President","","Green","JILL STEIN","1"
-"BOONE","POPLAR GROVE 1","President","","NonPartisan","Write-in","19"
-"BOONE","CALEDONIA  1","President","","Libertarian","GARY JOHNSON","77"
-"BOONE","POPLAR GROVE 1","President","","Libertarian","GARY JOHNSON","89"
-"BOONE","BELVIDERE 20","President","","Democrat","HILLARY RODHAM CLINTON","195"
-"BOONE","SPRING","President","","Democrat","HILLARY RODHAM CLINTON","127"
-"BOONE","BELVIDERE 19","President","","Green","JILL STEIN","4"
-"BOONE","BELVIDERE  1","President","","NonPartisan","Write-in","2"
-"BOONE","POPLAR GROVE 3","President","","NonPartisan","Write-in","6"
+county,precinct,office,district,party,candidate,votes
+BOONE,BELVIDERE 1,State House,4,Republican,JOE SOSNOWSKI,223
+BOONE,BELVIDERE 7,State House,4,Democrat,ANGELIQUE A. BODINE,192
+BOONE,BELVIDERE 14,State House,4,Democrat,ANGELIQUE A. BODINE,155
+BOONE,BELVIDERE 3,State House,4,Democrat,ANGELIQUE A. BODINE,159
+BOONE,BELVIDERE 21,State House,4,Democrat,ANGELIQUE A. BODINE,121
+BOONE,BELVIDERE 4,State House,4,Democrat,ANGELIQUE A. BODINE,262
+BOONE,BELVIDERE 21,State House,4,Republican,JOE SOSNOWSKI,471
+BOONE,BELVIDERE 18,State House,4,Democrat,ANGELIQUE A. BODINE,106
+BOONE,BELVIDERE 17,State House,4,Democrat,ANGELIQUE A. BODINE,426
+BOONE,BOONE 2,State House,4,Republican,JOE SOSNOWSKI,236
+BOONE,BELVIDERE 22,State House,4,Republican,JOE SOSNOWSKI,477
+BOONE,FLORA 2,State House,4,Democrat,ANGELIQUE A. BODINE,143
+BOONE,BELVIDERE 16,State House,4,Republican,JOE SOSNOWSKI,950
+BOONE,BELVIDERE 22,State House,4,Democrat,ANGELIQUE A. BODINE,171
+BOONE,BELVIDERE 3,State House,4,Republican,JOE SOSNOWSKI,164
+BOONE,BELVIDERE 11,State House,4,Republican,JOE SOSNOWSKI,283
+BOONE,BELVIDERE 12,State House,4,Democrat,ANGELIQUE A. BODINE,301
+BOONE,CALEDONIA 3,State House,4,Democrat,ANGELIQUE A. BODINE,260
+BOONE,BELVIDERE 4,State House,4,Republican,JOE SOSNOWSKI,269
+BOONE,BELVIDERE 15,State House,4,Democrat,ANGELIQUE A. BODINE,35
+BOONE,BELVIDERE 20,State House,4,Republican,JOE SOSNOWSKI,509
+BOONE,FLORA 1,State House,4,Republican,JOE SOSNOWSKI,452
+BOONE,BELVIDERE 1,State House,4,Democrat,ANGELIQUE A. BODINE,177
+BOONE,CALEDONIA 2,State House,4,Republican,JOE SOSNOWSKI,514
+BOONE,BELVIDERE 14,State House,4,Republican,JOE SOSNOWSKI,182
+BOONE,FLORA 2,State House,4,Republican,JOE SOSNOWSKI,349
+BOONE,POPLAR GROVE 2,State House,4,Democrat,ANGELIQUE A. BODINE,88
+BOONE,BONUS 2,State House,4,Democrat,ANGELIQUE A. BODINE,4
+BOONE,BELVIDERE 15,State House,4,Republican,JOE SOSNOWSKI,38
+BOONE,BELVIDERE 12,State House,4,Republican,JOE SOSNOWSKI,506
+BOONE,BELVIDERE 19,State House,4,Democrat,ANGELIQUE A. BODINE,123
+BOONE,POPLAR GROVE 3,State House,4,Democrat,ANGELIQUE A. BODINE,165
+BOONE,BELVIDERE 18,State House,4,Republican,JOE SOSNOWSKI,440
+BOONE,CALEDONIA 2,State House,4,Democrat,ANGELIQUE A. BODINE,318
+BOONE,CALEDONIA 1,State House,4,Republican,JOE SOSNOWSKI,1209
+BOONE,BELVIDERE 9,State House,4,Democrat,ANGELIQUE A. BODINE,201
+BOONE,BELVIDERE 16,State House,4,Democrat,ANGELIQUE A. BODINE,412
+BOONE,BOONE 2,State House,4,Democrat,ANGELIQUE A. BODINE,154
+BOONE,BELVIDERE 8,State House,4,Republican,JOE SOSNOWSKI,235
+BOONE,BELVIDERE 5,State House,4,Republican,JOE SOSNOWSKI,151
+BOONE,CALEDONIA 3,State House,4,Republican,JOE SOSNOWSKI,449
+BOONE,BOONE 1,State House,4,Democrat,ANGELIQUE A. BODINE,74
+BOONE,BELVIDERE 8,State House,4,Democrat,ANGELIQUE A. BODINE,292
+BOONE,POPLAR GROVE 2,State House,4,Republican,JOE SOSNOWSKI,218
+BOONE,BELVIDERE 20,State House,4,Democrat,ANGELIQUE A. BODINE,114
+BOONE,BELVIDERE 19,State House,4,Republican,JOE SOSNOWSKI,485
+BOONE,POPLAR GROVE 3,State House,4,Republican,JOE SOSNOWSKI,255
+BOONE,BOONE 1,State House,4,Republican,JOE SOSNOWSKI,226
+BOONE,MANCHESTER,State House,4,Democrat,ANGELIQUE A. BODINE,137
+BOONE,BELVIDERE 6,State House,4,Democrat,ANGELIQUE A. BODINE,125
+BOONE,LE ROY,State House,4,Democrat,ANGELIQUE A. BODINE,72
+BOONE,BELVIDERE 7,State House,4,Republican,JOE SOSNOWSKI,177
+BOONE,BELVIDERE 5,State House,4,Democrat,ANGELIQUE A. BODINE,120
+BOONE,LE ROY,State House,4,Republican,JOE SOSNOWSKI,201
+BOONE,BELVIDERE 17,State House,4,Republican,JOE SOSNOWSKI,883
+BOONE,POPLAR GROVE 1,State House,4,Republican,JOE SOSNOWSKI,811
+BOONE,BELVIDERE 11,State House,4,Democrat,ANGELIQUE A. BODINE,194
+BOONE,BELVIDERE 10,State House,4,Republican,JOE SOSNOWSKI,105
+BOONE,FLORA 1,State House,4,Democrat,ANGELIQUE A. BODINE,326
+BOONE,BELVIDERE 6,State House,4,Republican,JOE SOSNOWSKI,196
+BOONE,BONUS 2,State House,4,Republican,JOE SOSNOWSKI,2
+BOONE,POPLAR GROVE 1,State House,4,Democrat,ANGELIQUE A. BODINE,416
+BOONE,BELVIDERE 9,State House,4,Republican,JOE SOSNOWSKI,249
+BOONE,MANCHESTER,State House,4,Republican,JOE SOSNOWSKI,395
+BOONE,BELVIDERE 2,State House,4,Democrat,ANGELIQUE A. BODINE,162
+BOONE,BELVIDERE 10,State House,4,Democrat,ANGELIQUE A. BODINE,102
+BOONE,BELVIDERE 2,State House,4,Republican,JOE SOSNOWSKI,190
+BOONE,CALEDONIA 1,State House,4,Democrat,ANGELIQUE A. BODINE,450
+BOONE,BONUS 3,State House,4,NonPartisan,Write-in,29
+BOONE,BONUS 3,State House,4,Republican,ROBERT W. PRITCHARD,764
+BOONE,BONUS 1,State House,4,NonPartisan,Write-in,3
+BOONE,BELVIDERE 13,State House,4,Republican,ROBERT W. PRITCHARD,275
+BOONE,BONUS 2,State House,4,Republican,ROBERT W. PRITCHARD,438
+BOONE,SPRING,State House,4,Republican,ROBERT W. PRITCHARD,381
+BOONE,BELVIDERE 15,State House,4,NonPartisan,Write-in,4
+BOONE,BONUS 2,State House,4,NonPartisan,Write-in,2
+BOONE,BELVIDERE 15,State House,4,Republican,ROBERT W. PRITCHARD,413
+BOONE,BONUS 1,State House,4,Republican,ROBERT W. PRITCHARD,337
+BOONE,BELVIDERE 13,State House,4,NonPartisan,Write-in,0
+BOONE,SPRING,State House,4,NonPartisan,Write-in,3
+BOONE,BELVIDERE 6,State Senate,4,Republican,DAVE SYVERSON,265
+BOONE,LE ROY,State Senate,4,Republican,DAVE SYVERSON,238
+BOONE,BELVIDERE 18,State Senate,4,Republican,DAVE SYVERSON,484
+BOONE,BELVIDERE 13,State Senate,4,Republican,DAVE SYVERSON,284
+BOONE,FLORA 1,State Senate,4,Republican,DAVE SYVERSON,621
+BOONE,BONUS 2,State Senate,4,Republican,DAVE SYVERSON,453
+BOONE,BOONE 1,State Senate,4,Republican,DAVE SYVERSON,256
+BOONE,POPLAR GROVE 2,State Senate,4,Republican,DAVE SYVERSON,268
+BOONE,BELVIDERE 16,State Senate,4,Republican,DAVE SYVERSON,1170
+BOONE,MANCHESTER,State Senate,4,Republican,DAVE SYVERSON,462
+BOONE,BELVIDERE 4,State Senate,4,Republican,DAVE SYVERSON,410
+BOONE,BELVIDERE 7,State Senate,4,Republican,DAVE SYVERSON,300
+BOONE,BONUS 3,State Senate,4,Republican,DAVE SYVERSON,791
+BOONE,BELVIDERE 3,State Senate,4,Republican,DAVE SYVERSON,259
+BOONE,BELVIDERE 21,State Senate,4,Republican,DAVE SYVERSON,527
+BOONE,CALEDONIA 1,State Senate,4,Republican,DAVE SYVERSON,1408
+BOONE,BELVIDERE 1,State Senate,4,Republican,DAVE SYVERSON,321
+BOONE,BELVIDERE 8,State Senate,4,Republican,DAVE SYVERSON,407
+BOONE,BELVIDERE 10,State Senate,4,Republican,DAVE SYVERSON,170
+BOONE,POPLAR GROVE 3,State Senate,4,Republican,DAVE SYVERSON,356
+BOONE,BELVIDERE 11,State Senate,4,Republican,DAVE SYVERSON,408
+BOONE,CALEDONIA 2,State Senate,4,Republican,DAVE SYVERSON,720
+BOONE,BELVIDERE 20,State Senate,4,Republican,DAVE SYVERSON,546
+BOONE,SPRING,State Senate,4,Republican,DAVE SYVERSON,395
+BOONE,BONUS 1,State Senate,4,Republican,DAVE SYVERSON,345
+BOONE,CALEDONIA 3,State Senate,4,Republican,DAVE SYVERSON,625
+BOONE,BELVIDERE 9,State Senate,4,Republican,DAVE SYVERSON,390
+BOONE,BOONE 2,State Senate,4,Republican,DAVE SYVERSON,335
+BOONE,FLORA 2,State Senate,4,Republican,DAVE SYVERSON,422
+BOONE,BELVIDERE 14,State Senate,4,Republican,DAVE SYVERSON,278
+BOONE,BELVIDERE 17,State Senate,4,Republican,DAVE SYVERSON,1117
+BOONE,POPLAR GROVE 1,State Senate,4,Republican,DAVE SYVERSON,1081
+BOONE,BELVIDERE 15,State Senate,4,Republican,DAVE SYVERSON,481
+BOONE,BELVIDERE 5,State Senate,4,Republican,DAVE SYVERSON,226
+BOONE,BELVIDERE 2,State Senate,4,Republican,DAVE SYVERSON,291
+BOONE,BELVIDERE 12,State Senate,4,Republican,DAVE SYVERSON,670
+BOONE,BELVIDERE 19,State Senate,4,Republican,DAVE SYVERSON,536
+BOONE,BELVIDERE 22,State Senate,4,Republican,DAVE SYVERSON,554
+BOONE,CALEDONIA 3,U.S. House,4,Republican,ADAM KINZINGER,629
+BOONE,BONUS 2,U.S. House,4,NonPartisan,Write-in,8
+BOONE,BELVIDERE 6,U.S. House,4,Republican,ADAM KINZINGER,264
+BOONE,BELVIDERE 5,U.S. House,4,NonPartisan,Write-in,6
+BOONE,FLORA 1,U.S. House,4,NonPartisan,Write-in,16
+BOONE,BONUS 3,U.S. House,4,Republican,ADAM KINZINGER,782
+BOONE,CALEDONIA 1,U.S. House,4,NonPartisan,Write-in,20
+BOONE,BELVIDERE 2,U.S. House,4,Republican,ADAM KINZINGER,294
+BOONE,BELVIDERE 20,U.S. House,4,Republican,ADAM KINZINGER,569
+BOONE,BONUS 1,U.S. House,4,NonPartisan,Write-in,3
+BOONE,BELVIDERE 21,U.S. House,4,Republican,ADAM KINZINGER,537
+BOONE,LE ROY,U.S. House,4,NonPartisan,Write-in,3
+BOONE,POPLAR GROVE 3,U.S. House,4,Republican,ADAM KINZINGER,359
+BOONE,BELVIDERE 9,U.S. House,4,NonPartisan,Write-in,13
+BOONE,BELVIDERE 4,U.S. House,4,NonPartisan,Write-in,8
+BOONE,CALEDONIA 1,U.S. House,4,Republican,ADAM KINZINGER,1450
+BOONE,POPLAR GROVE 2,U.S. House,4,Republican,ADAM KINZINGER,266
+BOONE,POPLAR GROVE 1,U.S. House,4,NonPartisan,Write-in,22
+BOONE,MANCHESTER,U.S. House,4,Republican,ADAM KINZINGER,464
+BOONE,BELVIDERE 12,U.S. House,4,NonPartisan,Write-in,16
+BOONE,BELVIDERE 1,U.S. House,4,Republican,ADAM KINZINGER,325
+BOONE,BELVIDERE 19,U.S. House,4,Republican,ADAM KINZINGER,542
+BOONE,BOONE 2,U.S. House,4,NonPartisan,Write-in,7
+BOONE,POPLAR GROVE 1,U.S. House,4,Republican,ADAM KINZINGER,1078
+BOONE,BELVIDERE 11,U.S. House,4,NonPartisan,Write-in,11
+BOONE,BELVIDERE 17,U.S. House,4,Republican,ADAM KINZINGER,1127
+BOONE,BONUS 2,U.S. House,4,Republican,ADAM KINZINGER,460
+BOONE,BELVIDERE 18,U.S. House,4,NonPartisan,Write-in,7
+BOONE,POPLAR GROVE 2,U.S. House,4,NonPartisan,Write-in,5
+BOONE,BELVIDERE 15,U.S. House,4,Republican,ADAM KINZINGER,473
+BOONE,BELVIDERE 14,U.S. House,4,NonPartisan,Write-in,4
+BOONE,BOONE 2,U.S. House,4,Republican,ADAM KINZINGER,332
+BOONE,BELVIDERE 1,U.S. House,4,NonPartisan,Write-in,7
+BOONE,BELVIDERE 8,U.S. House,4,NonPartisan,Write-in,15
+BOONE,BOONE 1,U.S. House,4,NonPartisan,Write-in,1
+BOONE,BELVIDERE 19,U.S. House,4,NonPartisan,Write-in,8
+BOONE,BELVIDERE 10,U.S. House,4,Republican,ADAM KINZINGER,168
+BOONE,BELVIDERE 7,U.S. House,4,Republican,ADAM KINZINGER,306
+BOONE,BELVIDERE 2,U.S. House,4,NonPartisan,Write-in,12
+BOONE,CALEDONIA 2,U.S. House,4,NonPartisan,Write-in,19
+BOONE,BELVIDERE 13,U.S. House,4,Republican,ADAM KINZINGER,281
+BOONE,FLORA 1,U.S. House,4,Republican,ADAM KINZINGER,615
+BOONE,BELVIDERE 14,U.S. House,4,Republican,ADAM KINZINGER,272
+BOONE,FLORA 2,U.S. House,4,Republican,ADAM KINZINGER,430
+BOONE,BELVIDERE 22,U.S. House,4,NonPartisan,Write-in,5
+BOONE,POPLAR GROVE 3,U.S. House,4,NonPartisan,Write-in,11
+BOONE,BELVIDERE 17,U.S. House,4,NonPartisan,Write-in,17
+BOONE,BELVIDERE 16,U.S. House,4,Republican,ADAM KINZINGER,1187
+BOONE,CALEDONIA 3,U.S. House,4,NonPartisan,Write-in,9
+BOONE,BELVIDERE 12,U.S. House,4,Republican,ADAM KINZINGER,677
+BOONE,BELVIDERE 6,U.S. House,4,NonPartisan,Write-in,8
+BOONE,BELVIDERE 9,U.S. House,4,Republican,ADAM KINZINGER,382
+BOONE,BELVIDERE 3,U.S. House,4,Republican,ADAM KINZINGER,260
+BOONE,BELVIDERE 15,U.S. House,4,NonPartisan,Write-in,14
+BOONE,BELVIDERE 3,U.S. House,4,NonPartisan,Write-in,9
+BOONE,BELVIDERE 21,U.S. House,4,NonPartisan,Write-in,8
+BOONE,SPRING,U.S. House,4,Republican,ADAM KINZINGER,396
+BOONE,BELVIDERE 16,U.S. House,4,NonPartisan,Write-in,21
+BOONE,MANCHESTER,U.S. House,4,NonPartisan,Write-in,9
+BOONE,BELVIDERE 22,U.S. House,4,Republican,ADAM KINZINGER,559
+BOONE,BELVIDERE 4,U.S. House,4,Republican,ADAM KINZINGER,420
+BOONE,FLORA 2,U.S. House,4,NonPartisan,Write-in,7
+BOONE,BELVIDERE 7,U.S. House,4,NonPartisan,Write-in,5
+BOONE,BELVIDERE 8,U.S. House,4,Republican,ADAM KINZINGER,406
+BOONE,LE ROY,U.S. House,4,Republican,ADAM KINZINGER,236
+BOONE,BELVIDERE 20,U.S. House,4,NonPartisan,Write-in,6
+BOONE,BELVIDERE 5,U.S. House,4,Republican,ADAM KINZINGER,223
+BOONE,BONUS 1,U.S. House,4,Republican,ADAM KINZINGER,342
+BOONE,BELVIDERE 13,U.S. House,4,NonPartisan,Write-in,2
+BOONE,BELVIDERE 18,U.S. House,4,Republican,ADAM KINZINGER,484
+BOONE,BELVIDERE 10,U.S. House,4,NonPartisan,Write-in,5
+BOONE,BOONE 1,U.S. House,4,Republican,ADAM KINZINGER,261
+BOONE,SPRING,U.S. House,4,NonPartisan,Write-in,6
+BOONE,BELVIDERE 11,U.S. House,4,Republican,ADAM KINZINGER,411
+BOONE,CALEDONIA 2,U.S. House,4,Republican,ADAM KINZINGER,724
+BOONE,BONUS 3,U.S. House,4,NonPartisan,Write-in,36
+BOONE,POPLAR GROVE 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,467
+BOONE,LE ROY,U.S. Senate,,Republican,MARK STEVEN KIRK,185
+BOONE,BELVIDERE 17,U.S. Senate,,Green,SCOTT SUMMERS,30
+BOONE,BELVIDERE 9,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BELVIDERE 1,U.S. Senate,,Republican,MARK STEVEN KIRK,191
+BOONE,BELVIDERE 19,U.S. Senate,,Republican,MARK STEVEN KIRK,424
+BOONE,BOONE 1,U.S. Senate,,Republican,MARK STEVEN KIRK,190
+BOONE,CALEDONIA 1,U.S. Senate,,Green,SCOTT SUMMERS,34
+BOONE,BELVIDERE 11,U.S. Senate,,Republican,MARK STEVEN KIRK,236
+BOONE,BELVIDERE 1,U.S. Senate,,Libertarian,KENTON McMILLEN,21
+BOONE,BELVIDERE 19,U.S. Senate,,Libertarian,KENTON McMILLEN,23
+BOONE,BELVIDERE 3,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BELVIDERE 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,174
+BOONE,LE ROY,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BELVIDERE 16,U.S. Senate,,Democrat,TAMMY DUCKWORTH,509
+BOONE,BELVIDERE 7,U.S. Senate,,Republican,MARK STEVEN KIRK,146
+BOONE,BELVIDERE 9,U.S. Senate,,Green,SCOTT SUMMERS,16
+BOONE,BELVIDERE 15,U.S. Senate,,Libertarian,KENTON McMILLEN,24
+BOONE,BELVIDERE 17,U.S. Senate,,NonPartisan,Write-in,2
+BOONE,POPLAR GROVE 1,U.S. Senate,,NonPartisan,Write-in,3
+BOONE,BELVIDERE 4,U.S. Senate,,Green,SCOTT SUMMERS,19
+BOONE,BELVIDERE 22,U.S. Senate,,Green,SCOTT SUMMERS,10
+BOONE,BELVIDERE 10,U.S. Senate,,Libertarian,KENTON McMILLEN,9
+BOONE,BELVIDERE 6,U.S. Senate,,Democrat,TAMMY DUCKWORTH,121
+BOONE,BELVIDERE 22,U.S. Senate,,Republican,MARK STEVEN KIRK,401
+BOONE,BELVIDERE 8,U.S. Senate,,Green,SCOTT SUMMERS,16
+BOONE,FLORA 2,U.S. Senate,,Libertarian,KENTON McMILLEN,19
+BOONE,CALEDONIA 2,U.S. Senate,,Green,SCOTT SUMMERS,21
+BOONE,BELVIDERE 17,U.S. Senate,,Libertarian,KENTON McMILLEN,42
+BOONE,BELVIDERE 12,U.S. Senate,,Democrat,TAMMY DUCKWORTH,328
+BOONE,CALEDONIA 1,U.S. Senate,,Republican,MARK STEVEN KIRK,1056
+BOONE,BELVIDERE 12,U.S. Senate,,Green,SCOTT SUMMERS,21
+BOONE,BELVIDERE 18,U.S. Senate,,Libertarian,KENTON McMILLEN,23
+BOONE,CALEDONIA 2,U.S. Senate,,Libertarian,KENTON McMILLEN,42
+BOONE,BOONE 2,U.S. Senate,,Green,SCOTT SUMMERS,15
+BOONE,LE ROY,U.S. Senate,,Libertarian,KENTON McMILLEN,10
+BOONE,BELVIDERE 2,U.S. Senate,,Republican,MARK STEVEN KIRK,165
+BOONE,BELVIDERE 20,U.S. Senate,,Republican,MARK STEVEN KIRK,433
+BOONE,CALEDONIA 1,U.S. Senate,,Libertarian,KENTON McMILLEN,50
+BOONE,BELVIDERE 12,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BELVIDERE 14,U.S. Senate,,Green,SCOTT SUMMERS,13
+BOONE,FLORA 2,U.S. Senate,,Green,SCOTT SUMMERS,12
+BOONE,FLORA 1,U.S. Senate,,Libertarian,KENTON McMILLEN,27
+BOONE,POPLAR GROVE 3,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BELVIDERE 19,U.S. Senate,,Democrat,TAMMY DUCKWORTH,161
+BOONE,POPLAR GROVE 3,U.S. Senate,,Democrat,TAMMY DUCKWORTH,185
+BOONE,BELVIDERE 10,U.S. Senate,,Republican,MARK STEVEN KIRK,80
+BOONE,BELVIDERE 1,U.S. Senate,,Green,SCOTT SUMMERS,16
+BOONE,BELVIDERE 3,U.S. Senate,,Democrat,TAMMY DUCKWORTH,160
+BOONE,BELVIDERE 21,U.S. Senate,,Democrat,TAMMY DUCKWORTH,165
+BOONE,POPLAR GROVE 3,U.S. Senate,,Republican,MARK STEVEN KIRK,214
+BOONE,BELVIDERE 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,153
+BOONE,BELVIDERE 18,U.S. Senate,,Republican,MARK STEVEN KIRK,383
+BOONE,POPLAR GROVE 2,U.S. Senate,,Republican,MARK STEVEN KIRK,190
+BOONE,SPRING,U.S. Senate,,Green,SCOTT SUMMERS,6
+BOONE,BELVIDERE 16,U.S. Senate,,Libertarian,KENTON McMILLEN,44
+BOONE,BELVIDERE 7,U.S. Senate,,Democrat,TAMMY DUCKWORTH,181
+BOONE,BONUS 3,U.S. Senate,,Democrat,TAMMY DUCKWORTH,448
+BOONE,MANCHESTER,U.S. Senate,,Republican,MARK STEVEN KIRK,355
+BOONE,BELVIDERE 18,U.S. Senate,,Green,SCOTT SUMMERS,8
+BOONE,BONUS 2,U.S. Senate,,Libertarian,KENTON McMILLEN,22
+BOONE,BOONE 1,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BELVIDERE 15,U.S. Senate,,Democrat,TAMMY DUCKWORTH,251
+BOONE,BELVIDERE 3,U.S. Senate,,Libertarian,KENTON McMILLEN,19
+BOONE,BELVIDERE 11,U.S. Senate,,NonPartisan,Write-in,2
+BOONE,POPLAR GROVE 2,U.S. Senate,,Libertarian,KENTON McMILLEN,13
+BOONE,BELVIDERE 22,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BONUS 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,133
+BOONE,FLORA 2,U.S. Senate,,Republican,MARK STEVEN KIRK,314
+BOONE,BELVIDERE 22,U.S. Senate,,Libertarian,KENTON McMILLEN,23
+BOONE,BELVIDERE 10,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,CALEDONIA 1,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BELVIDERE 2,U.S. Senate,,Green,SCOTT SUMMERS,15
+BOONE,BELVIDERE 20,U.S. Senate,,Green,SCOTT SUMMERS,7
+BOONE,BELVIDERE 8,U.S. Senate,,Libertarian,KENTON McMILLEN,32
+BOONE,BELVIDERE 7,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BONUS 3,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,CALEDONIA 3,U.S. Senate,,Democrat,TAMMY DUCKWORTH,259
+BOONE,BELVIDERE 3,U.S. Senate,,Republican,MARK STEVEN KIRK,142
+BOONE,BELVIDERE 21,U.S. Senate,,Republican,MARK STEVEN KIRK,406
+BOONE,FLORA 1,U.S. Senate,,Republican,MARK STEVEN KIRK,377
+BOONE,BELVIDERE 21,U.S. Senate,,Libertarian,KENTON McMILLEN,24
+BOONE,CALEDONIA 2,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BELVIDERE 10,U.S. Senate,,Democrat,TAMMY DUCKWORTH,117
+BOONE,CALEDONIA 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,559
+BOONE,BELVIDERE 8,U.S. Senate,,Republican,MARK STEVEN KIRK,198
+BOONE,BELVIDERE 10,U.S. Senate,,Green,SCOTT SUMMERS,4
+BOONE,MANCHESTER,U.S. Senate,,Libertarian,KENTON McMILLEN,14
+BOONE,BELVIDERE 6,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BONUS 2,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BELVIDERE 7,U.S. Senate,,Green,SCOTT SUMMERS,18
+BOONE,SPRING,U.S. Senate,,Libertarian,KENTON McMILLEN,26
+BOONE,BELVIDERE 1,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BELVIDERE 19,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BELVIDERE 8,U.S. Senate,,Democrat,TAMMY DUCKWORTH,293
+BOONE,BELVIDERE 15,U.S. Senate,,Republican,MARK STEVEN KIRK,278
+BOONE,POPLAR GROVE 1,U.S. Senate,,Green,SCOTT SUMMERS,38
+BOONE,BELVIDERE 5,U.S. Senate,,Libertarian,KENTON McMILLEN,7
+BOONE,BELVIDERE 14,U.S. Senate,,Democrat,TAMMY DUCKWORTH,163
+BOONE,FLORA 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,152
+BOONE,BELVIDERE 5,U.S. Senate,,Republican,MARK STEVEN KIRK,130
+BOONE,BONUS 1,U.S. Senate,,Republican,MARK STEVEN KIRK,234
+BOONE,BONUS 3,U.S. Senate,,Green,SCOTT SUMMERS,34
+BOONE,BELVIDERE 13,U.S. Senate,,Libertarian,KENTON McMILLEN,11
+BOONE,BELVIDERE 5,U.S. Senate,,Green,SCOTT SUMMERS,9
+BOONE,CALEDONIA 3,U.S. Senate,,Green,SCOTT SUMMERS,15
+BOONE,BELVIDERE 11,U.S. Senate,,Libertarian,KENTON McMILLEN,22
+BOONE,BELVIDERE 4,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BELVIDERE 11,U.S. Senate,,Green,SCOTT SUMMERS,14
+BOONE,BELVIDERE 16,U.S. Senate,,NonPartisan,Write-in,4
+BOONE,MANCHESTER,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BELVIDERE 18,U.S. Senate,,Democrat,TAMMY DUCKWORTH,135
+BOONE,POPLAR GROVE 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,106
+BOONE,BELVIDERE 9,U.S. Senate,,Republican,MARK STEVEN KIRK,227
+BOONE,BOONE 2,U.S. Senate,,Republican,MARK STEVEN KIRK,213
+BOONE,POPLAR GROVE 1,U.S. Senate,,Libertarian,KENTON McMILLEN,59
+BOONE,BELVIDERE 5,U.S. Senate,,Democrat,TAMMY DUCKWORTH,129
+BOONE,BELVIDERE 14,U.S. Senate,,Republican,MARK STEVEN KIRK,159
+BOONE,BELVIDERE 16,U.S. Senate,,Green,SCOTT SUMMERS,26
+BOONE,BONUS 1,U.S. Senate,,Green,SCOTT SUMMERS,11
+BOONE,MANCHESTER,U.S. Senate,,Green,SCOTT SUMMERS,11
+BOONE,BELVIDERE 4,U.S. Senate,,Libertarian,KENTON McMILLEN,22
+BOONE,BELVIDERE 12,U.S. Senate,,Republican,MARK STEVEN KIRK,446
+BOONE,BELVIDERE 21,U.S. Senate,,Green,SCOTT SUMMERS,9
+BOONE,BELVIDERE 2,U.S. Senate,,Libertarian,KENTON McMILLEN,24
+BOONE,BELVIDERE 20,U.S. Senate,,Libertarian,KENTON McMILLEN,23
+BOONE,BOONE 2,U.S. Senate,,Libertarian,KENTON McMILLEN,27
+BOONE,FLORA 1,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BELVIDERE 16,U.S. Senate,,Republican,MARK STEVEN KIRK,805
+BOONE,POPLAR GROVE 2,U.S. Senate,,Green,SCOTT SUMMERS,5
+BOONE,BELVIDERE 6,U.S. Senate,,Libertarian,KENTON McMILLEN,21
+BOONE,BELVIDERE 17,U.S. Senate,,Democrat,TAMMY DUCKWORTH,497
+BOONE,BONUS 1,U.S. Senate,,Libertarian,KENTON McMILLEN,16
+BOONE,BOONE 2,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BELVIDERE 6,U.S. Senate,,Green,SCOTT SUMMERS,10
+BOONE,BELVIDERE 12,U.S. Senate,,Libertarian,KENTON McMILLEN,38
+BOONE,BELVIDERE 20,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,SPRING,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,LE ROY,U.S. Senate,,Democrat,TAMMY DUCKWORTH,77
+BOONE,BELVIDERE 13,U.S. Senate,,Republican,MARK STEVEN KIRK,160
+BOONE,BELVIDERE 15,U.S. Senate,,Green,SCOTT SUMMERS,18
+BOONE,LE ROY,U.S. Senate,,Green,SCOTT SUMMERS,7
+BOONE,MANCHESTER,U.S. Senate,,Democrat,TAMMY DUCKWORTH,157
+BOONE,BONUS 3,U.S. Senate,,Republican,MARK STEVEN KIRK,434
+BOONE,BELVIDERE 3,U.S. Senate,,Green,SCOTT SUMMERS,9
+BOONE,BELVIDERE 9,U.S. Senate,,Libertarian,KENTON McMILLEN,24
+BOONE,CALEDONIA 3,U.S. Senate,,Republican,MARK STEVEN KIRK,415
+BOONE,BELVIDERE 13,U.S. Senate,,NonPartisan,Write-in,2
+BOONE,BOONE 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,91
+BOONE,BELVIDERE 6,U.S. Senate,,Republican,MARK STEVEN KIRK,177
+BOONE,BONUS 2,U.S. Senate,,Republican,MARK STEVEN KIRK,329
+BOONE,BOONE 1,U.S. Senate,,Green,SCOTT SUMMERS,10
+BOONE,BELVIDERE 14,U.S. Senate,,Libertarian,KENTON McMILLEN,12
+BOONE,BELVIDERE 18,U.S. Senate,,NonPartisan,Write-in,2
+BOONE,POPLAR GROVE 2,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BELVIDERE 4,U.S. Senate,,Democrat,TAMMY DUCKWORTH,278
+BOONE,BELVIDERE 11,U.S. Senate,,Democrat,TAMMY DUCKWORTH,215
+BOONE,BELVIDERE 22,U.S. Senate,,Democrat,TAMMY DUCKWORTH,218
+BOONE,CALEDONIA 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,333
+BOONE,SPRING,U.S. Senate,,Republican,MARK STEVEN KIRK,276
+BOONE,BELVIDERE 5,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BONUS 1,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,CALEDONIA 3,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BELVIDERE 17,U.S. Senate,,Republican,MARK STEVEN KIRK,766
+BOONE,POPLAR GROVE 1,U.S. Senate,,Republican,MARK STEVEN KIRK,681
+BOONE,BELVIDERE 19,U.S. Senate,,Green,SCOTT SUMMERS,10
+BOONE,POPLAR GROVE 3,U.S. Senate,,Green,SCOTT SUMMERS,10
+BOONE,BELVIDERE 7,U.S. Senate,,Libertarian,KENTON McMILLEN,24
+BOONE,BONUS 3,U.S. Senate,,Libertarian,KENTON McMILLEN,56
+BOONE,BELVIDERE 15,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BELVIDERE 13,U.S. Senate,,Democrat,TAMMY DUCKWORTH,144
+BOONE,BELVIDERE 20,U.S. Senate,,Democrat,TAMMY DUCKWORTH,161
+BOONE,SPRING,U.S. Senate,,Democrat,TAMMY DUCKWORTH,133
+BOONE,BELVIDERE 13,U.S. Senate,,Green,SCOTT SUMMERS,13
+BOONE,BELVIDERE 14,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,FLORA 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,351
+BOONE,CALEDONIA 2,U.S. Senate,,Republican,MARK STEVEN KIRK,470
+BOONE,FLORA 1,U.S. Senate,,Green,SCOTT SUMMERS,28
+BOONE,POPLAR GROVE 3,U.S. Senate,,Libertarian,KENTON McMILLEN,27
+BOONE,BELVIDERE 21,U.S. Senate,,NonPartisan,Write-in,0
+BOONE,BONUS 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,181
+BOONE,BELVIDERE 4,U.S. Senate,,Republican,MARK STEVEN KIRK,234
+BOONE,BONUS 2,U.S. Senate,,Green,SCOTT SUMMERS,10
+BOONE,CALEDONIA 3,U.S. Senate,,Libertarian,KENTON McMILLEN,35
+BOONE,BELVIDERE 2,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BELVIDERE 8,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BELVIDERE 9,U.S. Senate,,Democrat,TAMMY DUCKWORTH,188
+BOONE,BOONE 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,136
+BOONE,BOONE 1,U.S. Senate,,Libertarian,KENTON McMILLEN,17
+BOONE,FLORA 2,U.S. Senate,,NonPartisan,Write-in,1
+BOONE,BONUS 3,President,,Democrat,HILLARY RODHAM CLINTON,456
+BOONE,BONUS 3,President,,Republican,DONALD J. TRUMP,458
+BOONE,BONUS 2,President,,Green,JILL STEIN,1
+BOONE,FLORA 1,President,,Green,JILL STEIN,8
+BOONE,BELVIDERE 12,President,,Libertarian,GARY JOHNSON,32
+BOONE,CALEDONIA 3,President,,Libertarian,GARY JOHNSON,32
+BOONE,BONUS 2,President,,NonPartisan,Write-in,9
+BOONE,BELVIDERE 2,President,,Democrat,HILLARY RODHAM CLINTON,153
+BOONE,BELVIDERE 2,President,,Republican,DONALD J. TRUMP,176
+BOONE,BELVIDERE 20,President,,Republican,DONALD J. TRUMP,389
+BOONE,BELVIDERE 1,President,,Green,JILL STEIN,7
+BOONE,BONUS 3,President,,Libertarian,GARY JOHNSON,48
+BOONE,MANCHESTER,President,,Republican,DONALD J. TRUMP,350
+BOONE,BELVIDERE 22,President,,Green,JILL STEIN,2
+BOONE,BELVIDERE 3,President,,Libertarian,GARY JOHNSON,22
+BOONE,BELVIDERE 21,President,,Libertarian,GARY JOHNSON,26
+BOONE,LE ROY,President,,NonPartisan,Write-in,2
+BOONE,BELVIDERE 5,President,,Democrat,HILLARY RODHAM CLINTON,131
+BOONE,BELVIDERE 5,President,,Republican,DONALD J. TRUMP,134
+BOONE,BONUS 1,President,,Republican,DONALD J. TRUMP,232
+BOONE,BELVIDERE 11,President,,Green,JILL STEIN,18
+BOONE,CALEDONIA 3,President,,Republican,DONALD J. TRUMP,413
+BOONE,BELVIDERE 2,President,,NonPartisan,Write-in,8
+BOONE,BELVIDERE 13,President,,Republican,DONALD J. TRUMP,149
+BOONE,FLORA 1,President,,Republican,DONALD J. TRUMP,387
+BOONE,BELVIDERE 18,President,,Libertarian,GARY JOHNSON,28
+BOONE,BOONE 1,President,,NonPartisan,Write-in,4
+BOONE,BELVIDERE 16,President,,Democrat,HILLARY RODHAM CLINTON,521
+BOONE,BELVIDERE 16,President,,Republican,DONALD J. TRUMP,795
+BOONE,BELVIDERE 15,President,,Green,JILL STEIN,7
+BOONE,ELECTIONS OFFICE,President,,Libertarian,GARY JOHNSON,0
+BOONE,BELVIDERE 15,President,,NonPartisan,Write-in,7
+BOONE,POPLAR GROVE 2,President,,Republican,DONALD J. TRUMP,189
+BOONE,POPLAR GROVE 1,President,,Green,JILL STEIN,24
+BOONE,BELVIDERE 13,President,,NonPartisan,Write-in,6
+BOONE,SPRING,President,,NonPartisan,Write-in,11
+BOONE,BELVIDERE 15,President,,Republican,DONALD J. TRUMP,285
+BOONE,BELVIDERE 14,President,,Green,JILL STEIN,7
+BOONE,FLORA 2,President,,Green,JILL STEIN,4
+BOONE,SPRING,President,,Libertarian,GARY JOHNSON,15
+BOONE,BELVIDERE 5,President,,Green,JILL STEIN,3
+BOONE,BELVIDERE 11,President,,Libertarian,GARY JOHNSON,23
+BOONE,BOONE 2,President,,Democrat,HILLARY RODHAM CLINTON,161
+BOONE,BELVIDERE 8,President,,Green,JILL STEIN,11
+BOONE,BELVIDERE 4,President,,NonPartisan,Write-in,5
+BOONE,LE ROY,President,,Democrat,HILLARY RODHAM CLINTON,75
+BOONE,LE ROY,President,,Republican,DONALD J. TRUMP,191
+BOONE,BELVIDERE 2,President,,Libertarian,GARY JOHNSON,12
+BOONE,BELVIDERE 5,President,,NonPartisan,Write-in,4
+BOONE,BONUS 1,President,,NonPartisan,Write-in,9
+BOONE,BELVIDERE 4,President,,Democrat,HILLARY RODHAM CLINTON,292
+BOONE,BELVIDERE 4,President,,Republican,DONALD J. TRUMP,242
+BOONE,BOONE 2,President,,Libertarian,GARY JOHNSON,27
+BOONE,BELVIDERE 17,President,,Republican,DONALD J. TRUMP,728
+BOONE,BELVIDERE 7,President,,Democrat,HILLARY RODHAM CLINTON,191
+BOONE,BELVIDERE 7,President,,Republican,DONALD J. TRUMP,149
+BOONE,BELVIDERE 13,President,,Green,JILL STEIN,8
+BOONE,POPLAR GROVE 3,President,,Libertarian,GARY JOHNSON,18
+BOONE,BELVIDERE 6,President,,NonPartisan,Write-in,5
+BOONE,CALEDONIA 1,President,,Democrat,HILLARY RODHAM CLINTON,632
+BOONE,BOONE 2,President,,Green,JILL STEIN,4
+BOONE,LE ROY,President,,Libertarian,GARY JOHNSON,14
+BOONE,BELVIDERE 3,President,,NonPartisan,Write-in,3
+BOONE,BELVIDERE 18,President,,Democrat,HILLARY RODHAM CLINTON,155
+BOONE,BELVIDERE 17,President,,Green,JILL STEIN,22
+BOONE,FLORA 1,President,,NonPartisan,Write-in,7
+BOONE,BELVIDERE 15,President,,Democrat,HILLARY RODHAM CLINTON,265
+BOONE,BELVIDERE 20,President,,Libertarian,GARY JOHNSON,33
+BOONE,BELVIDERE 11,President,,Democrat,HILLARY RODHAM CLINTON,205
+BOONE,BELVIDERE 11,President,,Republican,DONALD J. TRUMP,243
+BOONE,CALEDONIA 1,President,,NonPartisan,Write-in,30
+BOONE,BELVIDERE 13,President,,Libertarian,GARY JOHNSON,25
+BOONE,BELVIDERE 16,President,,Green,JILL STEIN,24
+BOONE,BELVIDERE 4,President,,Libertarian,GARY JOHNSON,21
+BOONE,BELVIDERE 21,President,,NonPartisan,Write-in,11
+BOONE,ELECTIONS OFFICE,President,,Republican,DONALD J. TRUMP,0
+BOONE,BELVIDERE 20,President,,Green,JILL STEIN,2
+BOONE,BELVIDERE 8,President,,Libertarian,GARY JOHNSON,22
+BOONE,BOONE 1,President,,Libertarian,GARY JOHNSON,17
+BOONE,BONUS 3,President,,NonPartisan,Write-in,8
+BOONE,FLORA 2,President,,Republican,DONALD J. TRUMP,289
+BOONE,BELVIDERE 2,President,,Green,JILL STEIN,15
+BOONE,SPRING,President,,Republican,DONALD J. TRUMP,294
+BOONE,POPLAR GROVE 3,President,,Green,JILL STEIN,10
+BOONE,BELVIDERE 7,President,,Libertarian,GARY JOHNSON,18
+BOONE,BELVIDERE 19,President,,NonPartisan,Write-in,15
+BOONE,BELVIDERE 3,President,,Democrat,HILLARY RODHAM CLINTON,176
+BOONE,CALEDONIA 1,President,,Republican,DONALD J. TRUMP,976
+BOONE,BELVIDERE 9,President,,Green,JILL STEIN,17
+BOONE,BELVIDERE 15,President,,Libertarian,GARY JOHNSON,21
+BOONE,BELVIDERE 11,President,,NonPartisan,Write-in,8
+BOONE,CALEDONIA 2,President,,NonPartisan,Write-in,18
+BOONE,POPLAR GROVE 2,President,,NonPartisan,Write-in,5
+BOONE,BELVIDERE 6,President,,Green,JILL STEIN,6
+BOONE,BELVIDERE 12,President,,Democrat,HILLARY RODHAM CLINTON,355
+BOONE,BOONE 2,President,,NonPartisan,Write-in,7
+BOONE,BELVIDERE 10,President,,Democrat,HILLARY RODHAM CLINTON,122
+BOONE,BELVIDERE 3,President,,Republican,DONALD J. TRUMP,132
+BOONE,BELVIDERE 10,President,,Republican,DONALD J. TRUMP,82
+BOONE,BELVIDERE 21,President,,Republican,DONALD J. TRUMP,359
+BOONE,BELVIDERE 18,President,,NonPartisan,Write-in,6
+BOONE,CALEDONIA 2,President,,Democrat,HILLARY RODHAM CLINTON,349
+BOONE,CALEDONIA 2,President,,Republican,DONALD J. TRUMP,467
+BOONE,CALEDONIA 1,President,,Green,JILL STEIN,11
+BOONE,MANCHESTER,President,,Libertarian,GARY JOHNSON,17
+BOONE,BELVIDERE 13,President,,Democrat,HILLARY RODHAM CLINTON,148
+BOONE,FLORA 1,President,,Democrat,HILLARY RODHAM CLINTON,381
+BOONE,BELVIDERE 12,President,,Green,JILL STEIN,15
+BOONE,CALEDONIA 3,President,,Green,JILL STEIN,11
+BOONE,POPLAR GROVE 2,President,,Libertarian,GARY JOHNSON,20
+BOONE,BELVIDERE 8,President,,Democrat,HILLARY RODHAM CLINTON,316
+BOONE,BELVIDERE 1,President,,Republican,DONALD J. TRUMP,190
+BOONE,BOONE 1,President,,Republican,DONALD J. TRUMP,200
+BOONE,BONUS 3,President,,Green,JILL STEIN,25
+BOONE,FLORA 1,President,,Libertarian,GARY JOHNSON,21
+BOONE,BELVIDERE 12,President,,NonPartisan,Write-in,10
+BOONE,CALEDONIA 3,President,,NonPartisan,Write-in,11
+BOONE,BELVIDERE 17,President,,Democrat,HILLARY RODHAM CLINTON,526
+BOONE,POPLAR GROVE 1,President,,Democrat,HILLARY RODHAM CLINTON,449
+BOONE,POPLAR GROVE 1,President,,Republican,DONALD J. TRUMP,688
+BOONE,MANCHESTER,President,,Green,JILL STEIN,3
+BOONE,BELVIDERE 22,President,,Libertarian,GARY JOHNSON,30
+BOONE,ELECTIONS OFFICE,President,,NonPartisan,Write-in,0
+BOONE,BONUS 1,President,,Democrat,HILLARY RODHAM CLINTON,131
+BOONE,CALEDONIA 3,President,,Democrat,HILLARY RODHAM CLINTON,272
+BOONE,CALEDONIA 2,President,,Green,JILL STEIN,6
+BOONE,BELVIDERE 17,President,,Libertarian,GARY JOHNSON,63
+BOONE,BELVIDERE 14,President,,Democrat,HILLARY RODHAM CLINTON,162
+BOONE,BELVIDERE 21,President,,Democrat,HILLARY RODHAM CLINTON,199
+BOONE,FLORA 2,President,,Democrat,HILLARY RODHAM CLINTON,174
+BOONE,ELECTIONS OFFICE,President,,Democrat,HILLARY RODHAM CLINTON,0
+BOONE,BELVIDERE 14,President,,Republican,DONALD J. TRUMP,163
+BOONE,BELVIDERE 1,President,,Libertarian,GARY JOHNSON,20
+BOONE,BELVIDERE 6,President,,Republican,DONALD J. TRUMP,184
+BOONE,BONUS 1,President,,Green,JILL STEIN,6
+BOONE,BELVIDERE 14,President,,NonPartisan,Write-in,7
+BOONE,SPRING,President,,Green,JILL STEIN,5
+BOONE,BELVIDERE 19,President,,Libertarian,GARY JOHNSON,27
+BOONE,BELVIDERE 7,President,,NonPartisan,Write-in,8
+BOONE,BELVIDERE 21,President,,Green,JILL STEIN,4
+BOONE,ELECTIONS OFFICE,President,,Green,JILL STEIN,0
+BOONE,BELVIDERE 9,President,,Libertarian,GARY JOHNSON,23
+BOONE,BELVIDERE 17,President,,NonPartisan,Write-in,23
+BOONE,BELVIDERE 4,President,,Green,JILL STEIN,7
+BOONE,BELVIDERE 10,President,,Libertarian,GARY JOHNSON,10
+BOONE,BELVIDERE 16,President,,NonPartisan,Write-in,19
+BOONE,MANCHESTER,President,,NonPartisan,Write-in,4
+BOONE,POPLAR GROVE 2,President,,Democrat,HILLARY RODHAM CLINTON,104
+BOONE,BELVIDERE 18,President,,Republican,DONALD J. TRUMP,367
+BOONE,BELVIDERE 5,President,,Libertarian,GARY JOHNSON,12
+BOONE,BONUS 1,President,,Libertarian,GARY JOHNSON,15
+BOONE,BELVIDERE 1,President,,Democrat,HILLARY RODHAM CLINTON,196
+BOONE,BELVIDERE 19,President,,Democrat,HILLARY RODHAM CLINTON,192
+BOONE,POPLAR GROVE 3,President,,Democrat,HILLARY RODHAM CLINTON,178
+BOONE,BELVIDERE 12,President,,Republican,DONALD J. TRUMP,438
+BOONE,BELVIDERE 19,President,,Republican,DONALD J. TRUMP,385
+BOONE,POPLAR GROVE 3,President,,Republican,DONALD J. TRUMP,231
+BOONE,BELVIDERE 18,President,,Green,JILL STEIN,1
+BOONE,POPLAR GROVE 2,President,,Green,JILL STEIN,3
+BOONE,BELVIDERE 6,President,,Libertarian,GARY JOHNSON,20
+BOONE,BONUS 2,President,,Libertarian,GARY JOHNSON,23
+BOONE,BELVIDERE 9,President,,NonPartisan,Write-in,7
+BOONE,BELVIDERE 20,President,,NonPartisan,Write-in,10
+BOONE,BOONE 1,President,,Democrat,HILLARY RODHAM CLINTON,86
+BOONE,BELVIDERE 8,President,,Republican,DONALD J. TRUMP,191
+BOONE,BELVIDERE 7,President,,Green,JILL STEIN,15
+BOONE,BELVIDERE 9,President,,Democrat,HILLARY RODHAM CLINTON,200
+BOONE,BELVIDERE 9,President,,Republican,DONALD J. TRUMP,216
+BOONE,BOONE 2,President,,Republican,DONALD J. TRUMP,200
+BOONE,BELVIDERE 8,President,,NonPartisan,Write-in,4
+BOONE,MANCHESTER,President,,Democrat,HILLARY RODHAM CLINTON,171
+BOONE,LE ROY,President,,Green,JILL STEIN,3
+BOONE,BELVIDERE 22,President,,Democrat,HILLARY RODHAM CLINTON,235
+BOONE,BELVIDERE 10,President,,Green,JILL STEIN,2
+BOONE,BELVIDERE 16,President,,Libertarian,GARY JOHNSON,57
+BOONE,BELVIDERE 10,President,,NonPartisan,Write-in,3
+BOONE,BOONE 1,President,,Green,JILL STEIN,8
+BOONE,BELVIDERE 14,President,,Libertarian,GARY JOHNSON,12
+BOONE,FLORA 2,President,,Libertarian,GARY JOHNSON,27
+BOONE,BELVIDERE 22,President,,NonPartisan,Write-in,10
+BOONE,BELVIDERE 6,President,,Democrat,HILLARY RODHAM CLINTON,125
+BOONE,BONUS 2,President,,Democrat,HILLARY RODHAM CLINTON,180
+BOONE,BONUS 2,President,,Republican,DONALD J. TRUMP,334
+BOONE,CALEDONIA 2,President,,Libertarian,GARY JOHNSON,51
+BOONE,FLORA 2,President,,NonPartisan,Write-in,4
+BOONE,BELVIDERE 22,President,,Republican,DONALD J. TRUMP,386
+BOONE,BELVIDERE 3,President,,Green,JILL STEIN,1
+BOONE,POPLAR GROVE 1,President,,NonPartisan,Write-in,19
+BOONE,CALEDONIA 1,President,,Libertarian,GARY JOHNSON,77
+BOONE,POPLAR GROVE 1,President,,Libertarian,GARY JOHNSON,89
+BOONE,BELVIDERE 20,President,,Democrat,HILLARY RODHAM CLINTON,195
+BOONE,SPRING,President,,Democrat,HILLARY RODHAM CLINTON,127
+BOONE,BELVIDERE 19,President,,Green,JILL STEIN,4
+BOONE,BELVIDERE 1,President,,NonPartisan,Write-in,2
+BOONE,POPLAR GROVE 3,President,,NonPartisan,Write-in,6

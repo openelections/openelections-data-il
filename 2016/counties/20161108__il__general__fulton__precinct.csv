@@ -1,842 +1,842 @@
-"county","precinct","office","district","party","candidate","votes"
-"FULTON","BUCKHEART 2","State House","29","Republican","MICHAEL D. UNES","218"
-"FULTON","FARMINGTON 6","State House","29","Republican","MICHAEL D. UNES","255"
-"FULTON","FARMINGTON 5","State House","29","Republican","MICHAEL D. UNES","336"
-"FULTON","BUCKHEART 1","State House","29","Republican","MICHAEL D. UNES","185"
-"FULTON","PUTMAN 1","State House","29","Republican","MICHAEL D. UNES","523"
-"FULTON","CANTON 11","State House","29","Republican","MICHAEL D. UNES","120"
-"FULTON","LEWISTOWN 4","State House","29","Republican","MICHAEL D. UNES","236"
-"FULTON","LIVERPOOL","State House","29","Republican","MICHAEL D. UNES","276"
-"FULTON","CANTON  8","State House","29","Republican","MICHAEL D. UNES","282"
-"FULTON","LEWISTOWN 6","State House","29","Republican","MICHAEL D. UNES","221"
-"FULTON","ORION","State House","29","Republican","MICHAEL D. UNES","554"
-"FULTON","LEWISTOWN 5","State House","29","Republican","MICHAEL D. UNES","152"
-"FULTON","BUCKHEART 3","State House","29","Republican","MICHAEL D. UNES","130"
-"FULTON","LEWISTOWN 2","State House","29","Republican","MICHAEL D. UNES","159"
-"FULTON","CANTON  7","State House","29","Republican","MICHAEL D. UNES","263"
-"FULTON","PUTMAN 2","State House","29","Republican","MICHAEL D. UNES","355"
-"FULTON","JOSHUA","State House","29","Republican","MICHAEL D. UNES","216"
-"FULTON","CANTON  6","State House","29","Republican","MICHAEL D. UNES","267"
-"FULTON","LEWISTOWN 3","State House","29","Republican","MICHAEL D. UNES","166"
-"FULTON","CANTON  2","State House","29","Republican","MICHAEL D. UNES","276"
-"FULTON","CANTON 13","State House","29","Republican","MICHAEL D. UNES","460"
-"FULTON","CANTON 15","State House","29","Republican","MICHAEL D. UNES","329"
-"FULTON","LEWISTOWN 1","State House","29","Republican","MICHAEL D. UNES","140"
-"FULTON","BANNER","State House","29","Republican","MICHAEL D. UNES","130"
-"FULTON","FARMINGTON 3","State House","29","Republican","MICHAEL D. UNES","123"
-"FULTON","FARMINGTON 4","State House","29","Republican","MICHAEL D. UNES","99"
-"FULTON","CANTON 16","State House","29","Republican","MICHAEL D. UNES","522"
-"FULTON","FARMINGTON 1","State House","29","Republican","MICHAEL D. UNES","351"
-"FULTON","CANTON  9","State House","29","Republican","MICHAEL D. UNES","129"
-"FULTON","FAIRVIEW","State House","29","Republican","MICHAEL D. UNES","292"
-"FULTON","CANTON  3","State House","29","Republican","MICHAEL D. UNES","205"
-"FULTON","CANTON 14","State House","29","Republican","MICHAEL D. UNES","444"
-"FULTON","FARMINGTON 2","State House","29","Republican","MICHAEL D. UNES","130"
-"FULTON","CANTON 10","State House","29","Republican","MICHAEL D. UNES","275"
-"FULTON","CANTON  5","State House","29","Republican","MICHAEL D. UNES","389"
-"FULTON","CANTON  1","State House","29","Republican","MICHAEL D. UNES","320"
-"FULTON","CANTON 12","State House","29","Republican","MICHAEL D. UNES","206"
-"FULTON","CANTON  4","State House","29","Republican","MICHAEL D. UNES","325"
-"FULTON","BERNADOTTE","State House","29","Republican","NORINE K. HAMMOND","62"
-"FULTON","VERMONT 3","State House","29","Republican","NORINE K. HAMMOND","42"
-"FULTON","CASS","State House","29","Democrat","JOHN CURTIS","124"
-"FULTON","PLEASANT","State House","29","Democrat","JOHN CURTIS","168"
-"FULTON","ELLISVILLE","State House","29","Democrat","JOHN CURTIS","36"
-"FULTON","LEE TWP","State House","29","Republican","NORINE K. HAMMOND","106"
-"FULTON","YOUNG HICKORY","State House","29","Republican","NORINE K. HAMMOND","135"
-"FULTON","HARRIS","State House","29","Republican","NORINE K. HAMMOND","117"
-"FULTON","LEE TWP","State House","29","Democrat","JOHN CURTIS","38"
-"FULTON","YOUNG HICKORY","State House","29","Democrat","JOHN CURTIS","127"
-"FULTON","WOODLAND","State House","29","Republican","NORINE K. HAMMOND","109"
-"FULTON","ASTORIA 2","State House","29","Republican","NORINE K. HAMMOND","114"
-"FULTON","WATERFORD","State House","29","Republican","NORINE K. HAMMOND","48"
-"FULTON","UNION","State House","29","Democrat","JOHN CURTIS","173"
-"FULTON","UNION","State House","29","Republican","NORINE K. HAMMOND","237"
-"FULTON","VERMONT 3","State House","29","Democrat","JOHN CURTIS","26"
-"FULTON","WATERFORD","State House","29","Democrat","JOHN CURTIS","45"
-"FULTON","ASTORIA 1","State House","29","Democrat","JOHN CURTIS","132"
-"FULTON","WOODLAND","State House","29","Democrat","JOHN CURTIS","85"
-"FULTON","HARRIS","State House","29","Democrat","JOHN CURTIS","61"
-"FULTON","VERMONT 1","State House","29","Republican","NORINE K. HAMMOND","103"
-"FULTON","FARMERS","State House","29","Democrat","JOHN CURTIS","79"
-"FULTON","KERTON","State House","29","Republican","NORINE K. HAMMOND","30"
-"FULTON","VERMONT 1","State House","29","Democrat","JOHN CURTIS","116"
-"FULTON","ELLISVILLE","State House","29","Republican","NORINE K. HAMMOND","46"
-"FULTON","KERTON","State House","29","Democrat","JOHN CURTIS","21"
-"FULTON","PLEASANT","State House","29","Republican","NORINE K. HAMMOND","206"
-"FULTON","VERMONT 2","State House","29","Democrat","JOHN CURTIS","45"
-"FULTON","ISABEL","State House","29","Democrat","JOHN CURTIS","32"
-"FULTON","FARMERS","State House","29","Republican","NORINE K. HAMMOND","112"
-"FULTON","ASTORIA 2","State House","29","Democrat","JOHN CURTIS","120"
-"FULTON","BERNADOTTE","State House","29","Democrat","JOHN CURTIS","59"
-"FULTON","CASS","State House","29","Republican","NORINE K. HAMMOND","153"
-"FULTON","ASTORIA 1","State House","29","Republican","NORINE K. HAMMOND","178"
-"FULTON","ISABEL","State House","29","Republican","NORINE K. HAMMOND","80"
-"FULTON","DEERFIELD","State House","29","Democrat","JOHN CURTIS","47"
-"FULTON","VERMONT 2","State House","29","Republican","NORINE K. HAMMOND","72"
-"FULTON","DEERFIELD","State House","29","Republican","NORINE K. HAMMOND","103"
-"FULTON","ELLISVILLE","State Senate","29","Republican","JIL TRACY","69"
-"FULTON","ISABEL","State Senate","29","Republican","JIL TRACY","99"
-"FULTON","VERMONT 2","State Senate","29","Republican","JIL TRACY","100"
-"FULTON","VERMONT 3","State Senate","29","Republican","JIL TRACY","57"
-"FULTON","ASTORIA 1","State Senate","29","NonPartisan","Write-in","2"
-"FULTON","KERTON","State Senate","29","NonPartisan","Write-in","1"
-"FULTON","WOODLAND","State Senate","29","NonPartisan","Write-in","6"
-"FULTON","UNION","State Senate","29","Republican","JIL TRACY","336"
-"FULTON","LEE TWP","State Senate","29","NonPartisan","Write-in","0"
-"FULTON","YOUNG HICKORY","State Senate","29","NonPartisan","Write-in","4"
-"FULTON","BERNADOTTE","State Senate","29","Republican","JIL TRACY","93"
-"FULTON","YOUNG HICKORY","State Senate","29","Republican","JIL TRACY","217"
-"FULTON","BERNADOTTE","State Senate","29","NonPartisan","Write-in","2"
-"FULTON","DEERFIELD","State Senate","29","NonPartisan","Write-in","2"
-"FULTON","CASS","State Senate","29","Republican","JIL TRACY","229"
-"FULTON","VERMONT 1","State Senate","29","Republican","JIL TRACY","177"
-"FULTON","ASTORIA 2","State Senate","29","NonPartisan","Write-in","5"
-"FULTON","HARRIS","State Senate","29","Republican","JIL TRACY","158"
-"FULTON","FARMERS","State Senate","29","NonPartisan","Write-in","1"
-"FULTON","WATERFORD","State Senate","29","NonPartisan","Write-in","2"
-"FULTON","VERMONT 3","State Senate","29","NonPartisan","Write-in","0"
-"FULTON","DEERFIELD","State Senate","29","Republican","JIL TRACY","130"
-"FULTON","PLEASANT","State Senate","29","NonPartisan","Write-in","5"
-"FULTON","CASS","State Senate","29","NonPartisan","Write-in","4"
-"FULTON","UNION","State Senate","29","NonPartisan","Write-in","5"
-"FULTON","ASTORIA 1","State Senate","29","Republican","JIL TRACY","263"
-"FULTON","ASTORIA 2","State Senate","29","Republican","JIL TRACY","186"
-"FULTON","FARMERS","State Senate","29","Republican","JIL TRACY","164"
-"FULTON","LEE TWP","State Senate","29","Republican","JIL TRACY","132"
-"FULTON","WATERFORD","State Senate","29","Republican","JIL TRACY","73"
-"FULTON","WOODLAND","State Senate","29","Republican","JIL TRACY","163"
-"FULTON","ELLISVILLE","State Senate","29","NonPartisan","Write-in","2"
-"FULTON","ISABEL","State Senate","29","NonPartisan","Write-in","2"
-"FULTON","KERTON","State Senate","29","Republican","JIL TRACY","34"
-"FULTON","PLEASANT","State Senate","29","Republican","JIL TRACY","296"
-"FULTON","HARRIS","State Senate","29","NonPartisan","Write-in","0"
-"FULTON","VERMONT 1","State Senate","29","NonPartisan","Write-in","5"
-"FULTON","VERMONT 2","State Senate","29","NonPartisan","Write-in","1"
-"FULTON","BUCKHEART 2","State Senate","29","Democrat","DAVE KOEHLER","234"
-"FULTON","FARMINGTON 1","State Senate","29","Democrat","DAVE KOEHLER","322"
-"FULTON","FARMINGTON 6","State Senate","29","Democrat","DAVE KOEHLER","269"
-"FULTON","JOSHUA","State Senate","29","Democrat","DAVE KOEHLER","193"
-"FULTON","PUTMAN 2","State Senate","29","Democrat","DAVE KOEHLER","363"
-"FULTON","CANTON  1","State Senate","29","Democrat","DAVE KOEHLER","316"
-"FULTON","FARMINGTON 3","State Senate","29","Democrat","DAVE KOEHLER","109"
-"FULTON","FARMINGTON 5","State Senate","29","Democrat","DAVE KOEHLER","321"
-"FULTON","LIVERPOOL","State Senate","29","Democrat","DAVE KOEHLER","247"
-"FULTON","LEWISTOWN 5","State Senate","29","Democrat","DAVE KOEHLER","143"
-"FULTON","CANTON 12","State Senate","29","Democrat","DAVE KOEHLER","226"
-"FULTON","FAIRVIEW","State Senate","29","Democrat","DAVE KOEHLER","270"
-"FULTON","CANTON  4","State Senate","29","Democrat","DAVE KOEHLER","341"
-"FULTON","CANTON 16","State Senate","29","Democrat","DAVE KOEHLER","508"
-"FULTON","CANTON  7","State Senate","29","Democrat","DAVE KOEHLER","260"
-"FULTON","BUCKHEART 3","State Senate","29","Democrat","DAVE KOEHLER","131"
-"FULTON","PUTMAN 1","State Senate","29","Democrat","DAVE KOEHLER","501"
-"FULTON","FARMINGTON 2","State Senate","29","Democrat","DAVE KOEHLER","114"
-"FULTON","ORION","State Senate","29","Democrat","DAVE KOEHLER","521"
-"FULTON","CANTON  8","State Senate","29","Democrat","DAVE KOEHLER","287"
-"FULTON","CANTON 11","State Senate","29","Democrat","DAVE KOEHLER","124"
-"FULTON","CANTON 13","State Senate","29","Democrat","DAVE KOEHLER","434"
-"FULTON","CANTON 14","State Senate","29","Democrat","DAVE KOEHLER","430"
-"FULTON","CANTON  3","State Senate","29","Democrat","DAVE KOEHLER","233"
-"FULTON","FARMINGTON 4","State Senate","29","Democrat","DAVE KOEHLER","94"
-"FULTON","CANTON 15","State Senate","29","Democrat","DAVE KOEHLER","353"
-"FULTON","LEWISTOWN 6","State Senate","29","Democrat","DAVE KOEHLER","224"
-"FULTON","CANTON 10","State Senate","29","Democrat","DAVE KOEHLER","284"
-"FULTON","CANTON  5","State Senate","29","Democrat","DAVE KOEHLER","393"
-"FULTON","BUCKHEART 1","State Senate","29","Democrat","DAVE KOEHLER","194"
-"FULTON","CANTON  6","State Senate","29","Democrat","DAVE KOEHLER","279"
-"FULTON","BANNER","State Senate","29","Democrat","DAVE KOEHLER","125"
-"FULTON","LEWISTOWN 1","State Senate","29","Democrat","DAVE KOEHLER","133"
-"FULTON","LEWISTOWN 4","State Senate","29","Democrat","DAVE KOEHLER","231"
-"FULTON","CANTON  2","State Senate","29","Democrat","DAVE KOEHLER","302"
-"FULTON","CANTON  9","State Senate","29","Democrat","DAVE KOEHLER","126"
-"FULTON","LEWISTOWN 2","State Senate","29","Democrat","DAVE KOEHLER","158"
-"FULTON","LEWISTOWN 3","State Senate","29","Democrat","DAVE KOEHLER","168"
-"FULTON","BUCKHEART 1","U.S. House","29","Republican","PATRICK HARLAN","70"
-"FULTON","HARRIS","U.S. House","29","Democrat","CHERI BUSTOS","90"
-"FULTON","FAIRVIEW","U.S. House","29","Republican","PATRICK HARLAN","140"
-"FULTON","FARMINGTON 6","U.S. House","29","Republican","PATRICK HARLAN","116"
-"FULTON","CANTON 16","U.S. House","29","Democrat","CHERI BUSTOS","391"
-"FULTON","FARMINGTON 5","U.S. House","29","Republican","PATRICK HARLAN","143"
-"FULTON","VERMONT 3","U.S. House","29","Democrat","CHERI BUSTOS","27"
-"FULTON","FARMERS","U.S. House","29","Republican","PATRICK HARLAN","110"
-"FULTON","CANTON  7","U.S. House","29","Democrat","CHERI BUSTOS","192"
-"FULTON","LEWISTOWN 4","U.S. House","29","Democrat","CHERI BUSTOS","173"
-"FULTON","VERMONT 2","U.S. House","29","Republican","PATRICK HARLAN","62"
-"FULTON","FARMINGTON 6","U.S. House","29","Democrat","CHERI BUSTOS","192"
-"FULTON","ELLISVILLE","U.S. House","29","Democrat","CHERI BUSTOS","45"
-"FULTON","CANTON 11","U.S. House","29","Republican","PATRICK HARLAN","59"
-"FULTON","FARMINGTON 2","U.S. House","29","Democrat","CHERI BUSTOS","86"
-"FULTON","LEWISTOWN 1","U.S. House","29","Republican","PATRICK HARLAN","62"
-"FULTON","BANNER","U.S. House","29","Democrat","CHERI BUSTOS","96"
-"FULTON","PUTMAN 1","U.S. House","29","Democrat","CHERI BUSTOS","371"
-"FULTON","ASTORIA 2","U.S. House","29","Republican","PATRICK HARLAN","97"
-"FULTON","PLEASANT","U.S. House","29","Democrat","CHERI BUSTOS","222"
-"FULTON","CANTON  4","U.S. House","29","Republican","PATRICK HARLAN","139"
-"FULTON","BUCKHEART 2","U.S. House","29","Democrat","CHERI BUSTOS","209"
-"FULTON","VERMONT 1","U.S. House","29","Democrat","CHERI BUSTOS","114"
-"FULTON","CANTON 12","U.S. House","29","Democrat","CHERI BUSTOS","183"
-"FULTON","VERMONT 3","U.S. House","29","Republican","PATRICK HARLAN","41"
-"FULTON","CANTON 11","U.S. House","29","Democrat","CHERI BUSTOS","100"
-"FULTON","DEERFIELD","U.S. House","29","Democrat","CHERI BUSTOS","82"
-"FULTON","BUCKHEART 3","U.S. House","29","Republican","PATRICK HARLAN","53"
-"FULTON","HARRIS","U.S. House","29","Republican","PATRICK HARLAN","87"
-"FULTON","PUTMAN 2","U.S. House","29","Democrat","CHERI BUSTOS","259"
-"FULTON","CASS","U.S. House","29","Republican","PATRICK HARLAN","111"
-"FULTON","CANTON  2","U.S. House","29","Democrat","CHERI BUSTOS","250"
-"FULTON","CANTON 13","U.S. House","29","Democrat","CHERI BUSTOS","343"
-"FULTON","CANTON  1","U.S. House","29","Republican","PATRICK HARLAN","110"
-"FULTON","WATERFORD","U.S. House","29","Republican","PATRICK HARLAN","36"
-"FULTON","FARMINGTON 1","U.S. House","29","Republican","PATRICK HARLAN","171"
-"FULTON","FARMINGTON 5","U.S. House","29","Democrat","CHERI BUSTOS","243"
-"FULTON","ASTORIA 2","U.S. House","29","Democrat","CHERI BUSTOS","134"
-"FULTON","CANTON 15","U.S. House","29","Republican","PATRICK HARLAN","119"
-"FULTON","LEE TWP","U.S. House","29","Democrat","CHERI BUSTOS","55"
-"FULTON","FARMINGTON 3","U.S. House","29","Republican","PATRICK HARLAN","60"
-"FULTON","CASS","U.S. House","29","Democrat","CHERI BUSTOS","170"
-"FULTON","LEWISTOWN 3","U.S. House","29","Democrat","CHERI BUSTOS","130"
-"FULTON","CANTON 16","U.S. House","29","Republican","PATRICK HARLAN","221"
-"FULTON","YOUNG HICKORY","U.S. House","29","Democrat","CHERI BUSTOS","157"
-"FULTON","CANTON  1","U.S. House","29","Democrat","CHERI BUSTOS","249"
-"FULTON","JOSHUA","U.S. House","29","Democrat","CHERI BUSTOS","161"
-"FULTON","WATERFORD","U.S. House","29","Democrat","CHERI BUSTOS","58"
-"FULTON","ASTORIA 1","U.S. House","29","Republican","PATRICK HARLAN","147"
-"FULTON","ORION","U.S. House","29","Republican","PATRICK HARLAN","261"
-"FULTON","FARMERS","U.S. House","29","Democrat","CHERI BUSTOS","80"
-"FULTON","CANTON 13","U.S. House","29","Republican","PATRICK HARLAN","192"
-"FULTON","WOODLAND","U.S. House","29","Republican","PATRICK HARLAN","88"
-"FULTON","LIVERPOOL","U.S. House","29","Democrat","CHERI BUSTOS","201"
-"FULTON","KERTON","U.S. House","29","Republican","PATRICK HARLAN","30"
-"FULTON","LEWISTOWN 1","U.S. House","29","Democrat","CHERI BUSTOS","114"
-"FULTON","CANTON  3","U.S. House","29","Republican","PATRICK HARLAN","75"
-"FULTON","CANTON  9","U.S. House","29","Republican","PATRICK HARLAN","41"
-"FULTON","LEWISTOWN 6","U.S. House","29","Republican","PATRICK HARLAN","88"
-"FULTON","VERMONT 1","U.S. House","29","Republican","PATRICK HARLAN","107"
-"FULTON","BUCKHEART 1","U.S. House","29","Democrat","CHERI BUSTOS","165"
-"FULTON","BERNADOTTE","U.S. House","29","Republican","PATRICK HARLAN","50"
-"FULTON","FARMINGTON 4","U.S. House","29","Republican","PATRICK HARLAN","47"
-"FULTON","ASTORIA 1","U.S. House","29","Democrat","CHERI BUSTOS","158"
-"FULTON","FARMINGTON 1","U.S. House","29","Democrat","CHERI BUSTOS","231"
-"FULTON","ORION","U.S. House","29","Democrat","CHERI BUSTOS","400"
-"FULTON","LIVERPOOL","U.S. House","29","Republican","PATRICK HARLAN","124"
-"FULTON","CANTON  8","U.S. House","29","Democrat","CHERI BUSTOS","214"
-"FULTON","DEERFIELD","U.S. House","29","Republican","PATRICK HARLAN","72"
-"FULTON","CANTON  5","U.S. House","29","Democrat","CHERI BUSTOS","315"
-"FULTON","LEWISTOWN 2","U.S. House","29","Democrat","CHERI BUSTOS","128"
-"FULTON","UNION","U.S. House","29","Republican","PATRICK HARLAN","156"
-"FULTON","FARMINGTON 4","U.S. House","29","Democrat","CHERI BUSTOS","63"
-"FULTON","CANTON  6","U.S. House","29","Republican","PATRICK HARLAN","113"
-"FULTON","CANTON  9","U.S. House","29","Democrat","CHERI BUSTOS","108"
-"FULTON","CANTON  8","U.S. House","29","Republican","PATRICK HARLAN","138"
-"FULTON","ELLISVILLE","U.S. House","29","Republican","PATRICK HARLAN","36"
-"FULTON","LEWISTOWN 5","U.S. House","29","Republican","PATRICK HARLAN","77"
-"FULTON","ISABEL","U.S. House","29","Democrat","CHERI BUSTOS","65"
-"FULTON","CANTON 10","U.S. House","29","Republican","PATRICK HARLAN","100"
-"FULTON","CANTON  4","U.S. House","29","Democrat","CHERI BUSTOS","237"
-"FULTON","CANTON 15","U.S. House","29","Democrat","CHERI BUSTOS","282"
-"FULTON","CANTON 14","U.S. House","29","Republican","PATRICK HARLAN","194"
-"FULTON","LEE TWP","U.S. House","29","Republican","PATRICK HARLAN","90"
-"FULTON","YOUNG HICKORY","U.S. House","29","Republican","PATRICK HARLAN","112"
-"FULTON","UNION","U.S. House","29","Democrat","CHERI BUSTOS","256"
-"FULTON","CANTON  7","U.S. House","29","Republican","PATRICK HARLAN","118"
-"FULTON","PUTMAN 2","U.S. House","29","Republican","PATRICK HARLAN","156"
-"FULTON","CANTON  3","U.S. House","29","Democrat","CHERI BUSTOS","184"
-"FULTON","CANTON 14","U.S. House","29","Democrat","CHERI BUSTOS","328"
-"FULTON","BANNER","U.S. House","29","Republican","PATRICK HARLAN","66"
-"FULTON","PUTMAN 1","U.S. House","29","Republican","PATRICK HARLAN","233"
-"FULTON","FARMINGTON 3","U.S. House","29","Democrat","CHERI BUSTOS","75"
-"FULTON","FARMINGTON 2","U.S. House","29","Republican","PATRICK HARLAN","68"
-"FULTON","PLEASANT","U.S. House","29","Republican","PATRICK HARLAN","154"
-"FULTON","LEWISTOWN 6","U.S. House","29","Democrat","CHERI BUSTOS","178"
-"FULTON","CANTON 12","U.S. House","29","Republican","PATRICK HARLAN","70"
-"FULTON","JOSHUA","U.S. House","29","Republican","PATRICK HARLAN","99"
-"FULTON","CANTON  6","U.S. House","29","Democrat","CHERI BUSTOS","213"
-"FULTON","CANTON  5","U.S. House","29","Republican","PATRICK HARLAN","147"
-"FULTON","BERNADOTTE","U.S. House","29","Democrat","CHERI BUSTOS","74"
-"FULTON","LEWISTOWN 3","U.S. House","29","Republican","PATRICK HARLAN","69"
-"FULTON","WOODLAND","U.S. House","29","Democrat","CHERI BUSTOS","107"
-"FULTON","CANTON 10","U.S. House","29","Democrat","CHERI BUSTOS","235"
-"FULTON","CANTON  2","U.S. House","29","Republican","PATRICK HARLAN","87"
-"FULTON","BUCKHEART 3","U.S. House","29","Democrat","CHERI BUSTOS","108"
-"FULTON","VERMONT 2","U.S. House","29","Democrat","CHERI BUSTOS","53"
-"FULTON","LEWISTOWN 5","U.S. House","29","Democrat","CHERI BUSTOS","112"
-"FULTON","ISABEL","U.S. House","29","Republican","PATRICK HARLAN","50"
-"FULTON","LEWISTOWN 4","U.S. House","29","Republican","PATRICK HARLAN","103"
-"FULTON","BUCKHEART 2","U.S. House","29","Republican","PATRICK HARLAN","67"
-"FULTON","LEWISTOWN 2","U.S. House","29","Republican","PATRICK HARLAN","67"
-"FULTON","FAIRVIEW","U.S. House","29","Democrat","CHERI BUSTOS","202"
-"FULTON","KERTON","U.S. House","29","Democrat","CHERI BUSTOS","22"
-"FULTON","FARMINGTON 2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","61"
-"FULTON","CANTON 14","U.S. Senate","","Republican","MARK STEVEN KIRK","248"
-"FULTON","LEE TWP","U.S. Senate","","Republican","MARK STEVEN KIRK","108"
-"FULTON","YOUNG HICKORY","U.S. Senate","","Republican","MARK STEVEN KIRK","143"
-"FULTON","CASS","U.S. Senate","","Green","SCOTT SUMMERS","10"
-"FULTON","PUTMAN 1","U.S. Senate","","Green","SCOTT SUMMERS","11"
-"FULTON","JOSHUA","U.S. Senate","","Libertarian","KENTON McMILLEN","6"
-"FULTON","PLEASANT","U.S. Senate","","Libertarian","KENTON McMILLEN","20"
-"FULTON","WATERFORD","U.S. Senate","","Libertarian","KENTON McMILLEN","6"
-"FULTON","BANNER","U.S. Senate","","NonPartisan","Write-in","1"
-"FULTON","FARMINGTON 3","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","DEERFIELD","U.S. Senate","","Democrat","TAMMY DUCKWORTH","49"
-"FULTON","LEWISTOWN 4","U.S. Senate","","Democrat","TAMMY DUCKWORTH","114"
-"FULTON","FARMINGTON 6","U.S. Senate","","Republican","MARK STEVEN KIRK","149"
-"FULTON","CANTON  1","U.S. Senate","","Green","SCOTT SUMMERS","11"
-"FULTON","JOSHUA","U.S. Senate","","Green","SCOTT SUMMERS","5"
-"FULTON","CANTON  4","U.S. Senate","","Libertarian","KENTON McMILLEN","22"
-"FULTON","ASTORIA 1","U.S. Senate","","NonPartisan","Write-in","1"
-"FULTON","BUCKHEART 3","U.S. Senate","","Democrat","TAMMY DUCKWORTH","79"
-"FULTON","HARRIS","U.S. Senate","","Democrat","TAMMY DUCKWORTH","53"
-"FULTON","ELLISVILLE","U.S. Senate","","Republican","MARK STEVEN KIRK","42"
-"FULTON","FARMINGTON 5","U.S. Senate","","Republican","MARK STEVEN KIRK","199"
-"FULTON","LEWISTOWN 3","U.S. Senate","","Libertarian","KENTON McMILLEN","8"
-"FULTON","CANTON  9","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","FARMINGTON 6","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","VERMONT 1","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","ELLISVILLE","U.S. Senate","","Democrat","TAMMY DUCKWORTH","31"
-"FULTON","CANTON  6","U.S. Senate","","Republican","MARK STEVEN KIRK","124"
-"FULTON","BUCKHEART 3","U.S. Senate","","Republican","MARK STEVEN KIRK","72"
-"FULTON","LEWISTOWN 3","U.S. Senate","","Republican","MARK STEVEN KIRK","98"
-"FULTON","CANTON  9","U.S. Senate","","Green","SCOTT SUMMERS","4"
-"FULTON","BUCKHEART 1","U.S. Senate","","Libertarian","KENTON McMILLEN","14"
-"FULTON","BERNADOTTE","U.S. Senate","","Democrat","TAMMY DUCKWORTH","58"
-"FULTON","LEWISTOWN 2","U.S. Senate","","Republican","MARK STEVEN KIRK","95"
-"FULTON","CANTON  8","U.S. Senate","","Green","SCOTT SUMMERS","9"
-"FULTON","ELLISVILLE","U.S. Senate","","Green","SCOTT SUMMERS","3"
-"FULTON","LEWISTOWN 5","U.S. Senate","","Green","SCOTT SUMMERS","5"
-"FULTON","CANTON  1","U.S. Senate","","NonPartisan","Write-in","1"
-"FULTON","ISABEL","U.S. Senate","","Democrat","TAMMY DUCKWORTH","39"
-"FULTON","CANTON  9","U.S. Senate","","Republican","MARK STEVEN KIRK","64"
-"FULTON","ASTORIA 2","U.S. Senate","","Green","SCOTT SUMMERS","7"
-"FULTON","BUCKHEART 2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","162"
-"FULTON","FARMINGTON 6","U.S. Senate","","Democrat","TAMMY DUCKWORTH","137"
-"FULTON","VERMONT 1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","80"
-"FULTON","DEERFIELD","U.S. Senate","","Republican","MARK STEVEN KIRK","94"
-"FULTON","VERMONT 1","U.S. Senate","","Libertarian","KENTON McMILLEN","13"
-"FULTON","BUCKHEART 3","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","JOSHUA","U.S. Senate","","Democrat","TAMMY DUCKWORTH","97"
-"FULTON","WATERFORD","U.S. Senate","","Democrat","TAMMY DUCKWORTH","37"
-"FULTON","CANTON 10","U.S. Senate","","Republican","MARK STEVEN KIRK","122"
-"FULTON","FARMERS","U.S. Senate","","Republican","MARK STEVEN KIRK","112"
-"FULTON","KERTON","U.S. Senate","","Green","SCOTT SUMMERS","4"
-"FULTON","CANTON 12","U.S. Senate","","Democrat","TAMMY DUCKWORTH","134"
-"FULTON","HARRIS","U.S. Senate","","Republican","MARK STEVEN KIRK","111"
-"FULTON","VERMONT 2","U.S. Senate","","Republican","MARK STEVEN KIRK","67"
-"FULTON","CANTON 13","U.S. Senate","","Green","SCOTT SUMMERS","6"
-"FULTON","WOODLAND","U.S. Senate","","Green","SCOTT SUMMERS","4"
-"FULTON","LEWISTOWN 5","U.S. Senate","","Libertarian","KENTON McMILLEN","12"
-"FULTON","CASS","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 3","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON  3","U.S. Senate","","Democrat","TAMMY DUCKWORTH","150"
-"FULTON","CANTON 15","U.S. Senate","","Green","SCOTT SUMMERS","8"
-"FULTON","CANTON  3","U.S. Senate","","Libertarian","KENTON McMILLEN","12"
-"FULTON","YOUNG HICKORY","U.S. Senate","","Libertarian","KENTON McMILLEN","11"
-"FULTON","CANTON 13","U.S. Senate","","Democrat","TAMMY DUCKWORTH","233"
-"FULTON","CANTON  3","U.S. Senate","","Green","SCOTT SUMMERS","8"
-"FULTON","CANTON 16","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 2","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","BUCKHEART 2","U.S. Senate","","Republican","MARK STEVEN KIRK","94"
-"FULTON","CANTON 12","U.S. Senate","","Green","SCOTT SUMMERS","9"
-"FULTON","WATERFORD","U.S. Senate","","Green","SCOTT SUMMERS","1"
-"FULTON","CANTON  7","U.S. Senate","","Libertarian","KENTON McMILLEN","26"
-"FULTON","DEERFIELD","U.S. Senate","","Libertarian","KENTON McMILLEN","7"
-"FULTON","ELLISVILLE","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON 13","U.S. Senate","","Republican","MARK STEVEN KIRK","274"
-"FULTON","CANTON 16","U.S. Senate","","Green","SCOTT SUMMERS","5"
-"FULTON","LEWISTOWN 2","U.S. Senate","","Green","SCOTT SUMMERS","5"
-"FULTON","LEE TWP","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON  6","U.S. Senate","","Democrat","TAMMY DUCKWORTH","167"
-"FULTON","CASS","U.S. Senate","","Democrat","TAMMY DUCKWORTH","117"
-"FULTON","LEWISTOWN 3","U.S. Senate","","Democrat","TAMMY DUCKWORTH","91"
-"FULTON","LEWISTOWN 4","U.S. Senate","","Green","SCOTT SUMMERS","13"
-"FULTON","PUTMAN 1","U.S. Senate","","Libertarian","KENTON McMILLEN","31"
-"FULTON","CANTON 12","U.S. Senate","","Republican","MARK STEVEN KIRK","98"
-"FULTON","JOSHUA","U.S. Senate","","Republican","MARK STEVEN KIRK","150"
-"FULTON","LEWISTOWN 5","U.S. Senate","","Republican","MARK STEVEN KIRK","104"
-"FULTON","ORION","U.S. Senate","","Green","SCOTT SUMMERS","13"
-"FULTON","HARRIS","U.S. Senate","","Libertarian","KENTON McMILLEN","7"
-"FULTON","VERMONT 2","U.S. Senate","","Libertarian","KENTON McMILLEN","5"
-"FULTON","FARMINGTON 5","U.S. Senate","","Democrat","TAMMY DUCKWORTH","163"
-"FULTON","CANTON 15","U.S. Senate","","Republican","MARK STEVEN KIRK","180"
-"FULTON","LEWISTOWN 1","U.S. Senate","","Republican","MARK STEVEN KIRK","102"
-"FULTON","CANTON  7","U.S. Senate","","Green","SCOTT SUMMERS","15"
-"FULTON","BANNER","U.S. Senate","","Libertarian","KENTON McMILLEN","5"
-"FULTON","FARMINGTON 3","U.S. Senate","","Libertarian","KENTON McMILLEN","6"
-"FULTON","CANTON  2","U.S. Senate","","NonPartisan","Write-in","1"
-"FULTON","CANTON 13","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 6","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","WOODLAND","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON 10","U.S. Senate","","Democrat","TAMMY DUCKWORTH","176"
-"FULTON","CANTON  1","U.S. Senate","","Republican","MARK STEVEN KIRK","159"
-"FULTON","ASTORIA 1","U.S. Senate","","Green","SCOTT SUMMERS","7"
-"FULTON","CANTON 10","U.S. Senate","","Libertarian","KENTON McMILLEN","25"
-"FULTON","BUCKHEART 3","U.S. Senate","","Libertarian","KENTON McMILLEN","5"
-"FULTON","FARMINGTON 5","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","UNION","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON  7","U.S. Senate","","Republican","MARK STEVEN KIRK","126"
-"FULTON","FARMERS","U.S. Senate","","Green","SCOTT SUMMERS","2"
-"FULTON","BUCKHEART 2","U.S. Senate","","Libertarian","KENTON McMILLEN","19"
-"FULTON","FARMINGTON 6","U.S. Senate","","Libertarian","KENTON McMILLEN","13"
-"FULTON","VERMONT 2","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON  7","U.S. Senate","","Democrat","TAMMY DUCKWORTH","142"
-"FULTON","VERMONT 1","U.S. Senate","","Republican","MARK STEVEN KIRK","122"
-"FULTON","LEWISTOWN 4","U.S. Senate","","Libertarian","KENTON McMILLEN","14"
-"FULTON","CANTON  8","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 5","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LEE TWP","U.S. Senate","","Democrat","TAMMY DUCKWORTH","32"
-"FULTON","BUCKHEART 1","U.S. Senate","","Green","SCOTT SUMMERS","8"
-"FULTON","FARMINGTON 5","U.S. Senate","","Green","SCOTT SUMMERS","11"
-"FULTON","LEWISTOWN 1","U.S. Senate","","Green","SCOTT SUMMERS","2"
-"FULTON","CANTON 14","U.S. Senate","","Libertarian","KENTON McMILLEN","25"
-"FULTON","LEE TWP","U.S. Senate","","Libertarian","KENTON McMILLEN","7"
-"FULTON","FARMERS","U.S. Senate","","Democrat","TAMMY DUCKWORTH","61"
-"FULTON","LIVERPOOL","U.S. Senate","","Democrat","TAMMY DUCKWORTH","118"
-"FULTON","CANTON  4","U.S. Senate","","Green","SCOTT SUMMERS","10"
-"FULTON","FARMINGTON 1","U.S. Senate","","Green","SCOTT SUMMERS","13"
-"FULTON","FARMERS","U.S. Senate","","Libertarian","KENTON McMILLEN","17"
-"FULTON","BUCKHEART 1","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","PUTMAN 2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","177"
-"FULTON","CANTON  5","U.S. Senate","","Republican","MARK STEVEN KIRK","203"
-"FULTON","CANTON 16","U.S. Senate","","Republican","MARK STEVEN KIRK","307"
-"FULTON","UNION","U.S. Senate","","Green","SCOTT SUMMERS","7"
-"FULTON","FARMINGTON 4","U.S. Senate","","Libertarian","KENTON McMILLEN","4"
-"FULTON","CANTON  8","U.S. Senate","","Democrat","TAMMY DUCKWORTH","152"
-"FULTON","CASS","U.S. Senate","","Republican","MARK STEVEN KIRK","140"
-"FULTON","LEWISTOWN 6","U.S. Senate","","Green","SCOTT SUMMERS","6"
-"FULTON","DEERFIELD","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","FARMINGTON 4","U.S. Senate","","Democrat","TAMMY DUCKWORTH","45"
-"FULTON","BERNADOTTE","U.S. Senate","","Libertarian","KENTON McMILLEN","4"
-"FULTON","PUTMAN 2","U.S. Senate","","Libertarian","KENTON McMILLEN","22"
-"FULTON","WATERFORD","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON  5","U.S. Senate","","Democrat","TAMMY DUCKWORTH","220"
-"FULTON","HARRIS","U.S. Senate","","Green","SCOTT SUMMERS","7"
-"FULTON","LEWISTOWN 3","U.S. Senate","","Green","SCOTT SUMMERS","5"
-"FULTON","CANTON 16","U.S. Senate","","Libertarian","KENTON McMILLEN","21"
-"FULTON","CANTON 10","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON  9","U.S. Senate","","Democrat","TAMMY DUCKWORTH","74"
-"FULTON","CANTON 11","U.S. Senate","","Republican","MARK STEVEN KIRK","64"
-"FULTON","ISABEL","U.S. Senate","","Republican","MARK STEVEN KIRK","68"
-"FULTON","LEE TWP","U.S. Senate","","Green","SCOTT SUMMERS","0"
-"FULTON","CANTON  9","U.S. Senate","","Libertarian","KENTON McMILLEN","5"
-"FULTON","LEWISTOWN 6","U.S. Senate","","Libertarian","KENTON McMILLEN","12"
-"FULTON","CANTON  6","U.S. Senate","","Green","SCOTT SUMMERS","9"
-"FULTON","FARMINGTON 2","U.S. Senate","","Libertarian","KENTON McMILLEN","9"
-"FULTON","PUTMAN 1","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 6","U.S. Senate","","Republican","MARK STEVEN KIRK","143"
-"FULTON","FARMINGTON 2","U.S. Senate","","Green","SCOTT SUMMERS","1"
-"FULTON","ISABEL","U.S. Senate","","Libertarian","KENTON McMILLEN","4"
-"FULTON","CANTON  7","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","PUTMAN 2","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","63"
-"FULTON","ORION","U.S. Senate","","Democrat","TAMMY DUCKWORTH","280"
-"FULTON","CANTON  2","U.S. Senate","","Republican","MARK STEVEN KIRK","138"
-"FULTON","KERTON","U.S. Senate","","Republican","MARK STEVEN KIRK","26"
-"FULTON","WOODLAND","U.S. Senate","","Republican","MARK STEVEN KIRK","106"
-"FULTON","ASTORIA 1","U.S. Senate","","Libertarian","KENTON McMILLEN","12"
-"FULTON","FARMINGTON 1","U.S. Senate","","Libertarian","KENTON McMILLEN","23"
-"FULTON","CANTON 14","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","YOUNG HICKORY","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 4","U.S. Senate","","Republican","MARK STEVEN KIRK","135"
-"FULTON","CANTON 10","U.S. Senate","","Green","SCOTT SUMMERS","7"
-"FULTON","LIVERPOOL","U.S. Senate","","Green","SCOTT SUMMERS","7"
-"FULTON","HARRIS","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","ASTORIA 2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","93"
-"FULTON","PLEASANT","U.S. Senate","","Democrat","TAMMY DUCKWORTH","143"
-"FULTON","CANTON  3","U.S. Senate","","Republican","MARK STEVEN KIRK","91"
-"FULTON","BANNER","U.S. Senate","","Green","SCOTT SUMMERS","4"
-"FULTON","FARMINGTON 3","U.S. Senate","","Green","SCOTT SUMMERS","3"
-"FULTON","ASTORIA 2","U.S. Senate","","Libertarian","KENTON McMILLEN","3"
-"FULTON","CANTON  2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","178"
-"FULTON","FAIRVIEW","U.S. Senate","","Democrat","TAMMY DUCKWORTH","139"
-"FULTON","LEWISTOWN 6","U.S. Senate","","Democrat","TAMMY DUCKWORTH","107"
-"FULTON","VERMONT 3","U.S. Senate","","Republican","MARK STEVEN KIRK","42"
-"FULTON","CANTON 14","U.S. Senate","","Green","SCOTT SUMMERS","11"
-"FULTON","YOUNG HICKORY","U.S. Senate","","Green","SCOTT SUMMERS","11"
-"FULTON","FAIRVIEW","U.S. Senate","","Libertarian","KENTON McMILLEN","12"
-"FULTON","CANTON  5","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","BUCKHEART 2","U.S. Senate","","NonPartisan","Write-in","1"
-"FULTON","BANNER","U.S. Senate","","Democrat","TAMMY DUCKWORTH","80"
-"FULTON","PUTMAN 1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","258"
-"FULTON","FARMINGTON 1","U.S. Senate","","Republican","MARK STEVEN KIRK","208"
-"FULTON","ORION","U.S. Senate","","Republican","MARK STEVEN KIRK","333"
-"FULTON","FARMINGTON 4","U.S. Senate","","Green","SCOTT SUMMERS","3"
-"FULTON","FARMINGTON 2","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","BUCKHEART 1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","112"
-"FULTON","FARMINGTON 3","U.S. Senate","","Republican","MARK STEVEN KIRK","84"
-"FULTON","PUTMAN 1","U.S. Senate","","Republican","MARK STEVEN KIRK","307"
-"FULTON","BUCKHEART 2","U.S. Senate","","Green","SCOTT SUMMERS","5"
-"FULTON","FARMINGTON 6","U.S. Senate","","Green","SCOTT SUMMERS","8"
-"FULTON","LEWISTOWN 1","U.S. Senate","","Libertarian","KENTON McMILLEN","8"
-"FULTON","FARMINGTON 1","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON 11","U.S. Senate","","Green","SCOTT SUMMERS","3"
-"FULTON","ISABEL","U.S. Senate","","Green","SCOTT SUMMERS","3"
-"FULTON","CANTON  4","U.S. Senate","","Republican","MARK STEVEN KIRK","177"
-"FULTON","DEERFIELD","U.S. Senate","","Green","SCOTT SUMMERS","1"
-"FULTON","ASTORIA 1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","119"
-"FULTON","CANTON 11","U.S. Senate","","Democrat","TAMMY DUCKWORTH","77"
-"FULTON","FARMINGTON 1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","155"
-"FULTON","VERMONT 3","U.S. Senate","","Democrat","TAMMY DUCKWORTH","22"
-"FULTON","CANTON  1","U.S. Senate","","Democrat","TAMMY DUCKWORTH","169"
-"FULTON","LIVERPOOL","U.S. Senate","","Republican","MARK STEVEN KIRK","182"
-"FULTON","CANTON  2","U.S. Senate","","Green","SCOTT SUMMERS","6"
-"FULTON","CANTON  1","U.S. Senate","","Libertarian","KENTON McMILLEN","20"
-"FULTON","CANTON  8","U.S. Senate","","Libertarian","KENTON McMILLEN","19"
-"FULTON","CANTON 12","U.S. Senate","","Libertarian","KENTON McMILLEN","14"
-"FULTON","ELLISVILLE","U.S. Senate","","Libertarian","KENTON McMILLEN","4"
-"FULTON","CANTON  6","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON  4","U.S. Senate","","Democrat","TAMMY DUCKWORTH","169"
-"FULTON","CANTON 15","U.S. Senate","","Democrat","TAMMY DUCKWORTH","193"
-"FULTON","CANTON  5","U.S. Senate","","Green","SCOTT SUMMERS","17"
-"FULTON","ORION","U.S. Senate","","Libertarian","KENTON McMILLEN","36"
-"FULTON","CANTON  3","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","VERMONT 2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","45"
-"FULTON","CANTON  8","U.S. Senate","","Republican","MARK STEVEN KIRK","173"
-"FULTON","BUCKHEART 1","U.S. Senate","","Republican","MARK STEVEN KIRK","105"
-"FULTON","UNION","U.S. Senate","","Republican","MARK STEVEN KIRK","205"
-"FULTON","VERMONT 3","U.S. Senate","","Green","SCOTT SUMMERS","0"
-"FULTON","CANTON  6","U.S. Senate","","Libertarian","KENTON McMILLEN","25"
-"FULTON","CASS","U.S. Senate","","Libertarian","KENTON McMILLEN","15"
-"FULTON","FAIRVIEW","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 5","U.S. Senate","","Democrat","TAMMY DUCKWORTH","68"
-"FULTON","CANTON 14","U.S. Senate","","Democrat","TAMMY DUCKWORTH","239"
-"FULTON","YOUNG HICKORY","U.S. Senate","","Democrat","TAMMY DUCKWORTH","105"
-"FULTON","ASTORIA 2","U.S. Senate","","Republican","MARK STEVEN KIRK","128"
-"FULTON","FARMINGTON 2","U.S. Senate","","Republican","MARK STEVEN KIRK","82"
-"FULTON","PLEASANT","U.S. Senate","","Republican","MARK STEVEN KIRK","203"
-"FULTON","WATERFORD","U.S. Senate","","Republican","MARK STEVEN KIRK","51"
-"FULTON","LIVERPOOL","U.S. Senate","","Libertarian","KENTON McMILLEN","17"
-"FULTON","CANTON 16","U.S. Senate","","Democrat","TAMMY DUCKWORTH","277"
-"FULTON","LEWISTOWN 2","U.S. Senate","","Democrat","TAMMY DUCKWORTH","80"
-"FULTON","FARMINGTON 4","U.S. Senate","","Republican","MARK STEVEN KIRK","55"
-"FULTON","BUCKHEART 3","U.S. Senate","","Green","SCOTT SUMMERS","5"
-"FULTON","LEWISTOWN 2","U.S. Senate","","Libertarian","KENTON McMILLEN","14"
-"FULTON","KERTON","U.S. Senate","","Democrat","TAMMY DUCKWORTH","18"
-"FULTON","ASTORIA 1","U.S. Senate","","Republican","MARK STEVEN KIRK","170"
-"FULTON","BERNADOTTE","U.S. Senate","","Green","SCOTT SUMMERS","1"
-"FULTON","CANTON  2","U.S. Senate","","Libertarian","KENTON McMILLEN","10"
-"FULTON","WOODLAND","U.S. Senate","","Libertarian","KENTON McMILLEN","11"
-"FULTON","ASTORIA 2","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON 12","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","JOSHUA","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","FARMINGTON 3","U.S. Senate","","Democrat","TAMMY DUCKWORTH","42"
-"FULTON","WOODLAND","U.S. Senate","","Democrat","TAMMY DUCKWORTH","76"
-"FULTON","PUTMAN 2","U.S. Senate","","Green","SCOTT SUMMERS","14"
-"FULTON","CANTON 13","U.S. Senate","","Libertarian","KENTON McMILLEN","22"
-"FULTON","KERTON","U.S. Senate","","Libertarian","KENTON McMILLEN","4"
-"FULTON","PLEASANT","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","UNION","U.S. Senate","","Democrat","TAMMY DUCKWORTH","170"
-"FULTON","BANNER","U.S. Senate","","Republican","MARK STEVEN KIRK","72"
-"FULTON","VERMONT 1","U.S. Senate","","Green","SCOTT SUMMERS","4"
-"FULTON","CANTON 15","U.S. Senate","","Libertarian","KENTON McMILLEN","20"
-"FULTON","ORION","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","VERMONT 3","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","BERNADOTTE","U.S. Senate","","Republican","MARK STEVEN KIRK","59"
-"FULTON","PUTMAN 2","U.S. Senate","","Republican","MARK STEVEN KIRK","202"
-"FULTON","VERMONT 2","U.S. Senate","","Green","SCOTT SUMMERS","1"
-"FULTON","CANTON  5","U.S. Senate","","Libertarian","KENTON McMILLEN","23"
-"FULTON","FARMERS","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LIVERPOOL","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","KERTON","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON  4","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","CANTON 15","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 1","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","FAIRVIEW","U.S. Senate","","Republican","MARK STEVEN KIRK","186"
-"FULTON","PLEASANT","U.S. Senate","","Green","SCOTT SUMMERS","11"
-"FULTON","CANTON 11","U.S. Senate","","Libertarian","KENTON McMILLEN","12"
-"FULTON","VERMONT 3","U.S. Senate","","Libertarian","KENTON McMILLEN","1"
-"FULTON","BERNADOTTE","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","FARMINGTON 4","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","FAIRVIEW","U.S. Senate","","Green","SCOTT SUMMERS","6"
-"FULTON","FARMINGTON 5","U.S. Senate","","Libertarian","KENTON McMILLEN","22"
-"FULTON","UNION","U.S. Senate","","Libertarian","KENTON McMILLEN","28"
-"FULTON","CANTON 11","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","ISABEL","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 4","U.S. Senate","","NonPartisan","Write-in","0"
-"FULTON","FARMINGTON 5","President","","Democrat","HILLARY RODHAM CLINTON","156"
-"FULTON","UNION","President","","Democrat","HILLARY RODHAM CLINTON","151"
-"FULTON","BUCKHEART 1","President","","Republican","DONALD J. TRUMP","114"
-"FULTON","FARMINGTON 5","President","","Republican","DONALD J. TRUMP","204"
-"FULTON","FARMINGTON 5","President","","Green","JILL STEIN","6"
-"FULTON","CANTON  3","President","","Democrat","HILLARY RODHAM CLINTON","135"
-"FULTON","CANTON  3","President","","Republican","DONALD J. TRUMP","108"
-"FULTON","CANTON 14","President","","Republican","DONALD J. TRUMP","248"
-"FULTON","LEE TWP","President","","Republican","DONALD J. TRUMP","109"
-"FULTON","CANTON  3","President","","Green","JILL STEIN","6"
-"FULTON","FAIRVIEW","President","","Libertarian","GARY JOHNSON","21"
-"FULTON","FAIRVIEW","President","","NonPartisan","Write-in","5"
-"FULTON","BUCKHEART 3","President","","Republican","DONALD J. TRUMP","77"
-"FULTON","HARRIS","President","","Republican","DONALD J. TRUMP","130"
-"FULTON","CANTON  5","President","","Libertarian","GARY JOHNSON","22"
-"FULTON","CANTON  3","President","","NonPartisan","Write-in","1"
-"FULTON","CANTON  5","President","","Democrat","HILLARY RODHAM CLINTON","213"
-"FULTON","CANTON 16","President","","Democrat","HILLARY RODHAM CLINTON","282"
-"FULTON","LEWISTOWN 2","President","","Republican","DONALD J. TRUMP","109"
-"FULTON","FARMINGTON 2","President","","Green","JILL STEIN","1"
-"FULTON","PLEASANT","President","","Green","JILL STEIN","3"
-"FULTON","ASTORIA 1","President","","Libertarian","GARY JOHNSON","11"
-"FULTON","ISABEL","President","","Libertarian","GARY JOHNSON","5"
-"FULTON","CANTON  7","President","","NonPartisan","Write-in","4"
-"FULTON","LEWISTOWN 4","President","","NonPartisan","Write-in","5"
-"FULTON","CANTON  9","President","","Republican","DONALD J. TRUMP","79"
-"FULTON","FAIRVIEW","President","","Republican","DONALD J. TRUMP","209"
-"FULTON","LEWISTOWN 6","President","","Republican","DONALD J. TRUMP","153"
-"FULTON","UNION","President","","Libertarian","GARY JOHNSON","30"
-"FULTON","CANTON 15","President","","NonPartisan","Write-in","5"
-"FULTON","ORION","President","","NonPartisan","Write-in","11"
-"FULTON","CANTON 12","President","","Democrat","HILLARY RODHAM CLINTON","132"
-"FULTON","FARMINGTON 2","President","","Republican","DONALD J. TRUMP","88"
-"FULTON","PLEASANT","President","","Republican","DONALD J. TRUMP","236"
-"FULTON","CANTON  1","President","","Green","JILL STEIN","8"
-"FULTON","WATERFORD","President","","Green","JILL STEIN","0"
-"FULTON","ORION","President","","Democrat","HILLARY RODHAM CLINTON","254"
-"FULTON","ASTORIA 1","President","","Republican","DONALD J. TRUMP","199"
-"FULTON","ORION","President","","Green","JILL STEIN","15"
-"FULTON","HARRIS","President","","Libertarian","GARY JOHNSON","1"
-"FULTON","VERMONT 2","President","","Libertarian","GARY JOHNSON","2"
-"FULTON","CANTON  7","President","","Democrat","HILLARY RODHAM CLINTON","125"
-"FULTON","CANTON  6","President","","NonPartisan","Write-in","2"
-"FULTON","BUCKHEART 1","President","","Green","JILL STEIN","3"
-"FULTON","CANTON  3","President","","Libertarian","GARY JOHNSON","16"
-"FULTON","CANTON 16","President","","NonPartisan","Write-in","5"
-"FULTON","PUTMAN 2","President","","Democrat","HILLARY RODHAM CLINTON","144"
-"FULTON","YOUNG HICKORY","President","","Democrat","HILLARY RODHAM CLINTON","98"
-"FULTON","CANTON  2","President","","Libertarian","GARY JOHNSON","16"
-"FULTON","KERTON","President","","Libertarian","GARY JOHNSON","1"
-"FULTON","CANTON 10","President","","Democrat","HILLARY RODHAM CLINTON","168"
-"FULTON","HARRIS","President","","Democrat","HILLARY RODHAM CLINTON","44"
-"FULTON","VERMONT 2","President","","Democrat","HILLARY RODHAM CLINTON","42"
-"FULTON","FARMERS","President","","Republican","DONALD J. TRUMP","141"
-"FULTON","HARRIS","President","","Green","JILL STEIN","2"
-"FULTON","VERMONT 2","President","","Green","JILL STEIN","1"
-"FULTON","LEWISTOWN 2","President","","Libertarian","GARY JOHNSON","6"
-"FULTON","CANTON 14","President","","NonPartisan","Write-in","2"
-"FULTON","LEE TWP","President","","NonPartisan","Write-in","7"
-"FULTON","YOUNG HICKORY","President","","NonPartisan","Write-in","2"
-"FULTON","ISABEL","President","","Democrat","HILLARY RODHAM CLINTON","33"
-"FULTON","CANTON 11","President","","Green","JILL STEIN","4"
-"FULTON","CANTON  6","President","","Libertarian","GARY JOHNSON","20"
-"FULTON","WOODLAND","President","","NonPartisan","Write-in","1"
-"FULTON","FARMINGTON 2","President","","Democrat","HILLARY RODHAM CLINTON","54"
-"FULTON","JOSHUA","President","","Republican","DONALD J. TRUMP","157"
-"FULTON","WATERFORD","President","","Republican","DONALD J. TRUMP","64"
-"FULTON","JOSHUA","President","","Green","JILL STEIN","2"
-"FULTON","CANTON 13","President","","Republican","DONALD J. TRUMP","265"
-"FULTON","KERTON","President","","Republican","DONALD J. TRUMP","40"
-"FULTON","CANTON  2","President","","Green","JILL STEIN","4"
-"FULTON","LEWISTOWN 5","President","","Libertarian","GARY JOHNSON","8"
-"FULTON","LIVERPOOL","President","","NonPartisan","Write-in","3"
-"FULTON","ASTORIA 2","President","","Democrat","HILLARY RODHAM CLINTON","79"
-"FULTON","JOSHUA","President","","Democrat","HILLARY RODHAM CLINTON","84"
-"FULTON","WATERFORD","President","","Democrat","HILLARY RODHAM CLINTON","27"
-"FULTON","CANTON 13","President","","Democrat","HILLARY RODHAM CLINTON","241"
-"FULTON","WOODLAND","President","","Republican","DONALD J. TRUMP","130"
-"FULTON","CANTON 13","President","","Green","JILL STEIN","9"
-"FULTON","CANTON  8","President","","Libertarian","GARY JOHNSON","18"
-"FULTON","ELLISVILLE","President","","Libertarian","GARY JOHNSON","5"
-"FULTON","CANTON 10","President","","NonPartisan","Write-in","5"
-"FULTON","FARMINGTON 3","President","","Democrat","HILLARY RODHAM CLINTON","44"
-"FULTON","BANNER","President","","Green","JILL STEIN","0"
-"FULTON","CANTON  1","President","","Libertarian","GARY JOHNSON","25"
-"FULTON","WATERFORD","President","","Libertarian","GARY JOHNSON","4"
-"FULTON","LEWISTOWN 4","President","","Democrat","HILLARY RODHAM CLINTON","107"
-"FULTON","ASTORIA 1","President","","Democrat","HILLARY RODHAM CLINTON","99"
-"FULTON","ORION","President","","Republican","DONALD J. TRUMP","351"
-"FULTON","ASTORIA 1","President","","Green","JILL STEIN","2"
-"FULTON","FARMINGTON 1","President","","Green","JILL STEIN","6"
-"FULTON","BUCKHEART 3","President","","Libertarian","GARY JOHNSON","9"
-"FULTON","JOSHUA","President","","NonPartisan","Write-in","5"
-"FULTON","WATERFORD","President","","NonPartisan","Write-in","0"
-"FULTON","CANTON  6","President","","Democrat","HILLARY RODHAM CLINTON","147"
-"FULTON","LEWISTOWN 3","President","","Democrat","HILLARY RODHAM CLINTON","82"
-"FULTON","CANTON  6","President","","Republican","DONALD J. TRUMP","153"
-"FULTON","CASS","President","","Republican","DONALD J. TRUMP","159"
-"FULTON","LEWISTOWN 3","President","","Green","JILL STEIN","2"
-"FULTON","FARMINGTON 2","President","","Libertarian","GARY JOHNSON","9"
-"FULTON","PLEASANT","President","","Libertarian","GARY JOHNSON","9"
-"FULTON","BERNADOTTE","President","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 1","President","","Libertarian","GARY JOHNSON","13"
-"FULTON","ELECTIONS OFFICE","President","","NonPartisan","Write-in","0"
-"FULTON","CANTON  9","President","","Green","JILL STEIN","6"
-"FULTON","FAIRVIEW","President","","Green","JILL STEIN","5"
-"FULTON","LEWISTOWN 6","President","","Green","JILL STEIN","5"
-"FULTON","BUCKHEART 1","President","","Libertarian","GARY JOHNSON","11"
-"FULTON","FARMINGTON 5","President","","Libertarian","GARY JOHNSON","30"
-"FULTON","BUCKHEART 2","President","","Democrat","HILLARY RODHAM CLINTON","141"
-"FULTON","FARMINGTON 6","President","","Democrat","HILLARY RODHAM CLINTON","129"
-"FULTON","VERMONT 1","President","","Democrat","HILLARY RODHAM CLINTON","59"
-"FULTON","FARMINGTON 6","President","","Republican","DONALD J. TRUMP","156"
-"FULTON","BUCKHEART 2","President","","Green","JILL STEIN","5"
-"FULTON","VERMONT 1","President","","Green","JILL STEIN","3"
-"FULTON","CANTON  4","President","","Libertarian","GARY JOHNSON","25"
-"FULTON","ELECTIONS OFFICE","President","","Libertarian","GARY JOHNSON","0"
-"FULTON","ELLISVILLE","President","","Democrat","HILLARY RODHAM CLINTON","28"
-"FULTON","LEWISTOWN 5","President","","Democrat","HILLARY RODHAM CLINTON","49"
-"FULTON","CANTON  8","President","","Green","JILL STEIN","6"
-"FULTON","ELLISVILLE","President","","Green","JILL STEIN","0"
-"FULTON","LEWISTOWN 5","President","","Green","JILL STEIN","8"
-"FULTON","BERNADOTTE","President","","Libertarian","GARY JOHNSON","2"
-"FULTON","LIVERPOOL","President","","Democrat","HILLARY RODHAM CLINTON","106"
-"FULTON","YOUNG HICKORY","President","","Republican","DONALD J. TRUMP","156"
-"FULTON","FARMERS","President","","Green","JILL STEIN","4"
-"FULTON","FARMINGTON 6","President","","Libertarian","GARY JOHNSON","20"
-"FULTON","FARMINGTON 1","President","","Democrat","HILLARY RODHAM CLINTON","143"
-"FULTON","FARMINGTON 1","President","","Republican","DONALD J. TRUMP","232"
-"FULTON","CANTON  1","President","","NonPartisan","Write-in","8"
-"FULTON","CANTON 12","President","","NonPartisan","Write-in","1"
-"FULTON","BERNADOTTE","President","","Republican","DONALD J. TRUMP","71"
-"FULTON","BERNADOTTE","President","","Green","JILL STEIN","1"
-"FULTON","CANTON 14","President","","Green","JILL STEIN","13"
-"FULTON","CANTON 15","President","","Democrat","HILLARY RODHAM CLINTON","197"
-"FULTON","ELECTIONS OFFICE","President","","Democrat","HILLARY RODHAM CLINTON","0"
-"FULTON","CANTON  4","President","","Republican","DONALD J. TRUMP","184"
-"FULTON","CANTON  4","President","","Green","JILL STEIN","6"
-"FULTON","ELECTIONS OFFICE","President","","Green","JILL STEIN","0"
-"FULTON","CANTON 10","President","","Libertarian","GARY JOHNSON","18"
-"FULTON","ELLISVILLE","President","","NonPartisan","Write-in","0"
-"FULTON","LEWISTOWN 2","President","","Democrat","HILLARY RODHAM CLINTON","77"
-"FULTON","CANTON  5","President","","Republican","DONALD J. TRUMP","226"
-"FULTON","CANTON 16","President","","Republican","DONALD J. TRUMP","300"
-"FULTON","CANTON  5","President","","Green","JILL STEIN","7"
-"FULTON","VERMONT 3","President","","Libertarian","GARY JOHNSON","1"
-"FULTON","DEERFIELD","President","","NonPartisan","Write-in","1"
-"FULTON","CANTON  4","President","","Democrat","HILLARY RODHAM CLINTON","169"
-"FULTON","LEWISTOWN 1","President","","Democrat","HILLARY RODHAM CLINTON","52"
-"FULTON","CANTON 15","President","","Republican","DONALD J. TRUMP","190"
-"FULTON","LEWISTOWN 1","President","","Republican","DONALD J. TRUMP","117"
-"FULTON","LEWISTOWN 1","President","","Green","JILL STEIN","1"
-"FULTON","LIVERPOOL","President","","Libertarian","GARY JOHNSON","13"
-"FULTON","CANTON  8","President","","NonPartisan","Write-in","2"
-"FULTON","BUCKHEART 3","President","","Democrat","HILLARY RODHAM CLINTON","73"
-"FULTON","CANTON 10","President","","Republican","DONALD J. TRUMP","141"
-"FULTON","VERMONT 2","President","","Republican","DONALD J. TRUMP","68"
-"FULTON","BUCKHEART 3","President","","Green","JILL STEIN","4"
-"FULTON","CANTON 16","President","","Libertarian","GARY JOHNSON","22"
-"FULTON","PUTMAN 1","President","","Democrat","HILLARY RODHAM CLINTON","232"
-"FULTON","FARMINGTON 3","President","","Republican","DONALD J. TRUMP","84"
-"FULTON","PUTMAN 1","President","","Green","JILL STEIN","6"
-"FULTON","CANTON 12","President","","Libertarian","GARY JOHNSON","17"
-"FULTON","HARRIS","President","","NonPartisan","Write-in","0"
-"FULTON","BERNADOTTE","President","","Democrat","HILLARY RODHAM CLINTON","53"
-"FULTON","FARMINGTON 4","President","","Democrat","HILLARY RODHAM CLINTON","40"
-"FULTON","FARMINGTON 4","President","","Republican","DONALD J. TRUMP","54"
-"FULTON","PUTMAN 2","President","","Republican","DONALD J. TRUMP","242"
-"FULTON","YOUNG HICKORY","President","","Green","JILL STEIN","7"
-"FULTON","CANTON  2","President","","Democrat","HILLARY RODHAM CLINTON","181"
-"FULTON","KERTON","President","","Democrat","HILLARY RODHAM CLINTON","8"
-"FULTON","WOODLAND","President","","Democrat","HILLARY RODHAM CLINTON","54"
-"FULTON","CANTON  2","President","","Republican","DONALD J. TRUMP","138"
-"FULTON","KERTON","President","","Green","JILL STEIN","0"
-"FULTON","WOODLAND","President","","Green","JILL STEIN","3"
-"FULTON","FARMERS","President","","NonPartisan","Write-in","2"
-"FULTON","CANTON  9","President","","Democrat","HILLARY RODHAM CLINTON","54"
-"FULTON","FAIRVIEW","President","","Democrat","HILLARY RODHAM CLINTON","108"
-"FULTON","LEWISTOWN 6","President","","Democrat","HILLARY RODHAM CLINTON","104"
-"FULTON","BANNER","President","","Democrat","HILLARY RODHAM CLINTON","63"
-"FULTON","BANNER","President","","Republican","DONALD J. TRUMP","93"
-"FULTON","PUTMAN 1","President","","Republican","DONALD J. TRUMP","340"
-"FULTON","FARMINGTON 3","President","","Green","JILL STEIN","2"
-"FULTON","BUCKHEART 2","President","","Republican","DONALD J. TRUMP","130"
-"FULTON","VERMONT 1","President","","Republican","DONALD J. TRUMP","147"
-"FULTON","FARMINGTON 6","President","","Green","JILL STEIN","4"
-"FULTON","LEWISTOWN 2","President","","Green","JILL STEIN","3"
-"FULTON","CANTON 15","President","","Libertarian","GARY JOHNSON","18"
-"FULTON","BUCKHEART 1","President","","NonPartisan","Write-in","1"
-"FULTON","FARMINGTON 5","President","","NonPartisan","Write-in","2"
-"FULTON","CASS","President","","Democrat","HILLARY RODHAM CLINTON","104"
-"FULTON","LEWISTOWN 3","President","","Republican","DONALD J. TRUMP","106"
-"FULTON","ASTORIA 2","President","","Libertarian","GARY JOHNSON","13"
-"FULTON","FARMINGTON 4","President","","NonPartisan","Write-in","4"
-"FULTON","PUTMAN 2","President","","NonPartisan","Write-in","3"
-"FULTON","CANTON 14","President","","Democrat","HILLARY RODHAM CLINTON","241"
-"FULTON","FARMERS","President","","Democrat","HILLARY RODHAM CLINTON","40"
-"FULTON","LEE TWP","President","","Democrat","HILLARY RODHAM CLINTON","23"
-"FULTON","LIVERPOOL","President","","Republican","DONALD J. TRUMP","203"
-"FULTON","CANTON 10","President","","Green","JILL STEIN","6"
-"FULTON","LIVERPOOL","President","","Green","JILL STEIN","2"
-"FULTON","CANTON  9","President","","Libertarian","GARY JOHNSON","11"
-"FULTON","BUCKHEART 2","President","","Libertarian","GARY JOHNSON","12"
-"FULTON","VERMONT 1","President","","Libertarian","GARY JOHNSON","13"
-"FULTON","CANTON  9","President","","NonPartisan","Write-in","2"
-"FULTON","LEWISTOWN 6","President","","NonPartisan","Write-in","2"
-"FULTON","BUCKHEART 1","President","","Democrat","HILLARY RODHAM CLINTON","107"
-"FULTON","UNION","President","","Republican","DONALD J. TRUMP","224"
-"FULTON","UNION","President","","Green","JILL STEIN","5"
-"FULTON","LEE TWP","President","","Libertarian","GARY JOHNSON","8"
-"FULTON","YOUNG HICKORY","President","","Libertarian","GARY JOHNSON","8"
-"FULTON","LEWISTOWN 2","President","","NonPartisan","Write-in","2"
-"FULTON","CANTON  1","President","","Democrat","HILLARY RODHAM CLINTON","175"
-"FULTON","CANTON  1","President","","Republican","DONALD J. TRUMP","144"
-"FULTON","CANTON  8","President","","Republican","DONALD J. TRUMP","195"
-"FULTON","LEWISTOWN 5","President","","Republican","DONALD J. TRUMP","127"
-"FULTON","CANTON  7","President","","Libertarian","GARY JOHNSON","28"
-"FULTON","FARMINGTON 4","President","","Libertarian","GARY JOHNSON","8"
-"FULTON","VERMONT 3","President","","Democrat","HILLARY RODHAM CLINTON","16"
-"FULTON","VERMONT 3","President","","Republican","DONALD J. TRUMP","51"
-"FULTON","VERMONT 3","President","","Green","JILL STEIN","0"
-"FULTON","CASS","President","","Libertarian","GARY JOHNSON","15"
-"FULTON","LEWISTOWN 3","President","","Libertarian","GARY JOHNSON","11"
-"FULTON","CANTON  8","President","","Democrat","HILLARY RODHAM CLINTON","133"
-"FULTON","CANTON 12","President","","Republican","DONALD J. TRUMP","102"
-"FULTON","ELLISVILLE","President","","Republican","DONALD J. TRUMP","48"
-"FULTON","PUTMAN 2","President","","Libertarian","GARY JOHNSON","20"
-"FULTON","FARMINGTON 2","President","","NonPartisan","Write-in","3"
-"FULTON","PLEASANT","President","","NonPartisan","Write-in","5"
-"FULTON","CANTON  6","President","","Green","JILL STEIN","4"
-"FULTON","CASS","President","","Green","JILL STEIN","6"
-"FULTON","PLEASANT","President","","Democrat","HILLARY RODHAM CLINTON","125"
-"FULTON","CANTON 16","President","","Green","JILL STEIN","4"
-"FULTON","FARMINGTON 1","President","","Libertarian","GARY JOHNSON","15"
-"FULTON","ORION","President","","Libertarian","GARY JOHNSON","35"
-"FULTON","DEERFIELD","President","","Democrat","HILLARY RODHAM CLINTON","40"
-"FULTON","CANTON  7","President","","Green","JILL STEIN","7"
-"FULTON","DEERFIELD","President","","Green","JILL STEIN","5"
-"FULTON","LEWISTOWN 4","President","","Green","JILL STEIN","3"
-"FULTON","PUTMAN 2","President","","Green","JILL STEIN","10"
-"FULTON","BANNER","President","","Libertarian","GARY JOHNSON","7"
-"FULTON","CASS","President","","NonPartisan","Write-in","3"
-"FULTON","ELECTIONS OFFICE","President","","Republican","DONALD J. TRUMP","0"
-"FULTON","CANTON 15","President","","Green","JILL STEIN","3"
-"FULTON","FARMERS","President","","Libertarian","GARY JOHNSON","10"
-"FULTON","LEWISTOWN 5","President","","NonPartisan","Write-in","3"
-"FULTON","UNION","President","","NonPartisan","Write-in","1"
-"FULTON","ASTORIA 2","President","","Republican","DONALD J. TRUMP","140"
-"FULTON","ASTORIA 2","President","","Green","JILL STEIN","1"
-"FULTON","CANTON 12","President","","Green","JILL STEIN","5"
-"FULTON","CANTON 11","President","","Libertarian","GARY JOHNSON","11"
-"FULTON","DEERFIELD","President","","Libertarian","GARY JOHNSON","8"
-"FULTON","LEWISTOWN 4","President","","Libertarian","GARY JOHNSON","12"
-"FULTON","CANTON 11","President","","NonPartisan","Write-in","1"
-"FULTON","ISABEL","President","","NonPartisan","Write-in","1"
-"FULTON","VERMONT 3","President","","NonPartisan","Write-in","1"
-"FULTON","FARMINGTON 6","President","","NonPartisan","Write-in","2"
-"FULTON","VERMONT 1","President","","NonPartisan","Write-in","1"
-"FULTON","CANTON 14","President","","Libertarian","GARY JOHNSON","27"
-"FULTON","CANTON  5","President","","NonPartisan","Write-in","2"
-"FULTON","CANTON 11","President","","Democrat","HILLARY RODHAM CLINTON","68"
-"FULTON","CANTON 11","President","","Republican","DONALD J. TRUMP","79"
-"FULTON","ISABEL","President","","Republican","DONALD J. TRUMP","77"
-"FULTON","ISABEL","President","","Green","JILL STEIN","1"
-"FULTON","CANTON  2","President","","NonPartisan","Write-in","3"
-"FULTON","BANNER","President","","NonPartisan","Write-in","2"
-"FULTON","FARMINGTON 4","President","","Green","JILL STEIN","4"
-"FULTON","LEE TWP","President","","Green","JILL STEIN","0"
-"FULTON","LEWISTOWN 6","President","","Libertarian","GARY JOHNSON","10"
-"FULTON","JOSHUA","President","","Libertarian","GARY JOHNSON","11"
-"FULTON","BUCKHEART 3","President","","NonPartisan","Write-in","0"
-"FULTON","VERMONT 2","President","","NonPartisan","Write-in","3"
-"FULTON","LEWISTOWN 1","President","","NonPartisan","Write-in","0"
-"FULTON","CANTON  4","President","","NonPartisan","Write-in","2"
-"FULTON","ASTORIA 1","President","","NonPartisan","Write-in","4"
-"FULTON","FARMINGTON 1","President","","NonPartisan","Write-in","7"
-"FULTON","ASTORIA 2","President","","NonPartisan","Write-in","1"
-"FULTON","CANTON  7","President","","Republican","DONALD J. TRUMP","149"
-"FULTON","DEERFIELD","President","","Republican","DONALD J. TRUMP","102"
-"FULTON","LEWISTOWN 4","President","","Republican","DONALD J. TRUMP","153"
-"FULTON","FARMINGTON 3","President","","Libertarian","GARY JOHNSON","7"
-"FULTON","PUTMAN 1","President","","Libertarian","GARY JOHNSON","30"
-"FULTON","FARMINGTON 3","President","","NonPartisan","Write-in","1"
-"FULTON","LEWISTOWN 3","President","","NonPartisan","Write-in","2"
-"FULTON","PUTMAN 1","President","","NonPartisan","Write-in","6"
-"FULTON","CANTON 13","President","","Libertarian","GARY JOHNSON","15"
-"FULTON","WOODLAND","President","","Libertarian","GARY JOHNSON","7"
-"FULTON","BUCKHEART 2","President","","NonPartisan","Write-in","1"
-"FULTON","CANTON 13","President","","NonPartisan","Write-in","5"
-"FULTON","KERTON","President","","NonPartisan","Write-in","0"
+county,precinct,office,district,party,candidate,votes
+FULTON,BUCKHEART 2,State House,29,Republican,MICHAEL D. UNES,218
+FULTON,FARMINGTON 6,State House,29,Republican,MICHAEL D. UNES,255
+FULTON,FARMINGTON 5,State House,29,Republican,MICHAEL D. UNES,336
+FULTON,BUCKHEART 1,State House,29,Republican,MICHAEL D. UNES,185
+FULTON,PUTMAN 1,State House,29,Republican,MICHAEL D. UNES,523
+FULTON,CANTON 11,State House,29,Republican,MICHAEL D. UNES,120
+FULTON,LEWISTOWN 4,State House,29,Republican,MICHAEL D. UNES,236
+FULTON,LIVERPOOL,State House,29,Republican,MICHAEL D. UNES,276
+FULTON,CANTON 8,State House,29,Republican,MICHAEL D. UNES,282
+FULTON,LEWISTOWN 6,State House,29,Republican,MICHAEL D. UNES,221
+FULTON,ORION,State House,29,Republican,MICHAEL D. UNES,554
+FULTON,LEWISTOWN 5,State House,29,Republican,MICHAEL D. UNES,152
+FULTON,BUCKHEART 3,State House,29,Republican,MICHAEL D. UNES,130
+FULTON,LEWISTOWN 2,State House,29,Republican,MICHAEL D. UNES,159
+FULTON,CANTON 7,State House,29,Republican,MICHAEL D. UNES,263
+FULTON,PUTMAN 2,State House,29,Republican,MICHAEL D. UNES,355
+FULTON,JOSHUA,State House,29,Republican,MICHAEL D. UNES,216
+FULTON,CANTON 6,State House,29,Republican,MICHAEL D. UNES,267
+FULTON,LEWISTOWN 3,State House,29,Republican,MICHAEL D. UNES,166
+FULTON,CANTON 2,State House,29,Republican,MICHAEL D. UNES,276
+FULTON,CANTON 13,State House,29,Republican,MICHAEL D. UNES,460
+FULTON,CANTON 15,State House,29,Republican,MICHAEL D. UNES,329
+FULTON,LEWISTOWN 1,State House,29,Republican,MICHAEL D. UNES,140
+FULTON,BANNER,State House,29,Republican,MICHAEL D. UNES,130
+FULTON,FARMINGTON 3,State House,29,Republican,MICHAEL D. UNES,123
+FULTON,FARMINGTON 4,State House,29,Republican,MICHAEL D. UNES,99
+FULTON,CANTON 16,State House,29,Republican,MICHAEL D. UNES,522
+FULTON,FARMINGTON 1,State House,29,Republican,MICHAEL D. UNES,351
+FULTON,CANTON 9,State House,29,Republican,MICHAEL D. UNES,129
+FULTON,FAIRVIEW,State House,29,Republican,MICHAEL D. UNES,292
+FULTON,CANTON 3,State House,29,Republican,MICHAEL D. UNES,205
+FULTON,CANTON 14,State House,29,Republican,MICHAEL D. UNES,444
+FULTON,FARMINGTON 2,State House,29,Republican,MICHAEL D. UNES,130
+FULTON,CANTON 10,State House,29,Republican,MICHAEL D. UNES,275
+FULTON,CANTON 5,State House,29,Republican,MICHAEL D. UNES,389
+FULTON,CANTON 1,State House,29,Republican,MICHAEL D. UNES,320
+FULTON,CANTON 12,State House,29,Republican,MICHAEL D. UNES,206
+FULTON,CANTON 4,State House,29,Republican,MICHAEL D. UNES,325
+FULTON,BERNADOTTE,State House,29,Republican,NORINE K. HAMMOND,62
+FULTON,VERMONT 3,State House,29,Republican,NORINE K. HAMMOND,42
+FULTON,CASS,State House,29,Democrat,JOHN CURTIS,124
+FULTON,PLEASANT,State House,29,Democrat,JOHN CURTIS,168
+FULTON,ELLISVILLE,State House,29,Democrat,JOHN CURTIS,36
+FULTON,LEE TWP,State House,29,Republican,NORINE K. HAMMOND,106
+FULTON,YOUNG HICKORY,State House,29,Republican,NORINE K. HAMMOND,135
+FULTON,HARRIS,State House,29,Republican,NORINE K. HAMMOND,117
+FULTON,LEE TWP,State House,29,Democrat,JOHN CURTIS,38
+FULTON,YOUNG HICKORY,State House,29,Democrat,JOHN CURTIS,127
+FULTON,WOODLAND,State House,29,Republican,NORINE K. HAMMOND,109
+FULTON,ASTORIA 2,State House,29,Republican,NORINE K. HAMMOND,114
+FULTON,WATERFORD,State House,29,Republican,NORINE K. HAMMOND,48
+FULTON,UNION,State House,29,Democrat,JOHN CURTIS,173
+FULTON,UNION,State House,29,Republican,NORINE K. HAMMOND,237
+FULTON,VERMONT 3,State House,29,Democrat,JOHN CURTIS,26
+FULTON,WATERFORD,State House,29,Democrat,JOHN CURTIS,45
+FULTON,ASTORIA 1,State House,29,Democrat,JOHN CURTIS,132
+FULTON,WOODLAND,State House,29,Democrat,JOHN CURTIS,85
+FULTON,HARRIS,State House,29,Democrat,JOHN CURTIS,61
+FULTON,VERMONT 1,State House,29,Republican,NORINE K. HAMMOND,103
+FULTON,FARMERS,State House,29,Democrat,JOHN CURTIS,79
+FULTON,KERTON,State House,29,Republican,NORINE K. HAMMOND,30
+FULTON,VERMONT 1,State House,29,Democrat,JOHN CURTIS,116
+FULTON,ELLISVILLE,State House,29,Republican,NORINE K. HAMMOND,46
+FULTON,KERTON,State House,29,Democrat,JOHN CURTIS,21
+FULTON,PLEASANT,State House,29,Republican,NORINE K. HAMMOND,206
+FULTON,VERMONT 2,State House,29,Democrat,JOHN CURTIS,45
+FULTON,ISABEL,State House,29,Democrat,JOHN CURTIS,32
+FULTON,FARMERS,State House,29,Republican,NORINE K. HAMMOND,112
+FULTON,ASTORIA 2,State House,29,Democrat,JOHN CURTIS,120
+FULTON,BERNADOTTE,State House,29,Democrat,JOHN CURTIS,59
+FULTON,CASS,State House,29,Republican,NORINE K. HAMMOND,153
+FULTON,ASTORIA 1,State House,29,Republican,NORINE K. HAMMOND,178
+FULTON,ISABEL,State House,29,Republican,NORINE K. HAMMOND,80
+FULTON,DEERFIELD,State House,29,Democrat,JOHN CURTIS,47
+FULTON,VERMONT 2,State House,29,Republican,NORINE K. HAMMOND,72
+FULTON,DEERFIELD,State House,29,Republican,NORINE K. HAMMOND,103
+FULTON,ELLISVILLE,State Senate,29,Republican,JIL TRACY,69
+FULTON,ISABEL,State Senate,29,Republican,JIL TRACY,99
+FULTON,VERMONT 2,State Senate,29,Republican,JIL TRACY,100
+FULTON,VERMONT 3,State Senate,29,Republican,JIL TRACY,57
+FULTON,ASTORIA 1,State Senate,29,NonPartisan,Write-in,2
+FULTON,KERTON,State Senate,29,NonPartisan,Write-in,1
+FULTON,WOODLAND,State Senate,29,NonPartisan,Write-in,6
+FULTON,UNION,State Senate,29,Republican,JIL TRACY,336
+FULTON,LEE TWP,State Senate,29,NonPartisan,Write-in,0
+FULTON,YOUNG HICKORY,State Senate,29,NonPartisan,Write-in,4
+FULTON,BERNADOTTE,State Senate,29,Republican,JIL TRACY,93
+FULTON,YOUNG HICKORY,State Senate,29,Republican,JIL TRACY,217
+FULTON,BERNADOTTE,State Senate,29,NonPartisan,Write-in,2
+FULTON,DEERFIELD,State Senate,29,NonPartisan,Write-in,2
+FULTON,CASS,State Senate,29,Republican,JIL TRACY,229
+FULTON,VERMONT 1,State Senate,29,Republican,JIL TRACY,177
+FULTON,ASTORIA 2,State Senate,29,NonPartisan,Write-in,5
+FULTON,HARRIS,State Senate,29,Republican,JIL TRACY,158
+FULTON,FARMERS,State Senate,29,NonPartisan,Write-in,1
+FULTON,WATERFORD,State Senate,29,NonPartisan,Write-in,2
+FULTON,VERMONT 3,State Senate,29,NonPartisan,Write-in,0
+FULTON,DEERFIELD,State Senate,29,Republican,JIL TRACY,130
+FULTON,PLEASANT,State Senate,29,NonPartisan,Write-in,5
+FULTON,CASS,State Senate,29,NonPartisan,Write-in,4
+FULTON,UNION,State Senate,29,NonPartisan,Write-in,5
+FULTON,ASTORIA 1,State Senate,29,Republican,JIL TRACY,263
+FULTON,ASTORIA 2,State Senate,29,Republican,JIL TRACY,186
+FULTON,FARMERS,State Senate,29,Republican,JIL TRACY,164
+FULTON,LEE TWP,State Senate,29,Republican,JIL TRACY,132
+FULTON,WATERFORD,State Senate,29,Republican,JIL TRACY,73
+FULTON,WOODLAND,State Senate,29,Republican,JIL TRACY,163
+FULTON,ELLISVILLE,State Senate,29,NonPartisan,Write-in,2
+FULTON,ISABEL,State Senate,29,NonPartisan,Write-in,2
+FULTON,KERTON,State Senate,29,Republican,JIL TRACY,34
+FULTON,PLEASANT,State Senate,29,Republican,JIL TRACY,296
+FULTON,HARRIS,State Senate,29,NonPartisan,Write-in,0
+FULTON,VERMONT 1,State Senate,29,NonPartisan,Write-in,5
+FULTON,VERMONT 2,State Senate,29,NonPartisan,Write-in,1
+FULTON,BUCKHEART 2,State Senate,29,Democrat,DAVE KOEHLER,234
+FULTON,FARMINGTON 1,State Senate,29,Democrat,DAVE KOEHLER,322
+FULTON,FARMINGTON 6,State Senate,29,Democrat,DAVE KOEHLER,269
+FULTON,JOSHUA,State Senate,29,Democrat,DAVE KOEHLER,193
+FULTON,PUTMAN 2,State Senate,29,Democrat,DAVE KOEHLER,363
+FULTON,CANTON 1,State Senate,29,Democrat,DAVE KOEHLER,316
+FULTON,FARMINGTON 3,State Senate,29,Democrat,DAVE KOEHLER,109
+FULTON,FARMINGTON 5,State Senate,29,Democrat,DAVE KOEHLER,321
+FULTON,LIVERPOOL,State Senate,29,Democrat,DAVE KOEHLER,247
+FULTON,LEWISTOWN 5,State Senate,29,Democrat,DAVE KOEHLER,143
+FULTON,CANTON 12,State Senate,29,Democrat,DAVE KOEHLER,226
+FULTON,FAIRVIEW,State Senate,29,Democrat,DAVE KOEHLER,270
+FULTON,CANTON 4,State Senate,29,Democrat,DAVE KOEHLER,341
+FULTON,CANTON 16,State Senate,29,Democrat,DAVE KOEHLER,508
+FULTON,CANTON 7,State Senate,29,Democrat,DAVE KOEHLER,260
+FULTON,BUCKHEART 3,State Senate,29,Democrat,DAVE KOEHLER,131
+FULTON,PUTMAN 1,State Senate,29,Democrat,DAVE KOEHLER,501
+FULTON,FARMINGTON 2,State Senate,29,Democrat,DAVE KOEHLER,114
+FULTON,ORION,State Senate,29,Democrat,DAVE KOEHLER,521
+FULTON,CANTON 8,State Senate,29,Democrat,DAVE KOEHLER,287
+FULTON,CANTON 11,State Senate,29,Democrat,DAVE KOEHLER,124
+FULTON,CANTON 13,State Senate,29,Democrat,DAVE KOEHLER,434
+FULTON,CANTON 14,State Senate,29,Democrat,DAVE KOEHLER,430
+FULTON,CANTON 3,State Senate,29,Democrat,DAVE KOEHLER,233
+FULTON,FARMINGTON 4,State Senate,29,Democrat,DAVE KOEHLER,94
+FULTON,CANTON 15,State Senate,29,Democrat,DAVE KOEHLER,353
+FULTON,LEWISTOWN 6,State Senate,29,Democrat,DAVE KOEHLER,224
+FULTON,CANTON 10,State Senate,29,Democrat,DAVE KOEHLER,284
+FULTON,CANTON 5,State Senate,29,Democrat,DAVE KOEHLER,393
+FULTON,BUCKHEART 1,State Senate,29,Democrat,DAVE KOEHLER,194
+FULTON,CANTON 6,State Senate,29,Democrat,DAVE KOEHLER,279
+FULTON,BANNER,State Senate,29,Democrat,DAVE KOEHLER,125
+FULTON,LEWISTOWN 1,State Senate,29,Democrat,DAVE KOEHLER,133
+FULTON,LEWISTOWN 4,State Senate,29,Democrat,DAVE KOEHLER,231
+FULTON,CANTON 2,State Senate,29,Democrat,DAVE KOEHLER,302
+FULTON,CANTON 9,State Senate,29,Democrat,DAVE KOEHLER,126
+FULTON,LEWISTOWN 2,State Senate,29,Democrat,DAVE KOEHLER,158
+FULTON,LEWISTOWN 3,State Senate,29,Democrat,DAVE KOEHLER,168
+FULTON,BUCKHEART 1,U.S. House,29,Republican,PATRICK HARLAN,70
+FULTON,HARRIS,U.S. House,29,Democrat,CHERI BUSTOS,90
+FULTON,FAIRVIEW,U.S. House,29,Republican,PATRICK HARLAN,140
+FULTON,FARMINGTON 6,U.S. House,29,Republican,PATRICK HARLAN,116
+FULTON,CANTON 16,U.S. House,29,Democrat,CHERI BUSTOS,391
+FULTON,FARMINGTON 5,U.S. House,29,Republican,PATRICK HARLAN,143
+FULTON,VERMONT 3,U.S. House,29,Democrat,CHERI BUSTOS,27
+FULTON,FARMERS,U.S. House,29,Republican,PATRICK HARLAN,110
+FULTON,CANTON 7,U.S. House,29,Democrat,CHERI BUSTOS,192
+FULTON,LEWISTOWN 4,U.S. House,29,Democrat,CHERI BUSTOS,173
+FULTON,VERMONT 2,U.S. House,29,Republican,PATRICK HARLAN,62
+FULTON,FARMINGTON 6,U.S. House,29,Democrat,CHERI BUSTOS,192
+FULTON,ELLISVILLE,U.S. House,29,Democrat,CHERI BUSTOS,45
+FULTON,CANTON 11,U.S. House,29,Republican,PATRICK HARLAN,59
+FULTON,FARMINGTON 2,U.S. House,29,Democrat,CHERI BUSTOS,86
+FULTON,LEWISTOWN 1,U.S. House,29,Republican,PATRICK HARLAN,62
+FULTON,BANNER,U.S. House,29,Democrat,CHERI BUSTOS,96
+FULTON,PUTMAN 1,U.S. House,29,Democrat,CHERI BUSTOS,371
+FULTON,ASTORIA 2,U.S. House,29,Republican,PATRICK HARLAN,97
+FULTON,PLEASANT,U.S. House,29,Democrat,CHERI BUSTOS,222
+FULTON,CANTON 4,U.S. House,29,Republican,PATRICK HARLAN,139
+FULTON,BUCKHEART 2,U.S. House,29,Democrat,CHERI BUSTOS,209
+FULTON,VERMONT 1,U.S. House,29,Democrat,CHERI BUSTOS,114
+FULTON,CANTON 12,U.S. House,29,Democrat,CHERI BUSTOS,183
+FULTON,VERMONT 3,U.S. House,29,Republican,PATRICK HARLAN,41
+FULTON,CANTON 11,U.S. House,29,Democrat,CHERI BUSTOS,100
+FULTON,DEERFIELD,U.S. House,29,Democrat,CHERI BUSTOS,82
+FULTON,BUCKHEART 3,U.S. House,29,Republican,PATRICK HARLAN,53
+FULTON,HARRIS,U.S. House,29,Republican,PATRICK HARLAN,87
+FULTON,PUTMAN 2,U.S. House,29,Democrat,CHERI BUSTOS,259
+FULTON,CASS,U.S. House,29,Republican,PATRICK HARLAN,111
+FULTON,CANTON 2,U.S. House,29,Democrat,CHERI BUSTOS,250
+FULTON,CANTON 13,U.S. House,29,Democrat,CHERI BUSTOS,343
+FULTON,CANTON 1,U.S. House,29,Republican,PATRICK HARLAN,110
+FULTON,WATERFORD,U.S. House,29,Republican,PATRICK HARLAN,36
+FULTON,FARMINGTON 1,U.S. House,29,Republican,PATRICK HARLAN,171
+FULTON,FARMINGTON 5,U.S. House,29,Democrat,CHERI BUSTOS,243
+FULTON,ASTORIA 2,U.S. House,29,Democrat,CHERI BUSTOS,134
+FULTON,CANTON 15,U.S. House,29,Republican,PATRICK HARLAN,119
+FULTON,LEE TWP,U.S. House,29,Democrat,CHERI BUSTOS,55
+FULTON,FARMINGTON 3,U.S. House,29,Republican,PATRICK HARLAN,60
+FULTON,CASS,U.S. House,29,Democrat,CHERI BUSTOS,170
+FULTON,LEWISTOWN 3,U.S. House,29,Democrat,CHERI BUSTOS,130
+FULTON,CANTON 16,U.S. House,29,Republican,PATRICK HARLAN,221
+FULTON,YOUNG HICKORY,U.S. House,29,Democrat,CHERI BUSTOS,157
+FULTON,CANTON 1,U.S. House,29,Democrat,CHERI BUSTOS,249
+FULTON,JOSHUA,U.S. House,29,Democrat,CHERI BUSTOS,161
+FULTON,WATERFORD,U.S. House,29,Democrat,CHERI BUSTOS,58
+FULTON,ASTORIA 1,U.S. House,29,Republican,PATRICK HARLAN,147
+FULTON,ORION,U.S. House,29,Republican,PATRICK HARLAN,261
+FULTON,FARMERS,U.S. House,29,Democrat,CHERI BUSTOS,80
+FULTON,CANTON 13,U.S. House,29,Republican,PATRICK HARLAN,192
+FULTON,WOODLAND,U.S. House,29,Republican,PATRICK HARLAN,88
+FULTON,LIVERPOOL,U.S. House,29,Democrat,CHERI BUSTOS,201
+FULTON,KERTON,U.S. House,29,Republican,PATRICK HARLAN,30
+FULTON,LEWISTOWN 1,U.S. House,29,Democrat,CHERI BUSTOS,114
+FULTON,CANTON 3,U.S. House,29,Republican,PATRICK HARLAN,75
+FULTON,CANTON 9,U.S. House,29,Republican,PATRICK HARLAN,41
+FULTON,LEWISTOWN 6,U.S. House,29,Republican,PATRICK HARLAN,88
+FULTON,VERMONT 1,U.S. House,29,Republican,PATRICK HARLAN,107
+FULTON,BUCKHEART 1,U.S. House,29,Democrat,CHERI BUSTOS,165
+FULTON,BERNADOTTE,U.S. House,29,Republican,PATRICK HARLAN,50
+FULTON,FARMINGTON 4,U.S. House,29,Republican,PATRICK HARLAN,47
+FULTON,ASTORIA 1,U.S. House,29,Democrat,CHERI BUSTOS,158
+FULTON,FARMINGTON 1,U.S. House,29,Democrat,CHERI BUSTOS,231
+FULTON,ORION,U.S. House,29,Democrat,CHERI BUSTOS,400
+FULTON,LIVERPOOL,U.S. House,29,Republican,PATRICK HARLAN,124
+FULTON,CANTON 8,U.S. House,29,Democrat,CHERI BUSTOS,214
+FULTON,DEERFIELD,U.S. House,29,Republican,PATRICK HARLAN,72
+FULTON,CANTON 5,U.S. House,29,Democrat,CHERI BUSTOS,315
+FULTON,LEWISTOWN 2,U.S. House,29,Democrat,CHERI BUSTOS,128
+FULTON,UNION,U.S. House,29,Republican,PATRICK HARLAN,156
+FULTON,FARMINGTON 4,U.S. House,29,Democrat,CHERI BUSTOS,63
+FULTON,CANTON 6,U.S. House,29,Republican,PATRICK HARLAN,113
+FULTON,CANTON 9,U.S. House,29,Democrat,CHERI BUSTOS,108
+FULTON,CANTON 8,U.S. House,29,Republican,PATRICK HARLAN,138
+FULTON,ELLISVILLE,U.S. House,29,Republican,PATRICK HARLAN,36
+FULTON,LEWISTOWN 5,U.S. House,29,Republican,PATRICK HARLAN,77
+FULTON,ISABEL,U.S. House,29,Democrat,CHERI BUSTOS,65
+FULTON,CANTON 10,U.S. House,29,Republican,PATRICK HARLAN,100
+FULTON,CANTON 4,U.S. House,29,Democrat,CHERI BUSTOS,237
+FULTON,CANTON 15,U.S. House,29,Democrat,CHERI BUSTOS,282
+FULTON,CANTON 14,U.S. House,29,Republican,PATRICK HARLAN,194
+FULTON,LEE TWP,U.S. House,29,Republican,PATRICK HARLAN,90
+FULTON,YOUNG HICKORY,U.S. House,29,Republican,PATRICK HARLAN,112
+FULTON,UNION,U.S. House,29,Democrat,CHERI BUSTOS,256
+FULTON,CANTON 7,U.S. House,29,Republican,PATRICK HARLAN,118
+FULTON,PUTMAN 2,U.S. House,29,Republican,PATRICK HARLAN,156
+FULTON,CANTON 3,U.S. House,29,Democrat,CHERI BUSTOS,184
+FULTON,CANTON 14,U.S. House,29,Democrat,CHERI BUSTOS,328
+FULTON,BANNER,U.S. House,29,Republican,PATRICK HARLAN,66
+FULTON,PUTMAN 1,U.S. House,29,Republican,PATRICK HARLAN,233
+FULTON,FARMINGTON 3,U.S. House,29,Democrat,CHERI BUSTOS,75
+FULTON,FARMINGTON 2,U.S. House,29,Republican,PATRICK HARLAN,68
+FULTON,PLEASANT,U.S. House,29,Republican,PATRICK HARLAN,154
+FULTON,LEWISTOWN 6,U.S. House,29,Democrat,CHERI BUSTOS,178
+FULTON,CANTON 12,U.S. House,29,Republican,PATRICK HARLAN,70
+FULTON,JOSHUA,U.S. House,29,Republican,PATRICK HARLAN,99
+FULTON,CANTON 6,U.S. House,29,Democrat,CHERI BUSTOS,213
+FULTON,CANTON 5,U.S. House,29,Republican,PATRICK HARLAN,147
+FULTON,BERNADOTTE,U.S. House,29,Democrat,CHERI BUSTOS,74
+FULTON,LEWISTOWN 3,U.S. House,29,Republican,PATRICK HARLAN,69
+FULTON,WOODLAND,U.S. House,29,Democrat,CHERI BUSTOS,107
+FULTON,CANTON 10,U.S. House,29,Democrat,CHERI BUSTOS,235
+FULTON,CANTON 2,U.S. House,29,Republican,PATRICK HARLAN,87
+FULTON,BUCKHEART 3,U.S. House,29,Democrat,CHERI BUSTOS,108
+FULTON,VERMONT 2,U.S. House,29,Democrat,CHERI BUSTOS,53
+FULTON,LEWISTOWN 5,U.S. House,29,Democrat,CHERI BUSTOS,112
+FULTON,ISABEL,U.S. House,29,Republican,PATRICK HARLAN,50
+FULTON,LEWISTOWN 4,U.S. House,29,Republican,PATRICK HARLAN,103
+FULTON,BUCKHEART 2,U.S. House,29,Republican,PATRICK HARLAN,67
+FULTON,LEWISTOWN 2,U.S. House,29,Republican,PATRICK HARLAN,67
+FULTON,FAIRVIEW,U.S. House,29,Democrat,CHERI BUSTOS,202
+FULTON,KERTON,U.S. House,29,Democrat,CHERI BUSTOS,22
+FULTON,FARMINGTON 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,61
+FULTON,CANTON 14,U.S. Senate,,Republican,MARK STEVEN KIRK,248
+FULTON,LEE TWP,U.S. Senate,,Republican,MARK STEVEN KIRK,108
+FULTON,YOUNG HICKORY,U.S. Senate,,Republican,MARK STEVEN KIRK,143
+FULTON,CASS,U.S. Senate,,Green,SCOTT SUMMERS,10
+FULTON,PUTMAN 1,U.S. Senate,,Green,SCOTT SUMMERS,11
+FULTON,JOSHUA,U.S. Senate,,Libertarian,KENTON McMILLEN,6
+FULTON,PLEASANT,U.S. Senate,,Libertarian,KENTON McMILLEN,20
+FULTON,WATERFORD,U.S. Senate,,Libertarian,KENTON McMILLEN,6
+FULTON,BANNER,U.S. Senate,,NonPartisan,Write-in,1
+FULTON,FARMINGTON 3,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,DEERFIELD,U.S. Senate,,Democrat,TAMMY DUCKWORTH,49
+FULTON,LEWISTOWN 4,U.S. Senate,,Democrat,TAMMY DUCKWORTH,114
+FULTON,FARMINGTON 6,U.S. Senate,,Republican,MARK STEVEN KIRK,149
+FULTON,CANTON 1,U.S. Senate,,Green,SCOTT SUMMERS,11
+FULTON,JOSHUA,U.S. Senate,,Green,SCOTT SUMMERS,5
+FULTON,CANTON 4,U.S. Senate,,Libertarian,KENTON McMILLEN,22
+FULTON,ASTORIA 1,U.S. Senate,,NonPartisan,Write-in,1
+FULTON,BUCKHEART 3,U.S. Senate,,Democrat,TAMMY DUCKWORTH,79
+FULTON,HARRIS,U.S. Senate,,Democrat,TAMMY DUCKWORTH,53
+FULTON,ELLISVILLE,U.S. Senate,,Republican,MARK STEVEN KIRK,42
+FULTON,FARMINGTON 5,U.S. Senate,,Republican,MARK STEVEN KIRK,199
+FULTON,LEWISTOWN 3,U.S. Senate,,Libertarian,KENTON McMILLEN,8
+FULTON,CANTON 9,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,FARMINGTON 6,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,VERMONT 1,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,ELLISVILLE,U.S. Senate,,Democrat,TAMMY DUCKWORTH,31
+FULTON,CANTON 6,U.S. Senate,,Republican,MARK STEVEN KIRK,124
+FULTON,BUCKHEART 3,U.S. Senate,,Republican,MARK STEVEN KIRK,72
+FULTON,LEWISTOWN 3,U.S. Senate,,Republican,MARK STEVEN KIRK,98
+FULTON,CANTON 9,U.S. Senate,,Green,SCOTT SUMMERS,4
+FULTON,BUCKHEART 1,U.S. Senate,,Libertarian,KENTON McMILLEN,14
+FULTON,BERNADOTTE,U.S. Senate,,Democrat,TAMMY DUCKWORTH,58
+FULTON,LEWISTOWN 2,U.S. Senate,,Republican,MARK STEVEN KIRK,95
+FULTON,CANTON 8,U.S. Senate,,Green,SCOTT SUMMERS,9
+FULTON,ELLISVILLE,U.S. Senate,,Green,SCOTT SUMMERS,3
+FULTON,LEWISTOWN 5,U.S. Senate,,Green,SCOTT SUMMERS,5
+FULTON,CANTON 1,U.S. Senate,,NonPartisan,Write-in,1
+FULTON,ISABEL,U.S. Senate,,Democrat,TAMMY DUCKWORTH,39
+FULTON,CANTON 9,U.S. Senate,,Republican,MARK STEVEN KIRK,64
+FULTON,ASTORIA 2,U.S. Senate,,Green,SCOTT SUMMERS,7
+FULTON,BUCKHEART 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,162
+FULTON,FARMINGTON 6,U.S. Senate,,Democrat,TAMMY DUCKWORTH,137
+FULTON,VERMONT 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,80
+FULTON,DEERFIELD,U.S. Senate,,Republican,MARK STEVEN KIRK,94
+FULTON,VERMONT 1,U.S. Senate,,Libertarian,KENTON McMILLEN,13
+FULTON,BUCKHEART 3,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,JOSHUA,U.S. Senate,,Democrat,TAMMY DUCKWORTH,97
+FULTON,WATERFORD,U.S. Senate,,Democrat,TAMMY DUCKWORTH,37
+FULTON,CANTON 10,U.S. Senate,,Republican,MARK STEVEN KIRK,122
+FULTON,FARMERS,U.S. Senate,,Republican,MARK STEVEN KIRK,112
+FULTON,KERTON,U.S. Senate,,Green,SCOTT SUMMERS,4
+FULTON,CANTON 12,U.S. Senate,,Democrat,TAMMY DUCKWORTH,134
+FULTON,HARRIS,U.S. Senate,,Republican,MARK STEVEN KIRK,111
+FULTON,VERMONT 2,U.S. Senate,,Republican,MARK STEVEN KIRK,67
+FULTON,CANTON 13,U.S. Senate,,Green,SCOTT SUMMERS,6
+FULTON,WOODLAND,U.S. Senate,,Green,SCOTT SUMMERS,4
+FULTON,LEWISTOWN 5,U.S. Senate,,Libertarian,KENTON McMILLEN,12
+FULTON,CASS,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 3,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 3,U.S. Senate,,Democrat,TAMMY DUCKWORTH,150
+FULTON,CANTON 15,U.S. Senate,,Green,SCOTT SUMMERS,8
+FULTON,CANTON 3,U.S. Senate,,Libertarian,KENTON McMILLEN,12
+FULTON,YOUNG HICKORY,U.S. Senate,,Libertarian,KENTON McMILLEN,11
+FULTON,CANTON 13,U.S. Senate,,Democrat,TAMMY DUCKWORTH,233
+FULTON,CANTON 3,U.S. Senate,,Green,SCOTT SUMMERS,8
+FULTON,CANTON 16,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 2,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,BUCKHEART 2,U.S. Senate,,Republican,MARK STEVEN KIRK,94
+FULTON,CANTON 12,U.S. Senate,,Green,SCOTT SUMMERS,9
+FULTON,WATERFORD,U.S. Senate,,Green,SCOTT SUMMERS,1
+FULTON,CANTON 7,U.S. Senate,,Libertarian,KENTON McMILLEN,26
+FULTON,DEERFIELD,U.S. Senate,,Libertarian,KENTON McMILLEN,7
+FULTON,ELLISVILLE,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 13,U.S. Senate,,Republican,MARK STEVEN KIRK,274
+FULTON,CANTON 16,U.S. Senate,,Green,SCOTT SUMMERS,5
+FULTON,LEWISTOWN 2,U.S. Senate,,Green,SCOTT SUMMERS,5
+FULTON,LEE TWP,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 6,U.S. Senate,,Democrat,TAMMY DUCKWORTH,167
+FULTON,CASS,U.S. Senate,,Democrat,TAMMY DUCKWORTH,117
+FULTON,LEWISTOWN 3,U.S. Senate,,Democrat,TAMMY DUCKWORTH,91
+FULTON,LEWISTOWN 4,U.S. Senate,,Green,SCOTT SUMMERS,13
+FULTON,PUTMAN 1,U.S. Senate,,Libertarian,KENTON McMILLEN,31
+FULTON,CANTON 12,U.S. Senate,,Republican,MARK STEVEN KIRK,98
+FULTON,JOSHUA,U.S. Senate,,Republican,MARK STEVEN KIRK,150
+FULTON,LEWISTOWN 5,U.S. Senate,,Republican,MARK STEVEN KIRK,104
+FULTON,ORION,U.S. Senate,,Green,SCOTT SUMMERS,13
+FULTON,HARRIS,U.S. Senate,,Libertarian,KENTON McMILLEN,7
+FULTON,VERMONT 2,U.S. Senate,,Libertarian,KENTON McMILLEN,5
+FULTON,FARMINGTON 5,U.S. Senate,,Democrat,TAMMY DUCKWORTH,163
+FULTON,CANTON 15,U.S. Senate,,Republican,MARK STEVEN KIRK,180
+FULTON,LEWISTOWN 1,U.S. Senate,,Republican,MARK STEVEN KIRK,102
+FULTON,CANTON 7,U.S. Senate,,Green,SCOTT SUMMERS,15
+FULTON,BANNER,U.S. Senate,,Libertarian,KENTON McMILLEN,5
+FULTON,FARMINGTON 3,U.S. Senate,,Libertarian,KENTON McMILLEN,6
+FULTON,CANTON 2,U.S. Senate,,NonPartisan,Write-in,1
+FULTON,CANTON 13,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 6,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,WOODLAND,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 10,U.S. Senate,,Democrat,TAMMY DUCKWORTH,176
+FULTON,CANTON 1,U.S. Senate,,Republican,MARK STEVEN KIRK,159
+FULTON,ASTORIA 1,U.S. Senate,,Green,SCOTT SUMMERS,7
+FULTON,CANTON 10,U.S. Senate,,Libertarian,KENTON McMILLEN,25
+FULTON,BUCKHEART 3,U.S. Senate,,Libertarian,KENTON McMILLEN,5
+FULTON,FARMINGTON 5,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,UNION,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 7,U.S. Senate,,Republican,MARK STEVEN KIRK,126
+FULTON,FARMERS,U.S. Senate,,Green,SCOTT SUMMERS,2
+FULTON,BUCKHEART 2,U.S. Senate,,Libertarian,KENTON McMILLEN,19
+FULTON,FARMINGTON 6,U.S. Senate,,Libertarian,KENTON McMILLEN,13
+FULTON,VERMONT 2,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 7,U.S. Senate,,Democrat,TAMMY DUCKWORTH,142
+FULTON,VERMONT 1,U.S. Senate,,Republican,MARK STEVEN KIRK,122
+FULTON,LEWISTOWN 4,U.S. Senate,,Libertarian,KENTON McMILLEN,14
+FULTON,CANTON 8,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 5,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LEE TWP,U.S. Senate,,Democrat,TAMMY DUCKWORTH,32
+FULTON,BUCKHEART 1,U.S. Senate,,Green,SCOTT SUMMERS,8
+FULTON,FARMINGTON 5,U.S. Senate,,Green,SCOTT SUMMERS,11
+FULTON,LEWISTOWN 1,U.S. Senate,,Green,SCOTT SUMMERS,2
+FULTON,CANTON 14,U.S. Senate,,Libertarian,KENTON McMILLEN,25
+FULTON,LEE TWP,U.S. Senate,,Libertarian,KENTON McMILLEN,7
+FULTON,FARMERS,U.S. Senate,,Democrat,TAMMY DUCKWORTH,61
+FULTON,LIVERPOOL,U.S. Senate,,Democrat,TAMMY DUCKWORTH,118
+FULTON,CANTON 4,U.S. Senate,,Green,SCOTT SUMMERS,10
+FULTON,FARMINGTON 1,U.S. Senate,,Green,SCOTT SUMMERS,13
+FULTON,FARMERS,U.S. Senate,,Libertarian,KENTON McMILLEN,17
+FULTON,BUCKHEART 1,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,PUTMAN 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,177
+FULTON,CANTON 5,U.S. Senate,,Republican,MARK STEVEN KIRK,203
+FULTON,CANTON 16,U.S. Senate,,Republican,MARK STEVEN KIRK,307
+FULTON,UNION,U.S. Senate,,Green,SCOTT SUMMERS,7
+FULTON,FARMINGTON 4,U.S. Senate,,Libertarian,KENTON McMILLEN,4
+FULTON,CANTON 8,U.S. Senate,,Democrat,TAMMY DUCKWORTH,152
+FULTON,CASS,U.S. Senate,,Republican,MARK STEVEN KIRK,140
+FULTON,LEWISTOWN 6,U.S. Senate,,Green,SCOTT SUMMERS,6
+FULTON,DEERFIELD,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,FARMINGTON 4,U.S. Senate,,Democrat,TAMMY DUCKWORTH,45
+FULTON,BERNADOTTE,U.S. Senate,,Libertarian,KENTON McMILLEN,4
+FULTON,PUTMAN 2,U.S. Senate,,Libertarian,KENTON McMILLEN,22
+FULTON,WATERFORD,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 5,U.S. Senate,,Democrat,TAMMY DUCKWORTH,220
+FULTON,HARRIS,U.S. Senate,,Green,SCOTT SUMMERS,7
+FULTON,LEWISTOWN 3,U.S. Senate,,Green,SCOTT SUMMERS,5
+FULTON,CANTON 16,U.S. Senate,,Libertarian,KENTON McMILLEN,21
+FULTON,CANTON 10,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 9,U.S. Senate,,Democrat,TAMMY DUCKWORTH,74
+FULTON,CANTON 11,U.S. Senate,,Republican,MARK STEVEN KIRK,64
+FULTON,ISABEL,U.S. Senate,,Republican,MARK STEVEN KIRK,68
+FULTON,LEE TWP,U.S. Senate,,Green,SCOTT SUMMERS,0
+FULTON,CANTON 9,U.S. Senate,,Libertarian,KENTON McMILLEN,5
+FULTON,LEWISTOWN 6,U.S. Senate,,Libertarian,KENTON McMILLEN,12
+FULTON,CANTON 6,U.S. Senate,,Green,SCOTT SUMMERS,9
+FULTON,FARMINGTON 2,U.S. Senate,,Libertarian,KENTON McMILLEN,9
+FULTON,PUTMAN 1,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 6,U.S. Senate,,Republican,MARK STEVEN KIRK,143
+FULTON,FARMINGTON 2,U.S. Senate,,Green,SCOTT SUMMERS,1
+FULTON,ISABEL,U.S. Senate,,Libertarian,KENTON McMILLEN,4
+FULTON,CANTON 7,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,PUTMAN 2,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,63
+FULTON,ORION,U.S. Senate,,Democrat,TAMMY DUCKWORTH,280
+FULTON,CANTON 2,U.S. Senate,,Republican,MARK STEVEN KIRK,138
+FULTON,KERTON,U.S. Senate,,Republican,MARK STEVEN KIRK,26
+FULTON,WOODLAND,U.S. Senate,,Republican,MARK STEVEN KIRK,106
+FULTON,ASTORIA 1,U.S. Senate,,Libertarian,KENTON McMILLEN,12
+FULTON,FARMINGTON 1,U.S. Senate,,Libertarian,KENTON McMILLEN,23
+FULTON,CANTON 14,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,YOUNG HICKORY,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 4,U.S. Senate,,Republican,MARK STEVEN KIRK,135
+FULTON,CANTON 10,U.S. Senate,,Green,SCOTT SUMMERS,7
+FULTON,LIVERPOOL,U.S. Senate,,Green,SCOTT SUMMERS,7
+FULTON,HARRIS,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,ASTORIA 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,93
+FULTON,PLEASANT,U.S. Senate,,Democrat,TAMMY DUCKWORTH,143
+FULTON,CANTON 3,U.S. Senate,,Republican,MARK STEVEN KIRK,91
+FULTON,BANNER,U.S. Senate,,Green,SCOTT SUMMERS,4
+FULTON,FARMINGTON 3,U.S. Senate,,Green,SCOTT SUMMERS,3
+FULTON,ASTORIA 2,U.S. Senate,,Libertarian,KENTON McMILLEN,3
+FULTON,CANTON 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,178
+FULTON,FAIRVIEW,U.S. Senate,,Democrat,TAMMY DUCKWORTH,139
+FULTON,LEWISTOWN 6,U.S. Senate,,Democrat,TAMMY DUCKWORTH,107
+FULTON,VERMONT 3,U.S. Senate,,Republican,MARK STEVEN KIRK,42
+FULTON,CANTON 14,U.S. Senate,,Green,SCOTT SUMMERS,11
+FULTON,YOUNG HICKORY,U.S. Senate,,Green,SCOTT SUMMERS,11
+FULTON,FAIRVIEW,U.S. Senate,,Libertarian,KENTON McMILLEN,12
+FULTON,CANTON 5,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,BUCKHEART 2,U.S. Senate,,NonPartisan,Write-in,1
+FULTON,BANNER,U.S. Senate,,Democrat,TAMMY DUCKWORTH,80
+FULTON,PUTMAN 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,258
+FULTON,FARMINGTON 1,U.S. Senate,,Republican,MARK STEVEN KIRK,208
+FULTON,ORION,U.S. Senate,,Republican,MARK STEVEN KIRK,333
+FULTON,FARMINGTON 4,U.S. Senate,,Green,SCOTT SUMMERS,3
+FULTON,FARMINGTON 2,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,BUCKHEART 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,112
+FULTON,FARMINGTON 3,U.S. Senate,,Republican,MARK STEVEN KIRK,84
+FULTON,PUTMAN 1,U.S. Senate,,Republican,MARK STEVEN KIRK,307
+FULTON,BUCKHEART 2,U.S. Senate,,Green,SCOTT SUMMERS,5
+FULTON,FARMINGTON 6,U.S. Senate,,Green,SCOTT SUMMERS,8
+FULTON,LEWISTOWN 1,U.S. Senate,,Libertarian,KENTON McMILLEN,8
+FULTON,FARMINGTON 1,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 11,U.S. Senate,,Green,SCOTT SUMMERS,3
+FULTON,ISABEL,U.S. Senate,,Green,SCOTT SUMMERS,3
+FULTON,CANTON 4,U.S. Senate,,Republican,MARK STEVEN KIRK,177
+FULTON,DEERFIELD,U.S. Senate,,Green,SCOTT SUMMERS,1
+FULTON,ASTORIA 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,119
+FULTON,CANTON 11,U.S. Senate,,Democrat,TAMMY DUCKWORTH,77
+FULTON,FARMINGTON 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,155
+FULTON,VERMONT 3,U.S. Senate,,Democrat,TAMMY DUCKWORTH,22
+FULTON,CANTON 1,U.S. Senate,,Democrat,TAMMY DUCKWORTH,169
+FULTON,LIVERPOOL,U.S. Senate,,Republican,MARK STEVEN KIRK,182
+FULTON,CANTON 2,U.S. Senate,,Green,SCOTT SUMMERS,6
+FULTON,CANTON 1,U.S. Senate,,Libertarian,KENTON McMILLEN,20
+FULTON,CANTON 8,U.S. Senate,,Libertarian,KENTON McMILLEN,19
+FULTON,CANTON 12,U.S. Senate,,Libertarian,KENTON McMILLEN,14
+FULTON,ELLISVILLE,U.S. Senate,,Libertarian,KENTON McMILLEN,4
+FULTON,CANTON 6,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 4,U.S. Senate,,Democrat,TAMMY DUCKWORTH,169
+FULTON,CANTON 15,U.S. Senate,,Democrat,TAMMY DUCKWORTH,193
+FULTON,CANTON 5,U.S. Senate,,Green,SCOTT SUMMERS,17
+FULTON,ORION,U.S. Senate,,Libertarian,KENTON McMILLEN,36
+FULTON,CANTON 3,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,VERMONT 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,45
+FULTON,CANTON 8,U.S. Senate,,Republican,MARK STEVEN KIRK,173
+FULTON,BUCKHEART 1,U.S. Senate,,Republican,MARK STEVEN KIRK,105
+FULTON,UNION,U.S. Senate,,Republican,MARK STEVEN KIRK,205
+FULTON,VERMONT 3,U.S. Senate,,Green,SCOTT SUMMERS,0
+FULTON,CANTON 6,U.S. Senate,,Libertarian,KENTON McMILLEN,25
+FULTON,CASS,U.S. Senate,,Libertarian,KENTON McMILLEN,15
+FULTON,FAIRVIEW,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 5,U.S. Senate,,Democrat,TAMMY DUCKWORTH,68
+FULTON,CANTON 14,U.S. Senate,,Democrat,TAMMY DUCKWORTH,239
+FULTON,YOUNG HICKORY,U.S. Senate,,Democrat,TAMMY DUCKWORTH,105
+FULTON,ASTORIA 2,U.S. Senate,,Republican,MARK STEVEN KIRK,128
+FULTON,FARMINGTON 2,U.S. Senate,,Republican,MARK STEVEN KIRK,82
+FULTON,PLEASANT,U.S. Senate,,Republican,MARK STEVEN KIRK,203
+FULTON,WATERFORD,U.S. Senate,,Republican,MARK STEVEN KIRK,51
+FULTON,LIVERPOOL,U.S. Senate,,Libertarian,KENTON McMILLEN,17
+FULTON,CANTON 16,U.S. Senate,,Democrat,TAMMY DUCKWORTH,277
+FULTON,LEWISTOWN 2,U.S. Senate,,Democrat,TAMMY DUCKWORTH,80
+FULTON,FARMINGTON 4,U.S. Senate,,Republican,MARK STEVEN KIRK,55
+FULTON,BUCKHEART 3,U.S. Senate,,Green,SCOTT SUMMERS,5
+FULTON,LEWISTOWN 2,U.S. Senate,,Libertarian,KENTON McMILLEN,14
+FULTON,KERTON,U.S. Senate,,Democrat,TAMMY DUCKWORTH,18
+FULTON,ASTORIA 1,U.S. Senate,,Republican,MARK STEVEN KIRK,170
+FULTON,BERNADOTTE,U.S. Senate,,Green,SCOTT SUMMERS,1
+FULTON,CANTON 2,U.S. Senate,,Libertarian,KENTON McMILLEN,10
+FULTON,WOODLAND,U.S. Senate,,Libertarian,KENTON McMILLEN,11
+FULTON,ASTORIA 2,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 12,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,JOSHUA,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,FARMINGTON 3,U.S. Senate,,Democrat,TAMMY DUCKWORTH,42
+FULTON,WOODLAND,U.S. Senate,,Democrat,TAMMY DUCKWORTH,76
+FULTON,PUTMAN 2,U.S. Senate,,Green,SCOTT SUMMERS,14
+FULTON,CANTON 13,U.S. Senate,,Libertarian,KENTON McMILLEN,22
+FULTON,KERTON,U.S. Senate,,Libertarian,KENTON McMILLEN,4
+FULTON,PLEASANT,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,UNION,U.S. Senate,,Democrat,TAMMY DUCKWORTH,170
+FULTON,BANNER,U.S. Senate,,Republican,MARK STEVEN KIRK,72
+FULTON,VERMONT 1,U.S. Senate,,Green,SCOTT SUMMERS,4
+FULTON,CANTON 15,U.S. Senate,,Libertarian,KENTON McMILLEN,20
+FULTON,ORION,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,VERMONT 3,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,BERNADOTTE,U.S. Senate,,Republican,MARK STEVEN KIRK,59
+FULTON,PUTMAN 2,U.S. Senate,,Republican,MARK STEVEN KIRK,202
+FULTON,VERMONT 2,U.S. Senate,,Green,SCOTT SUMMERS,1
+FULTON,CANTON 5,U.S. Senate,,Libertarian,KENTON McMILLEN,23
+FULTON,FARMERS,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LIVERPOOL,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,KERTON,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 4,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,CANTON 15,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 1,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,FAIRVIEW,U.S. Senate,,Republican,MARK STEVEN KIRK,186
+FULTON,PLEASANT,U.S. Senate,,Green,SCOTT SUMMERS,11
+FULTON,CANTON 11,U.S. Senate,,Libertarian,KENTON McMILLEN,12
+FULTON,VERMONT 3,U.S. Senate,,Libertarian,KENTON McMILLEN,1
+FULTON,BERNADOTTE,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,FARMINGTON 4,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,FAIRVIEW,U.S. Senate,,Green,SCOTT SUMMERS,6
+FULTON,FARMINGTON 5,U.S. Senate,,Libertarian,KENTON McMILLEN,22
+FULTON,UNION,U.S. Senate,,Libertarian,KENTON McMILLEN,28
+FULTON,CANTON 11,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,ISABEL,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 4,U.S. Senate,,NonPartisan,Write-in,0
+FULTON,FARMINGTON 5,President,,Democrat,HILLARY RODHAM CLINTON,156
+FULTON,UNION,President,,Democrat,HILLARY RODHAM CLINTON,151
+FULTON,BUCKHEART 1,President,,Republican,DONALD J. TRUMP,114
+FULTON,FARMINGTON 5,President,,Republican,DONALD J. TRUMP,204
+FULTON,FARMINGTON 5,President,,Green,JILL STEIN,6
+FULTON,CANTON 3,President,,Democrat,HILLARY RODHAM CLINTON,135
+FULTON,CANTON 3,President,,Republican,DONALD J. TRUMP,108
+FULTON,CANTON 14,President,,Republican,DONALD J. TRUMP,248
+FULTON,LEE TWP,President,,Republican,DONALD J. TRUMP,109
+FULTON,CANTON 3,President,,Green,JILL STEIN,6
+FULTON,FAIRVIEW,President,,Libertarian,GARY JOHNSON,21
+FULTON,FAIRVIEW,President,,NonPartisan,Write-in,5
+FULTON,BUCKHEART 3,President,,Republican,DONALD J. TRUMP,77
+FULTON,HARRIS,President,,Republican,DONALD J. TRUMP,130
+FULTON,CANTON 5,President,,Libertarian,GARY JOHNSON,22
+FULTON,CANTON 3,President,,NonPartisan,Write-in,1
+FULTON,CANTON 5,President,,Democrat,HILLARY RODHAM CLINTON,213
+FULTON,CANTON 16,President,,Democrat,HILLARY RODHAM CLINTON,282
+FULTON,LEWISTOWN 2,President,,Republican,DONALD J. TRUMP,109
+FULTON,FARMINGTON 2,President,,Green,JILL STEIN,1
+FULTON,PLEASANT,President,,Green,JILL STEIN,3
+FULTON,ASTORIA 1,President,,Libertarian,GARY JOHNSON,11
+FULTON,ISABEL,President,,Libertarian,GARY JOHNSON,5
+FULTON,CANTON 7,President,,NonPartisan,Write-in,4
+FULTON,LEWISTOWN 4,President,,NonPartisan,Write-in,5
+FULTON,CANTON 9,President,,Republican,DONALD J. TRUMP,79
+FULTON,FAIRVIEW,President,,Republican,DONALD J. TRUMP,209
+FULTON,LEWISTOWN 6,President,,Republican,DONALD J. TRUMP,153
+FULTON,UNION,President,,Libertarian,GARY JOHNSON,30
+FULTON,CANTON 15,President,,NonPartisan,Write-in,5
+FULTON,ORION,President,,NonPartisan,Write-in,11
+FULTON,CANTON 12,President,,Democrat,HILLARY RODHAM CLINTON,132
+FULTON,FARMINGTON 2,President,,Republican,DONALD J. TRUMP,88
+FULTON,PLEASANT,President,,Republican,DONALD J. TRUMP,236
+FULTON,CANTON 1,President,,Green,JILL STEIN,8
+FULTON,WATERFORD,President,,Green,JILL STEIN,0
+FULTON,ORION,President,,Democrat,HILLARY RODHAM CLINTON,254
+FULTON,ASTORIA 1,President,,Republican,DONALD J. TRUMP,199
+FULTON,ORION,President,,Green,JILL STEIN,15
+FULTON,HARRIS,President,,Libertarian,GARY JOHNSON,1
+FULTON,VERMONT 2,President,,Libertarian,GARY JOHNSON,2
+FULTON,CANTON 7,President,,Democrat,HILLARY RODHAM CLINTON,125
+FULTON,CANTON 6,President,,NonPartisan,Write-in,2
+FULTON,BUCKHEART 1,President,,Green,JILL STEIN,3
+FULTON,CANTON 3,President,,Libertarian,GARY JOHNSON,16
+FULTON,CANTON 16,President,,NonPartisan,Write-in,5
+FULTON,PUTMAN 2,President,,Democrat,HILLARY RODHAM CLINTON,144
+FULTON,YOUNG HICKORY,President,,Democrat,HILLARY RODHAM CLINTON,98
+FULTON,CANTON 2,President,,Libertarian,GARY JOHNSON,16
+FULTON,KERTON,President,,Libertarian,GARY JOHNSON,1
+FULTON,CANTON 10,President,,Democrat,HILLARY RODHAM CLINTON,168
+FULTON,HARRIS,President,,Democrat,HILLARY RODHAM CLINTON,44
+FULTON,VERMONT 2,President,,Democrat,HILLARY RODHAM CLINTON,42
+FULTON,FARMERS,President,,Republican,DONALD J. TRUMP,141
+FULTON,HARRIS,President,,Green,JILL STEIN,2
+FULTON,VERMONT 2,President,,Green,JILL STEIN,1
+FULTON,LEWISTOWN 2,President,,Libertarian,GARY JOHNSON,6
+FULTON,CANTON 14,President,,NonPartisan,Write-in,2
+FULTON,LEE TWP,President,,NonPartisan,Write-in,7
+FULTON,YOUNG HICKORY,President,,NonPartisan,Write-in,2
+FULTON,ISABEL,President,,Democrat,HILLARY RODHAM CLINTON,33
+FULTON,CANTON 11,President,,Green,JILL STEIN,4
+FULTON,CANTON 6,President,,Libertarian,GARY JOHNSON,20
+FULTON,WOODLAND,President,,NonPartisan,Write-in,1
+FULTON,FARMINGTON 2,President,,Democrat,HILLARY RODHAM CLINTON,54
+FULTON,JOSHUA,President,,Republican,DONALD J. TRUMP,157
+FULTON,WATERFORD,President,,Republican,DONALD J. TRUMP,64
+FULTON,JOSHUA,President,,Green,JILL STEIN,2
+FULTON,CANTON 13,President,,Republican,DONALD J. TRUMP,265
+FULTON,KERTON,President,,Republican,DONALD J. TRUMP,40
+FULTON,CANTON 2,President,,Green,JILL STEIN,4
+FULTON,LEWISTOWN 5,President,,Libertarian,GARY JOHNSON,8
+FULTON,LIVERPOOL,President,,NonPartisan,Write-in,3
+FULTON,ASTORIA 2,President,,Democrat,HILLARY RODHAM CLINTON,79
+FULTON,JOSHUA,President,,Democrat,HILLARY RODHAM CLINTON,84
+FULTON,WATERFORD,President,,Democrat,HILLARY RODHAM CLINTON,27
+FULTON,CANTON 13,President,,Democrat,HILLARY RODHAM CLINTON,241
+FULTON,WOODLAND,President,,Republican,DONALD J. TRUMP,130
+FULTON,CANTON 13,President,,Green,JILL STEIN,9
+FULTON,CANTON 8,President,,Libertarian,GARY JOHNSON,18
+FULTON,ELLISVILLE,President,,Libertarian,GARY JOHNSON,5
+FULTON,CANTON 10,President,,NonPartisan,Write-in,5
+FULTON,FARMINGTON 3,President,,Democrat,HILLARY RODHAM CLINTON,44
+FULTON,BANNER,President,,Green,JILL STEIN,0
+FULTON,CANTON 1,President,,Libertarian,GARY JOHNSON,25
+FULTON,WATERFORD,President,,Libertarian,GARY JOHNSON,4
+FULTON,LEWISTOWN 4,President,,Democrat,HILLARY RODHAM CLINTON,107
+FULTON,ASTORIA 1,President,,Democrat,HILLARY RODHAM CLINTON,99
+FULTON,ORION,President,,Republican,DONALD J. TRUMP,351
+FULTON,ASTORIA 1,President,,Green,JILL STEIN,2
+FULTON,FARMINGTON 1,President,,Green,JILL STEIN,6
+FULTON,BUCKHEART 3,President,,Libertarian,GARY JOHNSON,9
+FULTON,JOSHUA,President,,NonPartisan,Write-in,5
+FULTON,WATERFORD,President,,NonPartisan,Write-in,0
+FULTON,CANTON 6,President,,Democrat,HILLARY RODHAM CLINTON,147
+FULTON,LEWISTOWN 3,President,,Democrat,HILLARY RODHAM CLINTON,82
+FULTON,CANTON 6,President,,Republican,DONALD J. TRUMP,153
+FULTON,CASS,President,,Republican,DONALD J. TRUMP,159
+FULTON,LEWISTOWN 3,President,,Green,JILL STEIN,2
+FULTON,FARMINGTON 2,President,,Libertarian,GARY JOHNSON,9
+FULTON,PLEASANT,President,,Libertarian,GARY JOHNSON,9
+FULTON,BERNADOTTE,President,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 1,President,,Libertarian,GARY JOHNSON,13
+FULTON,ELECTIONS OFFICE,President,,NonPartisan,Write-in,0
+FULTON,CANTON 9,President,,Green,JILL STEIN,6
+FULTON,FAIRVIEW,President,,Green,JILL STEIN,5
+FULTON,LEWISTOWN 6,President,,Green,JILL STEIN,5
+FULTON,BUCKHEART 1,President,,Libertarian,GARY JOHNSON,11
+FULTON,FARMINGTON 5,President,,Libertarian,GARY JOHNSON,30
+FULTON,BUCKHEART 2,President,,Democrat,HILLARY RODHAM CLINTON,141
+FULTON,FARMINGTON 6,President,,Democrat,HILLARY RODHAM CLINTON,129
+FULTON,VERMONT 1,President,,Democrat,HILLARY RODHAM CLINTON,59
+FULTON,FARMINGTON 6,President,,Republican,DONALD J. TRUMP,156
+FULTON,BUCKHEART 2,President,,Green,JILL STEIN,5
+FULTON,VERMONT 1,President,,Green,JILL STEIN,3
+FULTON,CANTON 4,President,,Libertarian,GARY JOHNSON,25
+FULTON,ELECTIONS OFFICE,President,,Libertarian,GARY JOHNSON,0
+FULTON,ELLISVILLE,President,,Democrat,HILLARY RODHAM CLINTON,28
+FULTON,LEWISTOWN 5,President,,Democrat,HILLARY RODHAM CLINTON,49
+FULTON,CANTON 8,President,,Green,JILL STEIN,6
+FULTON,ELLISVILLE,President,,Green,JILL STEIN,0
+FULTON,LEWISTOWN 5,President,,Green,JILL STEIN,8
+FULTON,BERNADOTTE,President,,Libertarian,GARY JOHNSON,2
+FULTON,LIVERPOOL,President,,Democrat,HILLARY RODHAM CLINTON,106
+FULTON,YOUNG HICKORY,President,,Republican,DONALD J. TRUMP,156
+FULTON,FARMERS,President,,Green,JILL STEIN,4
+FULTON,FARMINGTON 6,President,,Libertarian,GARY JOHNSON,20
+FULTON,FARMINGTON 1,President,,Democrat,HILLARY RODHAM CLINTON,143
+FULTON,FARMINGTON 1,President,,Republican,DONALD J. TRUMP,232
+FULTON,CANTON 1,President,,NonPartisan,Write-in,8
+FULTON,CANTON 12,President,,NonPartisan,Write-in,1
+FULTON,BERNADOTTE,President,,Republican,DONALD J. TRUMP,71
+FULTON,BERNADOTTE,President,,Green,JILL STEIN,1
+FULTON,CANTON 14,President,,Green,JILL STEIN,13
+FULTON,CANTON 15,President,,Democrat,HILLARY RODHAM CLINTON,197
+FULTON,ELECTIONS OFFICE,President,,Democrat,HILLARY RODHAM CLINTON,0
+FULTON,CANTON 4,President,,Republican,DONALD J. TRUMP,184
+FULTON,CANTON 4,President,,Green,JILL STEIN,6
+FULTON,ELECTIONS OFFICE,President,,Green,JILL STEIN,0
+FULTON,CANTON 10,President,,Libertarian,GARY JOHNSON,18
+FULTON,ELLISVILLE,President,,NonPartisan,Write-in,0
+FULTON,LEWISTOWN 2,President,,Democrat,HILLARY RODHAM CLINTON,77
+FULTON,CANTON 5,President,,Republican,DONALD J. TRUMP,226
+FULTON,CANTON 16,President,,Republican,DONALD J. TRUMP,300
+FULTON,CANTON 5,President,,Green,JILL STEIN,7
+FULTON,VERMONT 3,President,,Libertarian,GARY JOHNSON,1
+FULTON,DEERFIELD,President,,NonPartisan,Write-in,1
+FULTON,CANTON 4,President,,Democrat,HILLARY RODHAM CLINTON,169
+FULTON,LEWISTOWN 1,President,,Democrat,HILLARY RODHAM CLINTON,52
+FULTON,CANTON 15,President,,Republican,DONALD J. TRUMP,190
+FULTON,LEWISTOWN 1,President,,Republican,DONALD J. TRUMP,117
+FULTON,LEWISTOWN 1,President,,Green,JILL STEIN,1
+FULTON,LIVERPOOL,President,,Libertarian,GARY JOHNSON,13
+FULTON,CANTON 8,President,,NonPartisan,Write-in,2
+FULTON,BUCKHEART 3,President,,Democrat,HILLARY RODHAM CLINTON,73
+FULTON,CANTON 10,President,,Republican,DONALD J. TRUMP,141
+FULTON,VERMONT 2,President,,Republican,DONALD J. TRUMP,68
+FULTON,BUCKHEART 3,President,,Green,JILL STEIN,4
+FULTON,CANTON 16,President,,Libertarian,GARY JOHNSON,22
+FULTON,PUTMAN 1,President,,Democrat,HILLARY RODHAM CLINTON,232
+FULTON,FARMINGTON 3,President,,Republican,DONALD J. TRUMP,84
+FULTON,PUTMAN 1,President,,Green,JILL STEIN,6
+FULTON,CANTON 12,President,,Libertarian,GARY JOHNSON,17
+FULTON,HARRIS,President,,NonPartisan,Write-in,0
+FULTON,BERNADOTTE,President,,Democrat,HILLARY RODHAM CLINTON,53
+FULTON,FARMINGTON 4,President,,Democrat,HILLARY RODHAM CLINTON,40
+FULTON,FARMINGTON 4,President,,Republican,DONALD J. TRUMP,54
+FULTON,PUTMAN 2,President,,Republican,DONALD J. TRUMP,242
+FULTON,YOUNG HICKORY,President,,Green,JILL STEIN,7
+FULTON,CANTON 2,President,,Democrat,HILLARY RODHAM CLINTON,181
+FULTON,KERTON,President,,Democrat,HILLARY RODHAM CLINTON,8
+FULTON,WOODLAND,President,,Democrat,HILLARY RODHAM CLINTON,54
+FULTON,CANTON 2,President,,Republican,DONALD J. TRUMP,138
+FULTON,KERTON,President,,Green,JILL STEIN,0
+FULTON,WOODLAND,President,,Green,JILL STEIN,3
+FULTON,FARMERS,President,,NonPartisan,Write-in,2
+FULTON,CANTON 9,President,,Democrat,HILLARY RODHAM CLINTON,54
+FULTON,FAIRVIEW,President,,Democrat,HILLARY RODHAM CLINTON,108
+FULTON,LEWISTOWN 6,President,,Democrat,HILLARY RODHAM CLINTON,104
+FULTON,BANNER,President,,Democrat,HILLARY RODHAM CLINTON,63
+FULTON,BANNER,President,,Republican,DONALD J. TRUMP,93
+FULTON,PUTMAN 1,President,,Republican,DONALD J. TRUMP,340
+FULTON,FARMINGTON 3,President,,Green,JILL STEIN,2
+FULTON,BUCKHEART 2,President,,Republican,DONALD J. TRUMP,130
+FULTON,VERMONT 1,President,,Republican,DONALD J. TRUMP,147
+FULTON,FARMINGTON 6,President,,Green,JILL STEIN,4
+FULTON,LEWISTOWN 2,President,,Green,JILL STEIN,3
+FULTON,CANTON 15,President,,Libertarian,GARY JOHNSON,18
+FULTON,BUCKHEART 1,President,,NonPartisan,Write-in,1
+FULTON,FARMINGTON 5,President,,NonPartisan,Write-in,2
+FULTON,CASS,President,,Democrat,HILLARY RODHAM CLINTON,104
+FULTON,LEWISTOWN 3,President,,Republican,DONALD J. TRUMP,106
+FULTON,ASTORIA 2,President,,Libertarian,GARY JOHNSON,13
+FULTON,FARMINGTON 4,President,,NonPartisan,Write-in,4
+FULTON,PUTMAN 2,President,,NonPartisan,Write-in,3
+FULTON,CANTON 14,President,,Democrat,HILLARY RODHAM CLINTON,241
+FULTON,FARMERS,President,,Democrat,HILLARY RODHAM CLINTON,40
+FULTON,LEE TWP,President,,Democrat,HILLARY RODHAM CLINTON,23
+FULTON,LIVERPOOL,President,,Republican,DONALD J. TRUMP,203
+FULTON,CANTON 10,President,,Green,JILL STEIN,6
+FULTON,LIVERPOOL,President,,Green,JILL STEIN,2
+FULTON,CANTON 9,President,,Libertarian,GARY JOHNSON,11
+FULTON,BUCKHEART 2,President,,Libertarian,GARY JOHNSON,12
+FULTON,VERMONT 1,President,,Libertarian,GARY JOHNSON,13
+FULTON,CANTON 9,President,,NonPartisan,Write-in,2
+FULTON,LEWISTOWN 6,President,,NonPartisan,Write-in,2
+FULTON,BUCKHEART 1,President,,Democrat,HILLARY RODHAM CLINTON,107
+FULTON,UNION,President,,Republican,DONALD J. TRUMP,224
+FULTON,UNION,President,,Green,JILL STEIN,5
+FULTON,LEE TWP,President,,Libertarian,GARY JOHNSON,8
+FULTON,YOUNG HICKORY,President,,Libertarian,GARY JOHNSON,8
+FULTON,LEWISTOWN 2,President,,NonPartisan,Write-in,2
+FULTON,CANTON 1,President,,Democrat,HILLARY RODHAM CLINTON,175
+FULTON,CANTON 1,President,,Republican,DONALD J. TRUMP,144
+FULTON,CANTON 8,President,,Republican,DONALD J. TRUMP,195
+FULTON,LEWISTOWN 5,President,,Republican,DONALD J. TRUMP,127
+FULTON,CANTON 7,President,,Libertarian,GARY JOHNSON,28
+FULTON,FARMINGTON 4,President,,Libertarian,GARY JOHNSON,8
+FULTON,VERMONT 3,President,,Democrat,HILLARY RODHAM CLINTON,16
+FULTON,VERMONT 3,President,,Republican,DONALD J. TRUMP,51
+FULTON,VERMONT 3,President,,Green,JILL STEIN,0
+FULTON,CASS,President,,Libertarian,GARY JOHNSON,15
+FULTON,LEWISTOWN 3,President,,Libertarian,GARY JOHNSON,11
+FULTON,CANTON 8,President,,Democrat,HILLARY RODHAM CLINTON,133
+FULTON,CANTON 12,President,,Republican,DONALD J. TRUMP,102
+FULTON,ELLISVILLE,President,,Republican,DONALD J. TRUMP,48
+FULTON,PUTMAN 2,President,,Libertarian,GARY JOHNSON,20
+FULTON,FARMINGTON 2,President,,NonPartisan,Write-in,3
+FULTON,PLEASANT,President,,NonPartisan,Write-in,5
+FULTON,CANTON 6,President,,Green,JILL STEIN,4
+FULTON,CASS,President,,Green,JILL STEIN,6
+FULTON,PLEASANT,President,,Democrat,HILLARY RODHAM CLINTON,125
+FULTON,CANTON 16,President,,Green,JILL STEIN,4
+FULTON,FARMINGTON 1,President,,Libertarian,GARY JOHNSON,15
+FULTON,ORION,President,,Libertarian,GARY JOHNSON,35
+FULTON,DEERFIELD,President,,Democrat,HILLARY RODHAM CLINTON,40
+FULTON,CANTON 7,President,,Green,JILL STEIN,7
+FULTON,DEERFIELD,President,,Green,JILL STEIN,5
+FULTON,LEWISTOWN 4,President,,Green,JILL STEIN,3
+FULTON,PUTMAN 2,President,,Green,JILL STEIN,10
+FULTON,BANNER,President,,Libertarian,GARY JOHNSON,7
+FULTON,CASS,President,,NonPartisan,Write-in,3
+FULTON,ELECTIONS OFFICE,President,,Republican,DONALD J. TRUMP,0
+FULTON,CANTON 15,President,,Green,JILL STEIN,3
+FULTON,FARMERS,President,,Libertarian,GARY JOHNSON,10
+FULTON,LEWISTOWN 5,President,,NonPartisan,Write-in,3
+FULTON,UNION,President,,NonPartisan,Write-in,1
+FULTON,ASTORIA 2,President,,Republican,DONALD J. TRUMP,140
+FULTON,ASTORIA 2,President,,Green,JILL STEIN,1
+FULTON,CANTON 12,President,,Green,JILL STEIN,5
+FULTON,CANTON 11,President,,Libertarian,GARY JOHNSON,11
+FULTON,DEERFIELD,President,,Libertarian,GARY JOHNSON,8
+FULTON,LEWISTOWN 4,President,,Libertarian,GARY JOHNSON,12
+FULTON,CANTON 11,President,,NonPartisan,Write-in,1
+FULTON,ISABEL,President,,NonPartisan,Write-in,1
+FULTON,VERMONT 3,President,,NonPartisan,Write-in,1
+FULTON,FARMINGTON 6,President,,NonPartisan,Write-in,2
+FULTON,VERMONT 1,President,,NonPartisan,Write-in,1
+FULTON,CANTON 14,President,,Libertarian,GARY JOHNSON,27
+FULTON,CANTON 5,President,,NonPartisan,Write-in,2
+FULTON,CANTON 11,President,,Democrat,HILLARY RODHAM CLINTON,68
+FULTON,CANTON 11,President,,Republican,DONALD J. TRUMP,79
+FULTON,ISABEL,President,,Republican,DONALD J. TRUMP,77
+FULTON,ISABEL,President,,Green,JILL STEIN,1
+FULTON,CANTON 2,President,,NonPartisan,Write-in,3
+FULTON,BANNER,President,,NonPartisan,Write-in,2
+FULTON,FARMINGTON 4,President,,Green,JILL STEIN,4
+FULTON,LEE TWP,President,,Green,JILL STEIN,0
+FULTON,LEWISTOWN 6,President,,Libertarian,GARY JOHNSON,10
+FULTON,JOSHUA,President,,Libertarian,GARY JOHNSON,11
+FULTON,BUCKHEART 3,President,,NonPartisan,Write-in,0
+FULTON,VERMONT 2,President,,NonPartisan,Write-in,3
+FULTON,LEWISTOWN 1,President,,NonPartisan,Write-in,0
+FULTON,CANTON 4,President,,NonPartisan,Write-in,2
+FULTON,ASTORIA 1,President,,NonPartisan,Write-in,4
+FULTON,FARMINGTON 1,President,,NonPartisan,Write-in,7
+FULTON,ASTORIA 2,President,,NonPartisan,Write-in,1
+FULTON,CANTON 7,President,,Republican,DONALD J. TRUMP,149
+FULTON,DEERFIELD,President,,Republican,DONALD J. TRUMP,102
+FULTON,LEWISTOWN 4,President,,Republican,DONALD J. TRUMP,153
+FULTON,FARMINGTON 3,President,,Libertarian,GARY JOHNSON,7
+FULTON,PUTMAN 1,President,,Libertarian,GARY JOHNSON,30
+FULTON,FARMINGTON 3,President,,NonPartisan,Write-in,1
+FULTON,LEWISTOWN 3,President,,NonPartisan,Write-in,2
+FULTON,PUTMAN 1,President,,NonPartisan,Write-in,6
+FULTON,CANTON 13,President,,Libertarian,GARY JOHNSON,15
+FULTON,WOODLAND,President,,Libertarian,GARY JOHNSON,7
+FULTON,BUCKHEART 2,President,,NonPartisan,Write-in,1
+FULTON,CANTON 13,President,,NonPartisan,Write-in,5
+FULTON,KERTON,President,,NonPartisan,Write-in,0
