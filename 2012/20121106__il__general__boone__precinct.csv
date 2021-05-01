@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,votes
-Boone,BELVIDERE  1,Voters,,Registration,,622
-Boone,BELVIDERE  2,Voters,,Registration,,531
-Boone,BELVIDERE  3,Voters,,Registration,,601
-Boone,BELVIDERE  4,Voters,,Registration,,988
-Boone,BELVIDERE  5,Voters,,Registration,,449
-Boone,BELVIDERE  6,Voters,,Registration,,524
-Boone,BELVIDERE  7,Voters,,Registration,,546
-Boone,BELVIDERE  8,Voters,,Registration,,882
-Boone,BELVIDERE  9,Voters,,Registration,,673
+Boone,BELVIDERE 1,Voters,,Registration,,622
+Boone,BELVIDERE 2,Voters,,Registration,,531
+Boone,BELVIDERE 3,Voters,,Registration,,601
+Boone,BELVIDERE 4,Voters,,Registration,,988
+Boone,BELVIDERE 5,Voters,,Registration,,449
+Boone,BELVIDERE 6,Voters,,Registration,,524
+Boone,BELVIDERE 7,Voters,,Registration,,546
+Boone,BELVIDERE 8,Voters,,Registration,,882
+Boone,BELVIDERE 9,Voters,,Registration,,673
 Boone,BELVIDERE 10,Voters,,Registration,,386
 Boone,BELVIDERE 11,Voters,,Registration,,667
 Boone,BELVIDERE 12,Voters,,Registration,,1101
@@ -26,26 +26,26 @@ Boone,BONUS 2,Voters,,Registration,,785
 Boone,BONUS 3,Voters,,Registration,,1349
 Boone,BOONE 1,Voters,,Registration,,444
 Boone,BOONE 2,Voters,,Registration,,637
-Boone,CALEDONIA  1,Voters,,Registration,,2267
-Boone,CALEDONIA  2,Voters,,Registration,,1223
-Boone,CALEDONIA  3,Voters,,Registration,,1064
-Boone,FLORA  1,Voters,,Registration,,1175
-Boone,FLORA  2,Voters,,Registration,,714
+Boone,CALEDONIA 1,Voters,,Registration,,2267
+Boone,CALEDONIA 2,Voters,,Registration,,1223
+Boone,CALEDONIA 3,Voters,,Registration,,1064
+Boone,FLORA 1,Voters,,Registration,,1175
+Boone,FLORA 2,Voters,,Registration,,714
 Boone,LE ROY,Voters,,Registration,,346
 Boone,MANCHESTER,Voters,,Registration,,736
 Boone,POPLAR GROVE 1,Voters,,Registration,,1819
 Boone,POPLAR GROVE 2,Voters,,Registration,,470
 Boone,POPLAR GROVE 3,Voters,,Registration,,656
 Boone,SPRING,Voters,,Registration,,652
-Boone,BELVIDERE  1,Voters,,Votes Cast,,387
-Boone,BELVIDERE  2,Voters,,Votes Cast,,321
-Boone,BELVIDERE  3,Voters,,Votes Cast,,324
-Boone,BELVIDERE  4,Voters,,Votes Cast,,557
-Boone,BELVIDERE  5,Voters,,Votes Cast,,272
-Boone,BELVIDERE  6,Voters,,Votes Cast,,351
-Boone,BELVIDERE  7,Voters,,Votes Cast,,340
-Boone,BELVIDERE  8,Voters,,Votes Cast,,486
-Boone,BELVIDERE  9,Voters,,Votes Cast,,407
+Boone,BELVIDERE 1,Voters,,Votes Cast,,387
+Boone,BELVIDERE 2,Voters,,Votes Cast,,321
+Boone,BELVIDERE 3,Voters,,Votes Cast,,324
+Boone,BELVIDERE 4,Voters,,Votes Cast,,557
+Boone,BELVIDERE 5,Voters,,Votes Cast,,272
+Boone,BELVIDERE 6,Voters,,Votes Cast,,351
+Boone,BELVIDERE 7,Voters,,Votes Cast,,340
+Boone,BELVIDERE 8,Voters,,Votes Cast,,486
+Boone,BELVIDERE 9,Voters,,Votes Cast,,407
 Boone,BELVIDERE 10,Voters,,Votes Cast,,208
 Boone,BELVIDERE 11,Voters,,Votes Cast,,414
 Boone,BELVIDERE 12,Voters,,Votes Cast,,739
@@ -64,26 +64,26 @@ Boone,BONUS 2,Voters,,Votes Cast,,571
 Boone,BONUS 3,Voters,,Votes Cast,,832
 Boone,BOONE 1,Voters,,Votes Cast,,308
 Boone,BOONE 2,Voters,,Votes Cast,,383
-Boone,CALEDONIA  1,Voters,,Votes Cast,,1631
-Boone,CALEDONIA  2,Voters,,Votes Cast,,734
-Boone,CALEDONIA  3,Voters,,Votes Cast,,663
-Boone,FLORA  1,Voters,,Votes Cast,,711
-Boone,FLORA  2,Voters,,Votes Cast,,500
+Boone,CALEDONIA 1,Voters,,Votes Cast,,1631
+Boone,CALEDONIA 2,Voters,,Votes Cast,,734
+Boone,CALEDONIA 3,Voters,,Votes Cast,,663
+Boone,FLORA 1,Voters,,Votes Cast,,711
+Boone,FLORA 2,Voters,,Votes Cast,,500
 Boone,LE ROY,Voters,,Votes Cast,,255
 Boone,MANCHESTER,Voters,,Votes Cast,,538
 Boone,POPLAR GROVE 1,Voters,,Votes Cast,,1118
 Boone,POPLAR GROVE 2,Voters,,Votes Cast,,326
 Boone,POPLAR GROVE 3,Voters,,Votes Cast,,389
 Boone,SPRING,Voters,,Votes Cast,,448
-Boone,BELVIDERE  1,General Assembly,69,Joe Sosnowski,REP,303
-Boone,BELVIDERE  2,General Assembly,69,Joe Sosnowski,REP,255
-Boone,BELVIDERE  3,General Assembly,69,Joe Sosnowski,REP,252
-Boone,BELVIDERE  4,General Assembly,69,Joe Sosnowski,REP,406
-Boone,BELVIDERE  5,General Assembly,69,Joe Sosnowski,REP,209
-Boone,BELVIDERE  6,General Assembly,69,Joe Sosnowski,REP,275
-Boone,BELVIDERE  7,General Assembly,69,Joe Sosnowski,REP,264
-Boone,BELVIDERE  8,General Assembly,69,Joe Sosnowski,REP,363
-Boone,BELVIDERE  9,General Assembly,69,Joe Sosnowski,REP,328
+Boone,BELVIDERE 1,General Assembly,69,Joe Sosnowski,REP,303
+Boone,BELVIDERE 2,General Assembly,69,Joe Sosnowski,REP,255
+Boone,BELVIDERE 3,General Assembly,69,Joe Sosnowski,REP,252
+Boone,BELVIDERE 4,General Assembly,69,Joe Sosnowski,REP,406
+Boone,BELVIDERE 5,General Assembly,69,Joe Sosnowski,REP,209
+Boone,BELVIDERE 6,General Assembly,69,Joe Sosnowski,REP,275
+Boone,BELVIDERE 7,General Assembly,69,Joe Sosnowski,REP,264
+Boone,BELVIDERE 8,General Assembly,69,Joe Sosnowski,REP,363
+Boone,BELVIDERE 9,General Assembly,69,Joe Sosnowski,REP,328
 Boone,BELVIDERE 10,General Assembly,69,Joe Sosnowski,REP,150
 Boone,BELVIDERE 11,General Assembly,69,Joe Sosnowski,REP,316
 Boone,BELVIDERE 12,General Assembly,69,Joe Sosnowski,REP,561
@@ -102,26 +102,26 @@ Boone,BONUS 2,General Assembly,69,Joe Sosnowski,REP,6
 Boone,BONUS 3,General Assembly,69,Joe Sosnowski,REP,-
 Boone,BOONE 1,General Assembly,69,Joe Sosnowski,REP,256
 Boone,BOONE 2,General Assembly,69,Joe Sosnowski,REP,294
-Boone,CALEDONIA  1,General Assembly,69,Joe Sosnowski,REP,1319
-Boone,CALEDONIA  2,General Assembly,69,Joe Sosnowski,REP,574
-Boone,CALEDONIA  3,General Assembly,69,Joe Sosnowski,REP,518
-Boone,FLORA  1,General Assembly,69,Joe Sosnowski,REP,460
-Boone,FLORA  2,General Assembly,69,Joe Sosnowski,REP,431
+Boone,CALEDONIA 1,General Assembly,69,Joe Sosnowski,REP,1319
+Boone,CALEDONIA 2,General Assembly,69,Joe Sosnowski,REP,574
+Boone,CALEDONIA 3,General Assembly,69,Joe Sosnowski,REP,518
+Boone,FLORA 1,General Assembly,69,Joe Sosnowski,REP,460
+Boone,FLORA 2,General Assembly,69,Joe Sosnowski,REP,431
 Boone,LE ROY,General Assembly,69,Joe Sosnowski,REP,206
 Boone,MANCHESTER,General Assembly,69,Joe Sosnowski,REP,446
 Boone,POPLAR GROVE 1,General Assembly,69,Joe Sosnowski,REP,886
 Boone,POPLAR GROVE 2,General Assembly,69,Joe Sosnowski,REP,265
 Boone,POPLAR GROVE 3,General Assembly,69,Joe Sosnowski,REP,310
 Boone,SPRING,General Assembly,69,Joe Sosnowski,REP,-
-Boone,BELVIDERE  1,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,BELVIDERE  2,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,BELVIDERE  3,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,BELVIDERE  4,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,BELVIDERE  5,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,BELVIDERE  6,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,BELVIDERE  7,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,BELVIDERE  8,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,BELVIDERE  9,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,BELVIDERE 1,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,BELVIDERE 2,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,BELVIDERE 3,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,BELVIDERE 4,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,BELVIDERE 5,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,BELVIDERE 6,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,BELVIDERE 7,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,BELVIDERE 8,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,BELVIDERE 9,General Assembly,70,Robert W. Pritchard,REP,-
 Boone,BELVIDERE 10,General Assembly,70,Robert W. Pritchard,REP,-
 Boone,BELVIDERE 11,General Assembly,70,Robert W. Pritchard,REP,-
 Boone,BELVIDERE 12,General Assembly,70,Robert W. Pritchard,REP,-
@@ -140,26 +140,26 @@ Boone,BONUS 2,General Assembly,70,Robert W. Pritchard,REP,461
 Boone,BONUS 3,General Assembly,70,Robert W. Pritchard,REP,621
 Boone,BOONE 1,General Assembly,70,Robert W. Pritchard,REP,-
 Boone,BOONE 2,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,CALEDONIA  1,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,CALEDONIA  2,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,CALEDONIA  3,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,FLORA  1,General Assembly,70,Robert W. Pritchard,REP,-
-Boone,FLORA  2,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,CALEDONIA 1,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,CALEDONIA 2,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,CALEDONIA 3,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,FLORA 1,General Assembly,70,Robert W. Pritchard,REP,-
+Boone,FLORA 2,General Assembly,70,Robert W. Pritchard,REP,-
 Boone,LE ROY,General Assembly,70,Robert W. Pritchard,REP,-
 Boone,MANCHESTER,General Assembly,70,Robert W. Pritchard,REP,-
 Boone,POPLAR GROVE 1,General Assembly,70,Robert W. Pritchard,REP,-
 Boone,POPLAR GROVE 2,General Assembly,70,Robert W. Pritchard,REP,-
 Boone,POPLAR GROVE 3,General Assembly,70,Robert W. Pritchard,REP,-
 Boone,SPRING,General Assembly,70,Robert W. Pritchard,REP,373
-Boone,BELVIDERE  1,State Senate,35,Dave Syverson,REP,308
-Boone,BELVIDERE  2,State Senate,35,Dave Syverson,REP,254
-Boone,BELVIDERE  3,State Senate,35,Dave Syverson,REP,254
-Boone,BELVIDERE  4,State Senate,35,Dave Syverson,REP,409
-Boone,BELVIDERE  5,State Senate,35,Dave Syverson,REP,214
-Boone,BELVIDERE  6,State Senate,35,Dave Syverson,REP,282
-Boone,BELVIDERE  7,State Senate,35,Dave Syverson,REP,260
-Boone,BELVIDERE  8,State Senate,35,Dave Syverson,REP,368
-Boone,BELVIDERE  9,State Senate,35,Dave Syverson,REP,330
+Boone,BELVIDERE 1,State Senate,35,Dave Syverson,REP,308
+Boone,BELVIDERE 2,State Senate,35,Dave Syverson,REP,254
+Boone,BELVIDERE 3,State Senate,35,Dave Syverson,REP,254
+Boone,BELVIDERE 4,State Senate,35,Dave Syverson,REP,409
+Boone,BELVIDERE 5,State Senate,35,Dave Syverson,REP,214
+Boone,BELVIDERE 6,State Senate,35,Dave Syverson,REP,282
+Boone,BELVIDERE 7,State Senate,35,Dave Syverson,REP,260
+Boone,BELVIDERE 8,State Senate,35,Dave Syverson,REP,368
+Boone,BELVIDERE 9,State Senate,35,Dave Syverson,REP,330
 Boone,BELVIDERE 10,State Senate,35,Dave Syverson,REP,150
 Boone,BELVIDERE 11,State Senate,35,Dave Syverson,REP,323
 Boone,BELVIDERE 12,State Senate,35,Dave Syverson,REP,587
@@ -178,26 +178,26 @@ Boone,BONUS 2,State Senate,35,Dave Syverson,REP,474
 Boone,BONUS 3,State Senate,35,Dave Syverson,REP,630
 Boone,BOONE 1,State Senate,35,Dave Syverson,REP,255
 Boone,BOONE 2,State Senate,35,Dave Syverson,REP,293
-Boone,CALEDONIA  1,State Senate,35,Dave Syverson,REP,1346
-Boone,CALEDONIA  2,State Senate,35,Dave Syverson,REP,585
-Boone,CALEDONIA  3,State Senate,35,Dave Syverson,REP,528
-Boone,FLORA  1,State Senate,35,Dave Syverson,REP,471
-Boone,FLORA  2,State Senate,35,Dave Syverson,REP,432
+Boone,CALEDONIA 1,State Senate,35,Dave Syverson,REP,1346
+Boone,CALEDONIA 2,State Senate,35,Dave Syverson,REP,585
+Boone,CALEDONIA 3,State Senate,35,Dave Syverson,REP,528
+Boone,FLORA 1,State Senate,35,Dave Syverson,REP,471
+Boone,FLORA 2,State Senate,35,Dave Syverson,REP,432
 Boone,LE ROY,State Senate,35,Dave Syverson,REP,213
 Boone,MANCHESTER,State Senate,35,Dave Syverson,REP,453
 Boone,POPLAR GROVE 1,State Senate,35,Dave Syverson,REP,895
 Boone,POPLAR GROVE 2,State Senate,35,Dave Syverson,REP,261
 Boone,POPLAR GROVE 3,State Senate,35,Dave Syverson,REP,320
 Boone,SPRING,State Senate,35,Dave Syverson,REP,383
-Boone,BELVIDERE  1,US House,16,Wanda Rohl,DEM,179
-Boone,BELVIDERE  2,US House,16,Wanda Rohl,DEM,143
-Boone,BELVIDERE  3,US House,16,Wanda Rohl,DEM,151
-Boone,BELVIDERE  4,US House,16,Wanda Rohl,DEM,321
-Boone,BELVIDERE  5,US House,16,Wanda Rohl,DEM,122
-Boone,BELVIDERE  6,US House,16,Wanda Rohl,DEM,162
-Boone,BELVIDERE  7,US House,16,Wanda Rohl,DEM,186
-Boone,BELVIDERE  8,US House,16,Wanda Rohl,DEM,255
-Boone,BELVIDERE  9,US House,16,Wanda Rohl,DEM,190
+Boone,BELVIDERE 1,US House,16,Wanda Rohl,DEM,179
+Boone,BELVIDERE 2,US House,16,Wanda Rohl,DEM,143
+Boone,BELVIDERE 3,US House,16,Wanda Rohl,DEM,151
+Boone,BELVIDERE 4,US House,16,Wanda Rohl,DEM,321
+Boone,BELVIDERE 5,US House,16,Wanda Rohl,DEM,122
+Boone,BELVIDERE 6,US House,16,Wanda Rohl,DEM,162
+Boone,BELVIDERE 7,US House,16,Wanda Rohl,DEM,186
+Boone,BELVIDERE 8,US House,16,Wanda Rohl,DEM,255
+Boone,BELVIDERE 9,US House,16,Wanda Rohl,DEM,190
 Boone,BELVIDERE 10,US House,16,Wanda Rohl,DEM,114
 Boone,BELVIDERE 11,US House,16,Wanda Rohl,DEM,174
 Boone,BELVIDERE 12,US House,16,Wanda Rohl,DEM,295
@@ -216,26 +216,26 @@ Boone,BONUS 2,US House,16,Wanda Rohl,DEM,180
 Boone,BONUS 3,US House,16,Wanda Rohl,DEM,406
 Boone,BOONE 1,US House,16,Wanda Rohl,DEM,100
 Boone,BOONE 2,US House,16,Wanda Rohl,DEM,191
-Boone,CALEDONIA  1,US House,16,Wanda Rohl,DEM,491
-Boone,CALEDONIA  2,US House,16,Wanda Rohl,DEM,317
-Boone,CALEDONIA  3,US House,16,Wanda Rohl,DEM,281
-Boone,FLORA  1,US House,16,Wanda Rohl,DEM,333
-Boone,FLORA  2,US House,16,Wanda Rohl,DEM,178
+Boone,CALEDONIA 1,US House,16,Wanda Rohl,DEM,491
+Boone,CALEDONIA 2,US House,16,Wanda Rohl,DEM,317
+Boone,CALEDONIA 3,US House,16,Wanda Rohl,DEM,281
+Boone,FLORA 1,US House,16,Wanda Rohl,DEM,333
+Boone,FLORA 2,US House,16,Wanda Rohl,DEM,178
 Boone,LE ROY,US House,16,Wanda Rohl,DEM,67
 Boone,MANCHESTER,US House,16,Wanda Rohl,DEM,157
 Boone,POPLAR GROVE 1,US House,16,Wanda Rohl,DEM,455
 Boone,POPLAR GROVE 2,US House,16,Wanda Rohl,DEM,119
 Boone,POPLAR GROVE 3,US House,16,Wanda Rohl,DEM,175
 Boone,SPRING,US House,16,Wanda Rohl,DEM,155
-Boone,BELVIDERE  1,US House,16,Adam Kinzinger,REP,195
-Boone,BELVIDERE  2,US House,16,Adam Kinzinger,REP,167
-Boone,BELVIDERE  3,US House,16,Adam Kinzinger,REP,154
-Boone,BELVIDERE  4,US House,16,Adam Kinzinger,REP,213
-Boone,BELVIDERE  5,US House,16,Adam Kinzinger,REP,132
-Boone,BELVIDERE  6,US House,16,Adam Kinzinger,REP,183
-Boone,BELVIDERE  7,US House,16,Adam Kinzinger,REP,148
-Boone,BELVIDERE  8,US House,16,Adam Kinzinger,REP,220
-Boone,BELVIDERE  9,US House,16,Adam Kinzinger,REP,203
+Boone,BELVIDERE 1,US House,16,Adam Kinzinger,REP,195
+Boone,BELVIDERE 2,US House,16,Adam Kinzinger,REP,167
+Boone,BELVIDERE 3,US House,16,Adam Kinzinger,REP,154
+Boone,BELVIDERE 4,US House,16,Adam Kinzinger,REP,213
+Boone,BELVIDERE 5,US House,16,Adam Kinzinger,REP,132
+Boone,BELVIDERE 6,US House,16,Adam Kinzinger,REP,183
+Boone,BELVIDERE 7,US House,16,Adam Kinzinger,REP,148
+Boone,BELVIDERE 8,US House,16,Adam Kinzinger,REP,220
+Boone,BELVIDERE 9,US House,16,Adam Kinzinger,REP,203
 Boone,BELVIDERE 10,US House,16,Adam Kinzinger,REP,84
 Boone,BELVIDERE 11,US House,16,Adam Kinzinger,REP,226
 Boone,BELVIDERE 12,US House,16,Adam Kinzinger,REP,404
@@ -254,26 +254,26 @@ Boone,BONUS 2,US House,16,Adam Kinzinger,REP,374
 Boone,BONUS 3,US House,16,Adam Kinzinger,REP,402
 Boone,BOONE 1,US House,16,Adam Kinzinger,REP,197
 Boone,BOONE 2,US House,16,Adam Kinzinger,REP,180
-Boone,CALEDONIA  1,US House,16,Adam Kinzinger,REP,1078
-Boone,CALEDONIA  2,US House,16,Adam Kinzinger,REP,386
-Boone,CALEDONIA  3,US House,16,Adam Kinzinger,REP,358
-Boone,FLORA  1,US House,16,Adam Kinzinger,REP,326
-Boone,FLORA  2,US House,16,Adam Kinzinger,REP,307
+Boone,CALEDONIA 1,US House,16,Adam Kinzinger,REP,1078
+Boone,CALEDONIA 2,US House,16,Adam Kinzinger,REP,386
+Boone,CALEDONIA 3,US House,16,Adam Kinzinger,REP,358
+Boone,FLORA 1,US House,16,Adam Kinzinger,REP,326
+Boone,FLORA 2,US House,16,Adam Kinzinger,REP,307
 Boone,LE ROY,US House,16,Adam Kinzinger,REP,174
 Boone,MANCHESTER,US House,16,Adam Kinzinger,REP,370
 Boone,POPLAR GROVE 1,US House,16,Adam Kinzinger,REP,624
 Boone,POPLAR GROVE 2,US House,16,Adam Kinzinger,REP,193
 Boone,POPLAR GROVE 3,US House,16,Adam Kinzinger,REP,203
 Boone,SPRING,US House,16,Adam Kinzinger,REP,281
-Boone,BELVIDERE  1,President,,Barack Obama,DEM,214
-Boone,BELVIDERE  2,President,,Barack Obama,DEM,172
-Boone,BELVIDERE  3,President,,Barack Obama,DEM,185
-Boone,BELVIDERE  4,President,,Barack Obama,DEM,354
-Boone,BELVIDERE  5,President,,Barack Obama,DEM,146
-Boone,BELVIDERE  6,President,,Barack Obama,DEM,175
-Boone,BELVIDERE  7,President,,Barack Obama,DEM,219
-Boone,BELVIDERE  8,President,,Barack Obama,DEM,303
-Boone,BELVIDERE  9,President,,Barack Obama,DEM,233
+Boone,BELVIDERE 1,President,,Barack Obama,DEM,214
+Boone,BELVIDERE 2,President,,Barack Obama,DEM,172
+Boone,BELVIDERE 3,President,,Barack Obama,DEM,185
+Boone,BELVIDERE 4,President,,Barack Obama,DEM,354
+Boone,BELVIDERE 5,President,,Barack Obama,DEM,146
+Boone,BELVIDERE 6,President,,Barack Obama,DEM,175
+Boone,BELVIDERE 7,President,,Barack Obama,DEM,219
+Boone,BELVIDERE 8,President,,Barack Obama,DEM,303
+Boone,BELVIDERE 9,President,,Barack Obama,DEM,233
 Boone,BELVIDERE 10,President,,Barack Obama,DEM,131
 Boone,BELVIDERE 11,President,,Barack Obama,DEM,199
 Boone,BELVIDERE 12,President,,Barack Obama,DEM,364
@@ -292,26 +292,26 @@ Boone,BONUS 2,President,,Barack Obama,DEM,235
 Boone,BONUS 3,President,,Barack Obama,DEM,434
 Boone,BOONE 1,President,,Barack Obama,DEM,119
 Boone,BOONE 2,President,,Barack Obama,DEM,208
-Boone,CALEDONIA  1,President,,Barack Obama,DEM,619
-Boone,CALEDONIA  2,President,,Barack Obama,DEM,354
-Boone,CALEDONIA  3,President,,Barack Obama,DEM,315
-Boone,FLORA  1,President,,Barack Obama,DEM,416
-Boone,FLORA  2,President,,Barack Obama,DEM,200
+Boone,CALEDONIA 1,President,,Barack Obama,DEM,619
+Boone,CALEDONIA 2,President,,Barack Obama,DEM,354
+Boone,CALEDONIA 3,President,,Barack Obama,DEM,315
+Boone,FLORA 1,President,,Barack Obama,DEM,416
+Boone,FLORA 2,President,,Barack Obama,DEM,200
 Boone,LE ROY,President,,Barack Obama,DEM,83
 Boone,MANCHESTER,President,,Barack Obama,DEM,185
 Boone,POPLAR GROVE 1,President,,Barack Obama,DEM,563
 Boone,POPLAR GROVE 2,President,,Barack Obama,DEM,150
 Boone,POPLAR GROVE 3,President,,Barack Obama,DEM,196
 Boone,SPRING,President,,Barack Obama,DEM,187
-Boone,BELVIDERE  1,President,,Mitt Romney,REP,161
-Boone,BELVIDERE  2,President,,Mitt Romney,REP,132
-Boone,BELVIDERE  3,President,,Mitt Romney,REP,136
-Boone,BELVIDERE  4,President,,Mitt Romney,REP,178
-Boone,BELVIDERE  5,President,,Mitt Romney,REP,114
-Boone,BELVIDERE  6,President,,Mitt Romney,REP,161
-Boone,BELVIDERE  7,President,,Mitt Romney,REP,110
-Boone,BELVIDERE  8,President,,Mitt Romney,REP,175
-Boone,BELVIDERE  9,President,,Mitt Romney,REP,163
+Boone,BELVIDERE 1,President,,Mitt Romney,REP,161
+Boone,BELVIDERE 2,President,,Mitt Romney,REP,132
+Boone,BELVIDERE 3,President,,Mitt Romney,REP,136
+Boone,BELVIDERE 4,President,,Mitt Romney,REP,178
+Boone,BELVIDERE 5,President,,Mitt Romney,REP,114
+Boone,BELVIDERE 6,President,,Mitt Romney,REP,161
+Boone,BELVIDERE 7,President,,Mitt Romney,REP,110
+Boone,BELVIDERE 8,President,,Mitt Romney,REP,175
+Boone,BELVIDERE 9,President,,Mitt Romney,REP,163
 Boone,BELVIDERE 10,President,,Mitt Romney,REP,72
 Boone,BELVIDERE 11,President,,Mitt Romney,REP,198
 Boone,BELVIDERE 12,President,,Mitt Romney,REP,358
@@ -330,26 +330,26 @@ Boone,BONUS 2,President,,Mitt Romney,REP,323
 Boone,BONUS 3,President,,Mitt Romney,REP,372
 Boone,BOONE 1,President,,Mitt Romney,REP,175
 Boone,BOONE 2,President,,Mitt Romney,REP,163
-Boone,CALEDONIA  1,President,,Mitt Romney,REP,986
-Boone,CALEDONIA  2,President,,Mitt Romney,REP,358
-Boone,CALEDONIA  3,President,,Mitt Romney,REP,332
-Boone,FLORA  1,President,,Mitt Romney,REP,280
-Boone,FLORA  2,President,,Mitt Romney,REP,282
+Boone,CALEDONIA 1,President,,Mitt Romney,REP,986
+Boone,CALEDONIA 2,President,,Mitt Romney,REP,358
+Boone,CALEDONIA 3,President,,Mitt Romney,REP,332
+Boone,FLORA 1,President,,Mitt Romney,REP,280
+Boone,FLORA 2,President,,Mitt Romney,REP,282
 Boone,LE ROY,President,,Mitt Romney,REP,167
 Boone,MANCHESTER,President,,Mitt Romney,REP,345
 Boone,POPLAR GROVE 1,President,,Mitt Romney,REP,530
 Boone,POPLAR GROVE 2,President,,Mitt Romney,REP,168
 Boone,POPLAR GROVE 3,President,,Mitt Romney,REP,179
 Boone,SPRING,President,,Mitt Romney,REP,248
-Boone,BELVIDERE  1,President,,Gary Johnson,LBT,5
-Boone,BELVIDERE  2,President,,Gary Johnson,LBT,6
-Boone,BELVIDERE  3,President,,Gary Johnson,LBT,0
-Boone,BELVIDERE  4,President,,Gary Johnson,LBT,16
-Boone,BELVIDERE  5,President,,Gary Johnson,LBT,4
-Boone,BELVIDERE  6,President,,Gary Johnson,LBT,7
-Boone,BELVIDERE  7,President,,Gary Johnson,LBT,9
-Boone,BELVIDERE  8,President,,Gary Johnson,LBT,7
-Boone,BELVIDERE  9,President,,Gary Johnson,LBT,4
+Boone,BELVIDERE 1,President,,Gary Johnson,LBT,5
+Boone,BELVIDERE 2,President,,Gary Johnson,LBT,6
+Boone,BELVIDERE 3,President,,Gary Johnson,LBT,0
+Boone,BELVIDERE 4,President,,Gary Johnson,LBT,16
+Boone,BELVIDERE 5,President,,Gary Johnson,LBT,4
+Boone,BELVIDERE 6,President,,Gary Johnson,LBT,7
+Boone,BELVIDERE 7,President,,Gary Johnson,LBT,9
+Boone,BELVIDERE 8,President,,Gary Johnson,LBT,7
+Boone,BELVIDERE 9,President,,Gary Johnson,LBT,4
 Boone,BELVIDERE 10,President,,Gary Johnson,LBT,2
 Boone,BELVIDERE 11,President,,Gary Johnson,LBT,9
 Boone,BELVIDERE 12,President,,Gary Johnson,LBT,11
@@ -368,26 +368,26 @@ Boone,BONUS 2,President,,Gary Johnson,LBT,6
 Boone,BONUS 3,President,,Gary Johnson,LBT,16
 Boone,BOONE 1,President,,Gary Johnson,LBT,7
 Boone,BOONE 2,President,,Gary Johnson,LBT,6
-Boone,CALEDONIA  1,President,,Gary Johnson,LBT,11
-Boone,CALEDONIA  2,President,,Gary Johnson,LBT,17
-Boone,CALEDONIA  3,President,,Gary Johnson,LBT,13
-Boone,FLORA  1,President,,Gary Johnson,LBT,7
-Boone,FLORA  2,President,,Gary Johnson,LBT,9
+Boone,CALEDONIA 1,President,,Gary Johnson,LBT,11
+Boone,CALEDONIA 2,President,,Gary Johnson,LBT,17
+Boone,CALEDONIA 3,President,,Gary Johnson,LBT,13
+Boone,FLORA 1,President,,Gary Johnson,LBT,7
+Boone,FLORA 2,President,,Gary Johnson,LBT,9
 Boone,LE ROY,President,,Gary Johnson,LBT,3
 Boone,MANCHESTER,President,,Gary Johnson,LBT,5
 Boone,POPLAR GROVE 1,President,,Gary Johnson,LBT,14
 Boone,POPLAR GROVE 2,President,,Gary Johnson,LBT,4
 Boone,POPLAR GROVE 3,President,,Gary Johnson,LBT,7
 Boone,SPRING,President,,Gary Johnson,LBT,8
-Boone,BELVIDERE  1,President,,Jill Stein,GRN,4
-Boone,BELVIDERE  2,President,,Jill Stein,GRN,4
-Boone,BELVIDERE  3,President,,Jill Stein,GRN,0
-Boone,BELVIDERE  4,President,,Jill Stein,GRN,4
-Boone,BELVIDERE  5,President,,Jill Stein,GRN,4
-Boone,BELVIDERE  6,President,,Jill Stein,GRN,5
-Boone,BELVIDERE  7,President,,Jill Stein,GRN,2
-Boone,BELVIDERE  8,President,,Jill Stein,GRN,1
-Boone,BELVIDERE  9,President,,Jill Stein,GRN,5
+Boone,BELVIDERE 1,President,,Jill Stein,GRN,4
+Boone,BELVIDERE 2,President,,Jill Stein,GRN,4
+Boone,BELVIDERE 3,President,,Jill Stein,GRN,0
+Boone,BELVIDERE 4,President,,Jill Stein,GRN,4
+Boone,BELVIDERE 5,President,,Jill Stein,GRN,4
+Boone,BELVIDERE 6,President,,Jill Stein,GRN,5
+Boone,BELVIDERE 7,President,,Jill Stein,GRN,2
+Boone,BELVIDERE 8,President,,Jill Stein,GRN,1
+Boone,BELVIDERE 9,President,,Jill Stein,GRN,5
 Boone,BELVIDERE 10,President,,Jill Stein,GRN,1
 Boone,BELVIDERE 11,President,,Jill Stein,GRN,4
 Boone,BELVIDERE 12,President,,Jill Stein,GRN,2
@@ -406,26 +406,26 @@ Boone,BONUS 2,President,,Jill Stein,GRN,5
 Boone,BONUS 3,President,,Jill Stein,GRN,4
 Boone,BOONE 1,President,,Jill Stein,GRN,1
 Boone,BOONE 2,President,,Jill Stein,GRN,2
-Boone,CALEDONIA  1,President,,Jill Stein,GRN,7
-Boone,CALEDONIA  2,President,,Jill Stein,GRN,1
-Boone,CALEDONIA  3,President,,Jill Stein,GRN,1
-Boone,FLORA  1,President,,Jill Stein,GRN,4
-Boone,FLORA  2,President,,Jill Stein,GRN,3
+Boone,CALEDONIA 1,President,,Jill Stein,GRN,7
+Boone,CALEDONIA 2,President,,Jill Stein,GRN,1
+Boone,CALEDONIA 3,President,,Jill Stein,GRN,1
+Boone,FLORA 1,President,,Jill Stein,GRN,4
+Boone,FLORA 2,President,,Jill Stein,GRN,3
 Boone,LE ROY,President,,Jill Stein,GRN,0
 Boone,MANCHESTER,President,,Jill Stein,GRN,1
 Boone,POPLAR GROVE 1,President,,Jill Stein,GRN,5
 Boone,POPLAR GROVE 2,President,,Jill Stein,GRN,0
 Boone,POPLAR GROVE 3,President,,Jill Stein,GRN,0
 Boone,SPRING,President,,Jill Stein,GRN,4
-Boone,BELVIDERE  1,President,,write-in,,2
-Boone,BELVIDERE  2,President,,write-in,,5
-Boone,BELVIDERE  3,President,,write-in,,1
-Boone,BELVIDERE  4,President,,write-in,,2
-Boone,BELVIDERE  5,President,,write-in,,2
-Boone,BELVIDERE  6,President,,write-in,,2
-Boone,BELVIDERE  7,President,,write-in,,0
-Boone,BELVIDERE  8,President,,write-in,,0
-Boone,BELVIDERE  9,President,,write-in,,0
+Boone,BELVIDERE 1,President,,write-in,,2
+Boone,BELVIDERE 2,President,,write-in,,5
+Boone,BELVIDERE 3,President,,write-in,,1
+Boone,BELVIDERE 4,President,,write-in,,2
+Boone,BELVIDERE 5,President,,write-in,,2
+Boone,BELVIDERE 6,President,,write-in,,2
+Boone,BELVIDERE 7,President,,write-in,,0
+Boone,BELVIDERE 8,President,,write-in,,0
+Boone,BELVIDERE 9,President,,write-in,,0
 Boone,BELVIDERE 10,President,,write-in,,2
 Boone,BELVIDERE 11,President,,write-in,,2
 Boone,BELVIDERE 12,President,,write-in,,2
@@ -444,11 +444,11 @@ Boone,BONUS 2,President,,write-in,,2
 Boone,BONUS 3,President,,write-in,,4
 Boone,BOONE 1,President,,write-in,,4
 Boone,BOONE 2,President,,write-in,,2
-Boone,CALEDONIA  1,President,,write-in,,5
-Boone,CALEDONIA  2,President,,write-in,,2
-Boone,CALEDONIA  3,President,,write-in,,2
-Boone,FLORA  1,President,,write-in,,2
-Boone,FLORA  2,President,,write-in,,3
+Boone,CALEDONIA 1,President,,write-in,,5
+Boone,CALEDONIA 2,President,,write-in,,2
+Boone,CALEDONIA 3,President,,write-in,,2
+Boone,FLORA 1,President,,write-in,,2
+Boone,FLORA 2,President,,write-in,,3
 Boone,LE ROY,President,,write-in,,1
 Boone,MANCHESTER,President,,write-in,,1
 Boone,POPLAR GROVE 1,President,,write-in,,4
