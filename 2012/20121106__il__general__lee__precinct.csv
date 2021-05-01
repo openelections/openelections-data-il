@@ -2,7 +2,7 @@ county,precinct,office,district,candidate,party,votes
 Lee,Alto,State Senate,45,TIM BIVINS,R,212
 Lee,Amboy 1,State Senate,45,TIM BIVINS,R,294
 Lee,Amboy 2,State Senate,45,TIM BIVINS,R,333
-Lee,Amboy 3,State Senate,45,TIM BIVINS,R,-
+Lee,Amboy 3,State Senate,45,TIM BIVINS,R,
 Lee,Ashton 1,State Senate,45,TIM BIVINS,R,255
 Lee,Ashton 2,State Senate,45,TIM BIVINS,R,208
 Lee,Bradford,State Senate,45,TIM BIVINS,R,140
@@ -28,14 +28,14 @@ Lee,Dixon 17,State Senate,45,TIM BIVINS,R,215
 Lee,Dixon 18,State Senate,45,TIM BIVINS,R,223
 Lee,Dixon 19,State Senate,45,TIM BIVINS,R,493
 Lee,Dixon 20,State Senate,45,TIM BIVINS,R,399
-Lee,East Grove,State Senate,45,TIM BIVINS,R,-
+Lee,East Grove,State Senate,45,TIM BIVINS,R,
 Lee,Franklin Grove 1,State Senate,45,TIM BIVINS,R,286
 Lee,Franklin Grove 2,State Senate,45,TIM BIVINS,R,219
-Lee,Hamilton,State Senate,45,TIM BIVINS,R,-
-Lee,Harmon,State Senate,45,TIM BIVINS,R,-
+Lee,Hamilton,State Senate,45,TIM BIVINS,R,
+Lee,Harmon,State Senate,45,TIM BIVINS,R,
 Lee,Lee Center,State Senate,45,TIM BIVINS,R,238
-Lee,Marion,State Senate,45,TIM BIVINS,R,-
-Lee,May,State Senate,45,TIM BIVINS,R,-
+Lee,Marion,State Senate,45,TIM BIVINS,R,
+Lee,May,State Senate,45,TIM BIVINS,R,
 Lee,Nachusa,State Senate,45,TIM BIVINS,R,198
 Lee,Nelson,State Senate,45,TIM BIVINS,R,307
 Lee,Palmyra 1,State Senate,45,TIM BIVINS,R,399
@@ -48,161 +48,161 @@ Lee,Viola,State Senate,45,TIM BIVINS,R,126
 Lee,Willow Creek,State Senate,45,TIM BIVINS,R,236
 Lee,Wyoming 1,State Senate,45,TIM BIVINS,R,291
 Lee,Wyoming 2,State Senate,45,TIM BIVINS,R,191
-Lee,Elections Office,State Senate,45,TIM BIVINS,R,-
-Lee,Alto,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Amboy 1,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Amboy 2,General Assembly,74,DONALD L. MOFFITT,R,-
+Lee,Elections Office,State Senate,45,TIM BIVINS,R,
+Lee,Alto,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Amboy 1,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Amboy 2,General Assembly,74,DONALD L. MOFFITT,R,
 Lee,Amboy 3,General Assembly,74,DONALD L. MOFFITT,R,234
-Lee,Ashton 1,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Ashton 2,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Bradford,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Brooklyn 1,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Brooklyn 2,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 1,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 2,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 3,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 4,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 5,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 6,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 7,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 8,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 9,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 10,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 11,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 12,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 13,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 14,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 15,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 16,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 17,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 18,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 19,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Dixon 20,General Assembly,74,DONALD L. MOFFITT,R,-
+Lee,Ashton 1,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Ashton 2,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Bradford,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Brooklyn 1,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Brooklyn 2,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 1,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 2,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 3,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 4,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 5,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 6,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 7,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 8,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 9,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 10,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 11,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 12,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 13,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 14,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 15,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 16,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 17,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 18,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 19,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Dixon 20,General Assembly,74,DONALD L. MOFFITT,R,
 Lee,East Grove,General Assembly,74,DONALD L. MOFFITT,R,74
-Lee,Franklin Grove 1,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Franklin Grove 2,General Assembly,74,DONALD L. MOFFITT,R,-
+Lee,Franklin Grove 1,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Franklin Grove 2,General Assembly,74,DONALD L. MOFFITT,R,
 Lee,Hamilton,General Assembly,74,DONALD L. MOFFITT,R,55
 Lee,Harmon,General Assembly,74,DONALD L. MOFFITT,R,78
 Lee,Lee Center,General Assembly,74,DONALD L. MOFFITT,R,5
 Lee,Marion,General Assembly,74,DONALD L. MOFFITT,R,48
 Lee,May,General Assembly,74,DONALD L. MOFFITT,R,82
-Lee,Nachusa,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Nelson,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Palmyra 1,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Palmyra 2,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Palmyra 3,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Reynolds,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,South Dixon,General Assembly,74,DONALD L. MOFFITT,R,-
+Lee,Nachusa,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Nelson,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Palmyra 1,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Palmyra 2,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Palmyra 3,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Reynolds,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,South Dixon,General Assembly,74,DONALD L. MOFFITT,R,
 Lee,Sublette,General Assembly,74,DONALD L. MOFFITT,R,149
-Lee,Viola,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Willow Creek,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Wyoming 1,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Wyoming 2,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Elections Office,General Assembly,74,DONALD L. MOFFITT,R,-
-Lee,Alto,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Amboy 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Amboy 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
+Lee,Viola,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Willow Creek,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Wyoming 1,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Wyoming 2,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Elections Office,General Assembly,74,DONALD L. MOFFITT,R,
+Lee,Alto,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Amboy 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Amboy 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
 Lee,Amboy 3,General Assembly,74,AUGUST 'GUS' JUNIOR,D,227
-Lee,Ashton 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Ashton 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Bradford,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Brooklyn 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Brooklyn 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 3,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 4,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 5,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 6,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 7,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 8,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 9,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 10,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 11,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 12,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 13,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 14,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 15,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 16,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 17,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 18,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 19,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Dixon 20,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
+Lee,Ashton 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Ashton 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Bradford,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Brooklyn 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Brooklyn 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 3,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 4,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 5,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 6,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 7,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 8,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 9,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 10,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 11,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 12,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 13,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 14,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 15,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 16,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 17,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 18,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 19,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Dixon 20,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
 Lee,East Grove,General Assembly,74,AUGUST 'GUS' JUNIOR,D,61
-Lee,Franklin Grove 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Franklin Grove 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
+Lee,Franklin Grove 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Franklin Grove 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
 Lee,Hamilton,General Assembly,74,AUGUST 'GUS' JUNIOR,D,27
 Lee,Harmon,General Assembly,74,AUGUST 'GUS' JUNIOR,D,97
 Lee,Lee Center,General Assembly,74,AUGUST 'GUS' JUNIOR,D,1
 Lee,Marion,General Assembly,74,AUGUST 'GUS' JUNIOR,D,77
 Lee,May,General Assembly,74,AUGUST 'GUS' JUNIOR,D,67
-Lee,Nachusa,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Nelson,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Palmyra 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Palmyra 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Palmyra 3,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Reynolds,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,South Dixon,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
+Lee,Nachusa,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Nelson,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Palmyra 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Palmyra 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Palmyra 3,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Reynolds,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,South Dixon,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
 Lee,Sublette,General Assembly,74,AUGUST 'GUS' JUNIOR,D,67
-Lee,Viola,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Willow Creek,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Wyoming 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Wyoming 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Elections Office,General Assembly,74,AUGUST 'GUS' JUNIOR,D,-
-Lee,Alto,State Senate,37,DARIN LaHOOD,R,-
-Lee,Amboy 1,State Senate,37,DARIN LaHOOD,R,-
-Lee,Amboy 2,State Senate,37,DARIN LaHOOD,R,-
+Lee,Viola,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Willow Creek,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Wyoming 1,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Wyoming 2,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Elections Office,General Assembly,74,AUGUST 'GUS' JUNIOR,D,
+Lee,Alto,State Senate,37,DARIN LaHOOD,R,
+Lee,Amboy 1,State Senate,37,DARIN LaHOOD,R,
+Lee,Amboy 2,State Senate,37,DARIN LaHOOD,R,
 Lee,Amboy 3,State Senate,37,DARIN LaHOOD,R,357
-Lee,Ashton 1,State Senate,37,DARIN LaHOOD,R,-
-Lee,Ashton 2,State Senate,37,DARIN LaHOOD,R,-
-Lee,Bradford,State Senate,37,DARIN LaHOOD,R,-
-Lee,Brooklyn 1,State Senate,37,DARIN LaHOOD,R,-
-Lee,Brooklyn 2,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 1,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 2,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 3,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 4,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 5,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 6,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 7,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 8,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 9,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 10,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 11,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 12,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 13,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 14,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 15,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 16,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 17,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 18,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 19,State Senate,37,DARIN LaHOOD,R,-
-Lee,Dixon 20,State Senate,37,DARIN LaHOOD,R,-
+Lee,Ashton 1,State Senate,37,DARIN LaHOOD,R,
+Lee,Ashton 2,State Senate,37,DARIN LaHOOD,R,
+Lee,Bradford,State Senate,37,DARIN LaHOOD,R,
+Lee,Brooklyn 1,State Senate,37,DARIN LaHOOD,R,
+Lee,Brooklyn 2,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 1,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 2,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 3,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 4,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 5,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 6,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 7,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 8,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 9,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 10,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 11,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 12,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 13,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 14,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 15,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 16,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 17,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 18,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 19,State Senate,37,DARIN LaHOOD,R,
+Lee,Dixon 20,State Senate,37,DARIN LaHOOD,R,
 Lee,East Grove,State Senate,37,DARIN LaHOOD,R,99
-Lee,Franklin Grove 1,State Senate,37,DARIN LaHOOD,R,-
-Lee,Franklin Grove 2,State Senate,37,DARIN LaHOOD,R,-
+Lee,Franklin Grove 1,State Senate,37,DARIN LaHOOD,R,
+Lee,Franklin Grove 2,State Senate,37,DARIN LaHOOD,R,
 Lee,Hamilton,State Senate,37,DARIN LaHOOD,R,69
 Lee,Harmon,State Senate,37,DARIN LaHOOD,R,126
 Lee,Lee Center,State Senate,37,DARIN LaHOOD,R,6
 Lee,Marion,State Senate,37,DARIN LaHOOD,R,78
 Lee,May,State Senate,37,DARIN LaHOOD,R,114
-Lee,Nachusa,State Senate,37,DARIN LaHOOD,R,-
-Lee,Nelson,State Senate,37,DARIN LaHOOD,R,-
-Lee,Palmyra 1,State Senate,37,DARIN LaHOOD,R,-
-Lee,Palmyra 2,State Senate,37,DARIN LaHOOD,R,-
-Lee,Palmyra 3,State Senate,37,DARIN LaHOOD,R,-
-Lee,Reynolds,State Senate,37,DARIN LaHOOD,R,-
-Lee,South Dixon,State Senate,37,DARIN LaHOOD,R,-
+Lee,Nachusa,State Senate,37,DARIN LaHOOD,R,
+Lee,Nelson,State Senate,37,DARIN LaHOOD,R,
+Lee,Palmyra 1,State Senate,37,DARIN LaHOOD,R,
+Lee,Palmyra 2,State Senate,37,DARIN LaHOOD,R,
+Lee,Palmyra 3,State Senate,37,DARIN LaHOOD,R,
+Lee,Reynolds,State Senate,37,DARIN LaHOOD,R,
+Lee,South Dixon,State Senate,37,DARIN LaHOOD,R,
 Lee,Sublette,State Senate,37,DARIN LaHOOD,R,175
-Lee,Viola,State Senate,37,DARIN LaHOOD,R,-
-Lee,Willow Creek,State Senate,37,DARIN LaHOOD,R,-
-Lee,Wyoming 1,State Senate,37,DARIN LaHOOD,R,-
-Lee,Wyoming 2,State Senate,37,DARIN LaHOOD,R,-
-Lee,Elections Office,State Senate,37,DARIN LaHOOD,R,-
+Lee,Viola,State Senate,37,DARIN LaHOOD,R,
+Lee,Willow Creek,State Senate,37,DARIN LaHOOD,R,
+Lee,Wyoming 1,State Senate,37,DARIN LaHOOD,R,
+Lee,Wyoming 2,State Senate,37,DARIN LaHOOD,R,
+Lee,Elections Office,State Senate,37,DARIN LaHOOD,R,
 Lee,Alto,General Assembly,90,TOM DEMMER,R,156
 Lee,Amboy 1,General Assembly,90,TOM DEMMER,R,197
 Lee,Amboy 2,General Assembly,90,TOM DEMMER,R,221
-Lee,Amboy 3,General Assembly,90,TOM DEMMER,R,-
+Lee,Amboy 3,General Assembly,90,TOM DEMMER,R,
 Lee,Ashton 1,General Assembly,90,TOM DEMMER,R,201
 Lee,Ashton 2,General Assembly,90,TOM DEMMER,R,169
 Lee,Bradford,General Assembly,90,TOM DEMMER,R,117
@@ -228,14 +228,14 @@ Lee,Dixon 17,General Assembly,90,TOM DEMMER,R,130
 Lee,Dixon 18,General Assembly,90,TOM DEMMER,R,131
 Lee,Dixon 19,General Assembly,90,TOM DEMMER,R,371
 Lee,Dixon 20,General Assembly,90,TOM DEMMER,R,274
-Lee,East Grove,General Assembly,90,TOM DEMMER,R,-
+Lee,East Grove,General Assembly,90,TOM DEMMER,R,
 Lee,Franklin Grove 1,General Assembly,90,TOM DEMMER,R,206
 Lee,Franklin Grove 2,General Assembly,90,TOM DEMMER,R,166
-Lee,Hamilton,General Assembly,90,TOM DEMMER,R,-
-Lee,Harmon,General Assembly,90,TOM DEMMER,R,-
+Lee,Hamilton,General Assembly,90,TOM DEMMER,R,
+Lee,Harmon,General Assembly,90,TOM DEMMER,R,
 Lee,Lee Center,General Assembly,90,TOM DEMMER,R,167
-Lee,Marion,General Assembly,90,TOM DEMMER,R,-
-Lee,May,General Assembly,90,TOM DEMMER,R,-
+Lee,Marion,General Assembly,90,TOM DEMMER,R,
+Lee,May,General Assembly,90,TOM DEMMER,R,
 Lee,Nachusa,General Assembly,90,TOM DEMMER,R,143
 Lee,Nelson,General Assembly,90,TOM DEMMER,R,196
 Lee,Palmyra 1,General Assembly,90,TOM DEMMER,R,306
@@ -248,11 +248,11 @@ Lee,Viola,General Assembly,90,TOM DEMMER,R,104
 Lee,Willow Creek,General Assembly,90,TOM DEMMER,R,185
 Lee,Wyoming 1,General Assembly,90,TOM DEMMER,R,200
 Lee,Wyoming 2,General Assembly,90,TOM DEMMER,R,145
-Lee,Elections Office,General Assembly,90,TOM DEMMER,R,-
+Lee,Elections Office,General Assembly,90,TOM DEMMER,R,
 Lee,Alto,General Assembly,90,THOMAS BOKEN JR,D,85
 Lee,Amboy 1,General Assembly,90,THOMAS BOKEN JR,D,165
 Lee,Amboy 2,General Assembly,90,THOMAS BOKEN JR,D,154
-Lee,Amboy 3,General Assembly,90,THOMAS BOKEN JR,D,-
+Lee,Amboy 3,General Assembly,90,THOMAS BOKEN JR,D,
 Lee,Ashton 1,General Assembly,90,THOMAS BOKEN JR,D,84
 Lee,Ashton 2,General Assembly,90,THOMAS BOKEN JR,D,56
 Lee,Bradford,General Assembly,90,THOMAS BOKEN JR,D,30
@@ -278,14 +278,14 @@ Lee,Dixon 17,General Assembly,90,THOMAS BOKEN JR,D,110
 Lee,Dixon 18,General Assembly,90,THOMAS BOKEN JR,D,126
 Lee,Dixon 19,General Assembly,90,THOMAS BOKEN JR,D,176
 Lee,Dixon 20,General Assembly,90,THOMAS BOKEN JR,D,201
-Lee,East Grove,General Assembly,90,THOMAS BOKEN JR,D,-
+Lee,East Grove,General Assembly,90,THOMAS BOKEN JR,D,
 Lee,Franklin Grove 1,General Assembly,90,THOMAS BOKEN JR,D,102
 Lee,Franklin Grove 2,General Assembly,90,THOMAS BOKEN JR,D,79
-Lee,Hamilton,General Assembly,90,THOMAS BOKEN JR,D,-
-Lee,Harmon,General Assembly,90,THOMAS BOKEN JR,D,-
+Lee,Hamilton,General Assembly,90,THOMAS BOKEN JR,D,
+Lee,Harmon,General Assembly,90,THOMAS BOKEN JR,D,
 Lee,Lee Center,General Assembly,90,THOMAS BOKEN JR,D,93
-Lee,Marion,General Assembly,90,THOMAS BOKEN JR,D,-
-Lee,May,General Assembly,90,THOMAS BOKEN JR,D,-
+Lee,Marion,General Assembly,90,THOMAS BOKEN JR,D,
+Lee,May,General Assembly,90,THOMAS BOKEN JR,D,
 Lee,Nachusa,General Assembly,90,THOMAS BOKEN JR,D,63
 Lee,Nelson,General Assembly,90,THOMAS BOKEN JR,D,158
 Lee,Palmyra 1,General Assembly,90,THOMAS BOKEN JR,D,128
@@ -298,357 +298,357 @@ Lee,Viola,General Assembly,90,THOMAS BOKEN JR,D,50
 Lee,Willow Creek,General Assembly,90,THOMAS BOKEN JR,D,102
 Lee,Wyoming 1,General Assembly,90,THOMAS BOKEN JR,D,130
 Lee,Wyoming 2,General Assembly,90,THOMAS BOKEN JR,D,90
-Lee,Elections Office,General Assembly,90,THOMAS BOKEN JR,D,-
-Lee,Alto,President,-,JOHNSON,LIB,4
-Lee,Amboy 1,President,-,JOHNSON,LIB,9
-Lee,Amboy 2,President,-,JOHNSON,LIB,6
-Lee,Amboy 3,President,-,JOHNSON,LIB,3
-Lee,Ashton 1,President,-,JOHNSON,LIB,4
-Lee,Ashton 2,President,-,JOHNSON,LIB,8
-Lee,Bradford,President,-,JOHNSON,LIB,0
-Lee,Brooklyn 1,President,-,JOHNSON,LIB,2
-Lee,Brooklyn 2,President,-,JOHNSON,LIB,3
-Lee,Dixon 1,President,-,JOHNSON,LIB,7
-Lee,Dixon 2,President,-,JOHNSON,LIB,3
-Lee,Dixon 3,President,-,JOHNSON,LIB,5
-Lee,Dixon 4,President,-,JOHNSON,LIB,1
-Lee,Dixon 5,President,-,JOHNSON,LIB,3
-Lee,Dixon 6,President,-,JOHNSON,LIB,2
-Lee,Dixon 7,President,-,JOHNSON,LIB,5
-Lee,Dixon 8,President,-,JOHNSON,LIB,3
-Lee,Dixon 9,President,-,JOHNSON,LIB,6
-Lee,Dixon 10,President,-,JOHNSON,LIB,4
-Lee,Dixon 11,President,-,JOHNSON,LIB,4
-Lee,Dixon 12,President,-,JOHNSON,LIB,6
-Lee,Dixon 13,President,-,JOHNSON,LIB,6
-Lee,Dixon 14,President,-,JOHNSON,LIB,6
-Lee,Dixon 15,President,-,JOHNSON,LIB,4
-Lee,Dixon 16,President,-,JOHNSON,LIB,1
-Lee,Dixon 17,President,-,JOHNSON,LIB,6
-Lee,Dixon 18,President,-,JOHNSON,LIB,2
-Lee,Dixon 19,President,-,JOHNSON,LIB,4
-Lee,Dixon 20,President,-,JOHNSON,LIB,11
-Lee,East Grove,President,-,JOHNSON,LIB,2
-Lee,Franklin Grove 1,President,-,JOHNSON,LIB,4
-Lee,Franklin Grove 2,President,-,JOHNSON,LIB,3
-Lee,Hamilton,President,-,JOHNSON,LIB,0
-Lee,Harmon,President,-,JOHNSON,LIB,5
-Lee,Lee Center,President,-,JOHNSON,LIB,2
-Lee,Marion,President,-,JOHNSON,LIB,0
-Lee,May,President,-,JOHNSON,LIB,4
-Lee,Nachusa,President,-,JOHNSON,LIB,4
-Lee,Nelson,President,-,JOHNSON,LIB,3
-Lee,Palmyra 1,President,-,JOHNSON,LIB,0
-Lee,Palmyra 2,President,-,JOHNSON,LIB,5
-Lee,Palmyra 3,President,-,JOHNSON,LIB,6
-Lee,Reynolds,President,-,JOHNSON,LIB,2
-Lee,South Dixon,President,-,JOHNSON,LIB,3
-Lee,Sublette,President,-,JOHNSON,LIB,7
-Lee,Viola,President,-,JOHNSON,LIB,0
-Lee,Willow Creek,President,-,JOHNSON,LIB,4
-Lee,Wyoming 1,President,-,JOHNSON,LIB,8
-Lee,Wyoming 2,President,-,JOHNSON,LIB,8
-Lee,Elections Office,President,-,JOHNSON,LIB,0
-Lee,Alto,President,-,OBAMA,D,90
-Lee,Amboy 1,President,-,OBAMA,D,190
-Lee,Amboy 2,President,-,OBAMA,D,196
-Lee,Amboy 3,President,-,OBAMA,D,261
-Lee,Ashton 1,President,-,OBAMA,D,104
-Lee,Ashton 2,President,-,OBAMA,D,62
-Lee,Bradford,President,-,OBAMA,D,37
-Lee,Brooklyn 1,President,-,OBAMA,D,58
-Lee,Brooklyn 2,President,-,OBAMA,D,69
-Lee,Dixon 1,President,-,OBAMA,D,229
-Lee,Dixon 2,President,-,OBAMA,D,201
-Lee,Dixon 3,President,-,OBAMA,D,97
-Lee,Dixon 4,President,-,OBAMA,D,106
-Lee,Dixon 5,President,-,OBAMA,D,107
-Lee,Dixon 6,President,-,OBAMA,D,117
-Lee,Dixon 7,President,-,OBAMA,D,153
-Lee,Dixon 8,President,-,OBAMA,D,163
-Lee,Dixon 9,President,-,OBAMA,D,123
-Lee,Dixon 10,President,-,OBAMA,D,184
-Lee,Dixon 11,President,-,OBAMA,D,140
-Lee,Dixon 12,President,-,OBAMA,D,204
-Lee,Dixon 13,President,-,OBAMA,D,288
-Lee,Dixon 14,President,-,OBAMA,D,204
-Lee,Dixon 15,President,-,OBAMA,D,145
-Lee,Dixon 16,President,-,OBAMA,D,160
-Lee,Dixon 17,President,-,OBAMA,D,147
-Lee,Dixon 18,President,-,OBAMA,D,172
-Lee,Dixon 19,President,-,OBAMA,D,254
-Lee,Dixon 20,President,-,OBAMA,D,272
-Lee,East Grove,President,-,OBAMA,D,60
-Lee,Franklin Grove 1,President,-,OBAMA,D,121
-Lee,Franklin Grove 2,President,-,OBAMA,D,103
-Lee,Hamilton,President,-,OBAMA,D,38
-Lee,Harmon,President,-,OBAMA,D,107
-Lee,Lee Center,President,-,OBAMA,D,105
-Lee,Marion,President,-,OBAMA,D,82
-Lee,May,President,-,OBAMA,D,75
-Lee,Nachusa,President,-,OBAMA,D,79
-Lee,Nelson,President,-,OBAMA,D,182
-Lee,Palmyra 1,President,-,OBAMA,D,176
-Lee,Palmyra 2,President,-,OBAMA,D,229
-Lee,Palmyra 3,President,-,OBAMA,D,225
-Lee,Reynolds,President,-,OBAMA,D,52
-Lee,South Dixon,President,-,OBAMA,D,217
-Lee,Sublette,President,-,OBAMA,D,146
-Lee,Viola,President,-,OBAMA,D,50
-Lee,Willow Creek,President,-,OBAMA,D,123
-Lee,Wyoming 1,President,-,OBAMA,D,140
-Lee,Wyoming 2,President,-,OBAMA,D,94
-Lee,Elections Office,President,-,OBAMA,D,0
-Lee,Alto,President,-,ROMNEY,R,166
-Lee,Amboy 1,President,-,ROMNEY,R,186
-Lee,Amboy 2,President,-,ROMNEY,R,194
-Lee,Amboy 3,President,-,ROMNEY,R,222
-Lee,Ashton 1,President,-,ROMNEY,R,187
-Lee,Ashton 2,President,-,ROMNEY,R,161
-Lee,Bradford,President,-,ROMNEY,R,111
-Lee,Brooklyn 1,President,-,ROMNEY,R,89
-Lee,Brooklyn 2,President,-,ROMNEY,R,104
-Lee,Dixon 1,President,-,ROMNEY,R,411
-Lee,Dixon 2,President,-,ROMNEY,R,179
-Lee,Dixon 3,President,-,ROMNEY,R,107
-Lee,Dixon 4,President,-,ROMNEY,R,87
-Lee,Dixon 5,President,-,ROMNEY,R,59
-Lee,Dixon 6,President,-,ROMNEY,R,81
-Lee,Dixon 7,President,-,ROMNEY,R,74
-Lee,Dixon 8,President,-,ROMNEY,R,90
-Lee,Dixon 9,President,-,ROMNEY,R,115
-Lee,Dixon 10,President,-,ROMNEY,R,189
-Lee,Dixon 11,President,-,ROMNEY,R,165
-Lee,Dixon 12,President,-,ROMNEY,R,196
-Lee,Dixon 13,President,-,ROMNEY,R,349
-Lee,Dixon 14,President,-,ROMNEY,R,203
-Lee,Dixon 15,President,-,ROMNEY,R,130
-Lee,Dixon 16,President,-,ROMNEY,R,200
-Lee,Dixon 17,President,-,ROMNEY,R,95
-Lee,Dixon 18,President,-,ROMNEY,R,102
-Lee,Dixon 19,President,-,ROMNEY,R,313
-Lee,Dixon 20,President,-,ROMNEY,R,215
-Lee,East Grove,President,-,ROMNEY,R,77
-Lee,Franklin Grove 1,President,-,ROMNEY,R,200
-Lee,Franklin Grove 2,President,-,ROMNEY,R,152
-Lee,Hamilton,President,-,ROMNEY,R,47
-Lee,Harmon,President,-,ROMNEY,R,70
-Lee,Lee Center,President,-,ROMNEY,R,166
-Lee,Marion,President,-,ROMNEY,R,57
-Lee,May,President,-,ROMNEY,R,79
-Lee,Nachusa,President,-,ROMNEY,R,131
-Lee,Nelson,President,-,ROMNEY,R,180
-Lee,Palmyra 1,President,-,ROMNEY,R,277
-Lee,Palmyra 2,President,-,ROMNEY,R,364
-Lee,Palmyra 3,President,-,ROMNEY,R,267
-Lee,Reynolds,President,-,ROMNEY,R,96
-Lee,South Dixon,President,-,ROMNEY,R,273
-Lee,Sublette,President,-,ROMNEY,R,230
-Lee,Viola,President,-,ROMNEY,R,110
-Lee,Willow Creek,President,-,ROMNEY,R,171
-Lee,Wyoming 1,President,-,ROMNEY,R,193
-Lee,Wyoming 2,President,-,ROMNEY,R,139
-Lee,Elections Office,President,-,ROMNEY,R,0
-Lee,Alto,President,-,STEIN,G,3
-Lee,Amboy 1,President,-,STEIN,G,1
-Lee,Amboy 2,President,-,STEIN,G,4
-Lee,Amboy 3,President,-,STEIN,G,2
-Lee,Ashton 1,President,-,STEIN,G,3
-Lee,Ashton 2,President,-,STEIN,G,1
-Lee,Bradford,President,-,STEIN,G,1
-Lee,Brooklyn 1,President,-,STEIN,G,0
-Lee,Brooklyn 2,President,-,STEIN,G,4
-Lee,Dixon 1,President,-,STEIN,G,5
-Lee,Dixon 2,President,-,STEIN,G,0
-Lee,Dixon 3,President,-,STEIN,G,2
-Lee,Dixon 4,President,-,STEIN,G,2
-Lee,Dixon 5,President,-,STEIN,G,2
-Lee,Dixon 6,President,-,STEIN,G,0
-Lee,Dixon 7,President,-,STEIN,G,1
-Lee,Dixon 8,President,-,STEIN,G,4
-Lee,Dixon 9,President,-,STEIN,G,1
-Lee,Dixon 10,President,-,STEIN,G,3
-Lee,Dixon 11,President,-,STEIN,G,2
-Lee,Dixon 12,President,-,STEIN,G,0
-Lee,Dixon 13,President,-,STEIN,G,3
-Lee,Dixon 14,President,-,STEIN,G,3
-Lee,Dixon 15,President,-,STEIN,G,1
-Lee,Dixon 16,President,-,STEIN,G,0
-Lee,Dixon 17,President,-,STEIN,G,2
-Lee,Dixon 18,President,-,STEIN,G,2
-Lee,Dixon 19,President,-,STEIN,G,7
-Lee,Dixon 20,President,-,STEIN,G,8
-Lee,East Grove,President,-,STEIN,G,1
-Lee,Franklin Grove 1,President,-,STEIN,G,4
-Lee,Franklin Grove 2,President,-,STEIN,G,1
-Lee,Hamilton,President,-,STEIN,G,0
-Lee,Harmon,President,-,STEIN,G,1
-Lee,Lee Center,President,-,STEIN,G,4
-Lee,Marion,President,-,STEIN,G,0
-Lee,May,President,-,STEIN,G,1
-Lee,Nachusa,President,-,STEIN,G,2
-Lee,Nelson,President,-,STEIN,G,2
-Lee,Palmyra 1,President,-,STEIN,G,4
-Lee,Palmyra 2,President,-,STEIN,G,5
-Lee,Palmyra 3,President,-,STEIN,G,3
-Lee,Reynolds,President,-,STEIN,G,1
-Lee,South Dixon,President,-,STEIN,G,1
-Lee,Sublette,President,-,STEIN,G,0
-Lee,Viola,President,-,STEIN,G,0
-Lee,Willow Creek,President,-,STEIN,G,2
-Lee,Wyoming 1,President,-,STEIN,G,2
-Lee,Wyoming 2,President,-,STEIN,G,0
-Lee,Elections Office,President,-,STEIN,G,0
-Lee,Alto,President,-,Write-In Votes,-,0
-Lee,Amboy 1,President,-,Write-In Votes,-,1
-Lee,Amboy 2,President,-,Write-In Votes,-,1
-Lee,Amboy 3,President,-,Write-In Votes,-,2
-Lee,Ashton 1,President,-,Write-In Votes,-,0
-Lee,Ashton 2,President,-,Write-In Votes,-,1
-Lee,Bradford,President,-,Write-In Votes,-,4
-Lee,Brooklyn 1,President,-,Write-In Votes,-,1
-Lee,Brooklyn 2,President,-,Write-In Votes,-,0
-Lee,Dixon 1,President,-,Write-In Votes,-,0
-Lee,Dixon 2,President,-,Write-In Votes,-,2
-Lee,Dixon 3,President,-,Write-In Votes,-,1
-Lee,Dixon 4,President,-,Write-In Votes,-,0
-Lee,Dixon 5,President,-,Write-In Votes,-,2
-Lee,Dixon 6,President,-,Write-In Votes,-,4
-Lee,Dixon 7,President,-,Write-In Votes,-,2
-Lee,Dixon 8,President,-,Write-In Votes,-,1
-Lee,Dixon 9,President,-,Write-In Votes,-,0
-Lee,Dixon 10,President,-,Write-In Votes,-,5
-Lee,Dixon 11,President,-,Write-In Votes,-,2
-Lee,Dixon 12,President,-,Write-In Votes,-,0
-Lee,Dixon 13,President,-,Write-In Votes,-,3
-Lee,Dixon 14,President,-,Write-In Votes,-,2
-Lee,Dixon 15,President,-,Write-In Votes,-,1
-Lee,Dixon 16,President,-,Write-In Votes,-,1
-Lee,Dixon 17,President,-,Write-In Votes,-,1
-Lee,Dixon 18,President,-,Write-In Votes,-,0
-Lee,Dixon 19,President,-,Write-In Votes,-,0
-Lee,Dixon 20,President,-,Write-In Votes,-,3
-Lee,East Grove,President,-,Write-In Votes,-,0
-Lee,Franklin Grove 1,President,-,Write-In Votes,-,1
-Lee,Franklin Grove 2,President,-,Write-In Votes,-,3
-Lee,Hamilton,President,-,Write-In Votes,-,0
-Lee,Harmon,President,-,Write-In Votes,-,0
-Lee,Lee Center,President,-,Write-In Votes,-,1
-Lee,Marion,President,-,Write-In Votes,-,0
-Lee,May,President,-,Write-In Votes,-,1
-Lee,Nachusa,President,-,Write-In Votes,-,0
-Lee,Nelson,President,-,Write-In Votes,-,0
-Lee,Palmyra 1,President,-,Write-In Votes,-,1
-Lee,Palmyra 2,President,-,Write-In Votes,-,1
-Lee,Palmyra 3,President,-,Write-In Votes,-,1
-Lee,Reynolds,President,-,Write-In Votes,-,0
-Lee,South Dixon,President,-,Write-In Votes,-,0
-Lee,Sublette,President,-,Write-In Votes,-,0
-Lee,Viola,President,-,Write-In Votes,-,0
-Lee,Willow Creek,President,-,Write-In Votes,-,2
-Lee,Wyoming 1,President,-,Write-In Votes,-,2
-Lee,Wyoming 2,President,-,Write-In Votes,-,0
-Lee,Elections Office,President,-,Write-In Votes,-,0
-Lee,Alto,Voters,-,Reg. Voters,-,368
-Lee,Amboy 1,Voters,-,Reg. Voters,-,582
-Lee,Amboy 2,Voters,-,Reg. Voters,-,588
-Lee,Amboy 3,Voters,-,Reg. Voters,-,733
-Lee,Ashton 1,Voters,-,Reg. Voters,-,425
-Lee,Ashton 2,Voters,-,Reg. Voters,-,322
-Lee,Bradford,Voters,-,Reg. Voters,-,212
-Lee,Brooklyn 1,Voters,-,Reg. Voters,-,203
-Lee,Brooklyn 2,Voters,-,Reg. Voters,-,261
-Lee,Dixon 1,Voters,-,Reg. Voters,-,825
-Lee,Dixon 2,Voters,-,Reg. Voters,-,594
-Lee,Dixon 3,Voters,-,Reg. Voters,-,304
-Lee,Dixon 4,Voters,-,Reg. Voters,-,277
-Lee,Dixon 5,Voters,-,Reg. Voters,-,309
-Lee,Dixon 6,Voters,-,Reg. Voters,-,384
-Lee,Dixon 7,Voters,-,Reg. Voters,-,385
-Lee,Dixon 8,Voters,-,Reg. Voters,-,440
-Lee,Dixon 9,Voters,-,Reg. Voters,-,368
-Lee,Dixon 10,Voters,-,Reg. Voters,-,521
-Lee,Dixon 11,Voters,-,Reg. Voters,-,397
-Lee,Dixon 12,Voters,-,Reg. Voters,-,568
-Lee,Dixon 13,Voters,-,Reg. Voters,-,857
-Lee,Dixon 14,Voters,-,Reg. Voters,-,574
-Lee,Dixon 15,Voters,-,Reg. Voters,-,439
-Lee,Dixon 16,Voters,-,Reg. Voters,-,509
-Lee,Dixon 17,Voters,-,Reg. Voters,-,380
-Lee,Dixon 18,Voters,-,Reg. Voters,-,484
-Lee,Dixon 19,Voters,-,Reg. Voters,-,777
-Lee,Dixon 20,Voters,-,Reg. Voters,-,696
-Lee,East Grove,Voters,-,Reg. Voters,-,203
-Lee,Franklin Grove 1,Voters,-,Reg. Voters,-,463
-Lee,Franklin Grove 2,Voters,-,Reg. Voters,-,361
-Lee,Hamilton,Voters,-,Reg. Voters,-,127
-Lee,Harmon,Voters,-,Reg. Voters,-,272
-Lee,Lee Center,Voters,-,Reg. Voters,-,408
-Lee,Marion,Voters,-,Reg. Voters,-,184
-Lee,May,Voters,-,Reg. Voters,-,228
-Lee,Nachusa,Voters,-,Reg. Voters,-,299
-Lee,Nelson,Voters,-,Reg. Voters,-,576
-Lee,Palmyra 1,Voters,-,Reg. Voters,-,625
-Lee,Palmyra 2,Voters,-,Reg. Voters,-,761
-Lee,Palmyra 3,Voters,-,Reg. Voters,-,695
-Lee,Reynolds,Voters,-,Reg. Voters,-,207
-Lee,South Dixon,Voters,-,Reg. Voters,-,684
-Lee,Sublette,Voters,-,Reg. Voters,-,537
-Lee,Viola,Voters,-,Reg. Voters,-,223
-Lee,Willow Creek,Voters,-,Reg. Voters,-,425
-Lee,Wyoming 1,Voters,-,Reg. Voters,-,441
-Lee,Wyoming 2,Voters,-,Reg. Voters,-,342
-Lee,Elections Office,Voters,-,Reg. Voters,-,0
-Lee,Alto,Voters,-,Cards Cast,-,263
-Lee,Amboy 1,Voters,-,Cards Cast,-,392
-Lee,Amboy 2,Voters,-,Cards Cast,-,403
-Lee,Amboy 3,Voters,-,Cards Cast,-,495
-Lee,Ashton 1,Voters,-,Cards Cast,-,300
-Lee,Ashton 2,Voters,-,Cards Cast,-,234
-Lee,Bradford,Voters,-,Cards Cast,-,154
-Lee,Brooklyn 1,Voters,-,Cards Cast,-,150
-Lee,Brooklyn 2,Voters,-,Cards Cast,-,181
-Lee,Dixon 1,Voters,-,Cards Cast,-,657
-Lee,Dixon 2,Voters,-,Cards Cast,-,387
-Lee,Dixon 3,Voters,-,Cards Cast,-,213
-Lee,Dixon 4,Voters,-,Cards Cast,-,198
-Lee,Dixon 5,Voters,-,Cards Cast,-,174
-Lee,Dixon 6,Voters,-,Cards Cast,-,206
-Lee,Dixon 7,Voters,-,Cards Cast,-,235
-Lee,Dixon 8,Voters,-,Cards Cast,-,262
-Lee,Dixon 9,Voters,-,Cards Cast,-,250
-Lee,Dixon 10,Voters,-,Cards Cast,-,388
-Lee,Dixon 11,Voters,-,Cards Cast,-,316
-Lee,Dixon 12,Voters,-,Cards Cast,-,407
-Lee,Dixon 13,Voters,-,Cards Cast,-,650
-Lee,Dixon 14,Voters,-,Cards Cast,-,422
-Lee,Dixon 15,Voters,-,Cards Cast,-,281
-Lee,Dixon 16,Voters,-,Cards Cast,-,366
-Lee,Dixon 17,Voters,-,Cards Cast,-,252
-Lee,Dixon 18,Voters,-,Cards Cast,-,279
-Lee,Dixon 19,Voters,-,Cards Cast,-,582
-Lee,Dixon 20,Voters,-,Cards Cast,-,515
-Lee,East Grove,Voters,-,Cards Cast,-,142
-Lee,Franklin Grove 1,Voters,-,Cards Cast,-,333
-Lee,Franklin Grove 2,Voters,-,Cards Cast,-,265
-Lee,Hamilton,Voters,-,Cards Cast,-,88
-Lee,Harmon,Voters,-,Cards Cast,-,184
-Lee,Lee Center,Voters,-,Cards Cast,-,279
-Lee,Marion,Voters,-,Cards Cast,-,140
-Lee,May,Voters,-,Cards Cast,-,162
-Lee,Nachusa,Voters,-,Cards Cast,-,216
-Lee,Nelson,Voters,-,Cards Cast,-,367
-Lee,Palmyra 1,Voters,-,Cards Cast,-,458
-Lee,Palmyra 2,Voters,-,Cards Cast,-,605
-Lee,Palmyra 3,Voters,-,Cards Cast,-,503
-Lee,Reynolds,Voters,-,Cards Cast,-,152
-Lee,South Dixon,Voters,-,Cards Cast,-,496
-Lee,Sublette,Voters,-,Cards Cast,-,385
-Lee,Viola,Voters,-,Cards Cast,-,160
-Lee,Willow Creek,Voters,-,Cards Cast,-,303
-Lee,Wyoming 1,Voters,-,Cards Cast,-,346
-Lee,Wyoming 2,Voters,-,Cards Cast,-,243
-Lee,Elections Office,Voters,-,Cards Cast,-,0
+Lee,Elections Office,General Assembly,90,THOMAS BOKEN JR,D,
+Lee,Alto,President,,JOHNSON,LIB,4
+Lee,Amboy 1,President,,JOHNSON,LIB,9
+Lee,Amboy 2,President,,JOHNSON,LIB,6
+Lee,Amboy 3,President,,JOHNSON,LIB,3
+Lee,Ashton 1,President,,JOHNSON,LIB,4
+Lee,Ashton 2,President,,JOHNSON,LIB,8
+Lee,Bradford,President,,JOHNSON,LIB,0
+Lee,Brooklyn 1,President,,JOHNSON,LIB,2
+Lee,Brooklyn 2,President,,JOHNSON,LIB,3
+Lee,Dixon 1,President,,JOHNSON,LIB,7
+Lee,Dixon 2,President,,JOHNSON,LIB,3
+Lee,Dixon 3,President,,JOHNSON,LIB,5
+Lee,Dixon 4,President,,JOHNSON,LIB,1
+Lee,Dixon 5,President,,JOHNSON,LIB,3
+Lee,Dixon 6,President,,JOHNSON,LIB,2
+Lee,Dixon 7,President,,JOHNSON,LIB,5
+Lee,Dixon 8,President,,JOHNSON,LIB,3
+Lee,Dixon 9,President,,JOHNSON,LIB,6
+Lee,Dixon 10,President,,JOHNSON,LIB,4
+Lee,Dixon 11,President,,JOHNSON,LIB,4
+Lee,Dixon 12,President,,JOHNSON,LIB,6
+Lee,Dixon 13,President,,JOHNSON,LIB,6
+Lee,Dixon 14,President,,JOHNSON,LIB,6
+Lee,Dixon 15,President,,JOHNSON,LIB,4
+Lee,Dixon 16,President,,JOHNSON,LIB,1
+Lee,Dixon 17,President,,JOHNSON,LIB,6
+Lee,Dixon 18,President,,JOHNSON,LIB,2
+Lee,Dixon 19,President,,JOHNSON,LIB,4
+Lee,Dixon 20,President,,JOHNSON,LIB,11
+Lee,East Grove,President,,JOHNSON,LIB,2
+Lee,Franklin Grove 1,President,,JOHNSON,LIB,4
+Lee,Franklin Grove 2,President,,JOHNSON,LIB,3
+Lee,Hamilton,President,,JOHNSON,LIB,0
+Lee,Harmon,President,,JOHNSON,LIB,5
+Lee,Lee Center,President,,JOHNSON,LIB,2
+Lee,Marion,President,,JOHNSON,LIB,0
+Lee,May,President,,JOHNSON,LIB,4
+Lee,Nachusa,President,,JOHNSON,LIB,4
+Lee,Nelson,President,,JOHNSON,LIB,3
+Lee,Palmyra 1,President,,JOHNSON,LIB,0
+Lee,Palmyra 2,President,,JOHNSON,LIB,5
+Lee,Palmyra 3,President,,JOHNSON,LIB,6
+Lee,Reynolds,President,,JOHNSON,LIB,2
+Lee,South Dixon,President,,JOHNSON,LIB,3
+Lee,Sublette,President,,JOHNSON,LIB,7
+Lee,Viola,President,,JOHNSON,LIB,0
+Lee,Willow Creek,President,,JOHNSON,LIB,4
+Lee,Wyoming 1,President,,JOHNSON,LIB,8
+Lee,Wyoming 2,President,,JOHNSON,LIB,8
+Lee,Elections Office,President,,JOHNSON,LIB,0
+Lee,Alto,President,,OBAMA,D,90
+Lee,Amboy 1,President,,OBAMA,D,190
+Lee,Amboy 2,President,,OBAMA,D,196
+Lee,Amboy 3,President,,OBAMA,D,261
+Lee,Ashton 1,President,,OBAMA,D,104
+Lee,Ashton 2,President,,OBAMA,D,62
+Lee,Bradford,President,,OBAMA,D,37
+Lee,Brooklyn 1,President,,OBAMA,D,58
+Lee,Brooklyn 2,President,,OBAMA,D,69
+Lee,Dixon 1,President,,OBAMA,D,229
+Lee,Dixon 2,President,,OBAMA,D,201
+Lee,Dixon 3,President,,OBAMA,D,97
+Lee,Dixon 4,President,,OBAMA,D,106
+Lee,Dixon 5,President,,OBAMA,D,107
+Lee,Dixon 6,President,,OBAMA,D,117
+Lee,Dixon 7,President,,OBAMA,D,153
+Lee,Dixon 8,President,,OBAMA,D,163
+Lee,Dixon 9,President,,OBAMA,D,123
+Lee,Dixon 10,President,,OBAMA,D,184
+Lee,Dixon 11,President,,OBAMA,D,140
+Lee,Dixon 12,President,,OBAMA,D,204
+Lee,Dixon 13,President,,OBAMA,D,288
+Lee,Dixon 14,President,,OBAMA,D,204
+Lee,Dixon 15,President,,OBAMA,D,145
+Lee,Dixon 16,President,,OBAMA,D,160
+Lee,Dixon 17,President,,OBAMA,D,147
+Lee,Dixon 18,President,,OBAMA,D,172
+Lee,Dixon 19,President,,OBAMA,D,254
+Lee,Dixon 20,President,,OBAMA,D,272
+Lee,East Grove,President,,OBAMA,D,60
+Lee,Franklin Grove 1,President,,OBAMA,D,121
+Lee,Franklin Grove 2,President,,OBAMA,D,103
+Lee,Hamilton,President,,OBAMA,D,38
+Lee,Harmon,President,,OBAMA,D,107
+Lee,Lee Center,President,,OBAMA,D,105
+Lee,Marion,President,,OBAMA,D,82
+Lee,May,President,,OBAMA,D,75
+Lee,Nachusa,President,,OBAMA,D,79
+Lee,Nelson,President,,OBAMA,D,182
+Lee,Palmyra 1,President,,OBAMA,D,176
+Lee,Palmyra 2,President,,OBAMA,D,229
+Lee,Palmyra 3,President,,OBAMA,D,225
+Lee,Reynolds,President,,OBAMA,D,52
+Lee,South Dixon,President,,OBAMA,D,217
+Lee,Sublette,President,,OBAMA,D,146
+Lee,Viola,President,,OBAMA,D,50
+Lee,Willow Creek,President,,OBAMA,D,123
+Lee,Wyoming 1,President,,OBAMA,D,140
+Lee,Wyoming 2,President,,OBAMA,D,94
+Lee,Elections Office,President,,OBAMA,D,0
+Lee,Alto,President,,ROMNEY,R,166
+Lee,Amboy 1,President,,ROMNEY,R,186
+Lee,Amboy 2,President,,ROMNEY,R,194
+Lee,Amboy 3,President,,ROMNEY,R,222
+Lee,Ashton 1,President,,ROMNEY,R,187
+Lee,Ashton 2,President,,ROMNEY,R,161
+Lee,Bradford,President,,ROMNEY,R,111
+Lee,Brooklyn 1,President,,ROMNEY,R,89
+Lee,Brooklyn 2,President,,ROMNEY,R,104
+Lee,Dixon 1,President,,ROMNEY,R,411
+Lee,Dixon 2,President,,ROMNEY,R,179
+Lee,Dixon 3,President,,ROMNEY,R,107
+Lee,Dixon 4,President,,ROMNEY,R,87
+Lee,Dixon 5,President,,ROMNEY,R,59
+Lee,Dixon 6,President,,ROMNEY,R,81
+Lee,Dixon 7,President,,ROMNEY,R,74
+Lee,Dixon 8,President,,ROMNEY,R,90
+Lee,Dixon 9,President,,ROMNEY,R,115
+Lee,Dixon 10,President,,ROMNEY,R,189
+Lee,Dixon 11,President,,ROMNEY,R,165
+Lee,Dixon 12,President,,ROMNEY,R,196
+Lee,Dixon 13,President,,ROMNEY,R,349
+Lee,Dixon 14,President,,ROMNEY,R,203
+Lee,Dixon 15,President,,ROMNEY,R,130
+Lee,Dixon 16,President,,ROMNEY,R,200
+Lee,Dixon 17,President,,ROMNEY,R,95
+Lee,Dixon 18,President,,ROMNEY,R,102
+Lee,Dixon 19,President,,ROMNEY,R,313
+Lee,Dixon 20,President,,ROMNEY,R,215
+Lee,East Grove,President,,ROMNEY,R,77
+Lee,Franklin Grove 1,President,,ROMNEY,R,200
+Lee,Franklin Grove 2,President,,ROMNEY,R,152
+Lee,Hamilton,President,,ROMNEY,R,47
+Lee,Harmon,President,,ROMNEY,R,70
+Lee,Lee Center,President,,ROMNEY,R,166
+Lee,Marion,President,,ROMNEY,R,57
+Lee,May,President,,ROMNEY,R,79
+Lee,Nachusa,President,,ROMNEY,R,131
+Lee,Nelson,President,,ROMNEY,R,180
+Lee,Palmyra 1,President,,ROMNEY,R,277
+Lee,Palmyra 2,President,,ROMNEY,R,364
+Lee,Palmyra 3,President,,ROMNEY,R,267
+Lee,Reynolds,President,,ROMNEY,R,96
+Lee,South Dixon,President,,ROMNEY,R,273
+Lee,Sublette,President,,ROMNEY,R,230
+Lee,Viola,President,,ROMNEY,R,110
+Lee,Willow Creek,President,,ROMNEY,R,171
+Lee,Wyoming 1,President,,ROMNEY,R,193
+Lee,Wyoming 2,President,,ROMNEY,R,139
+Lee,Elections Office,President,,ROMNEY,R,0
+Lee,Alto,President,,STEIN,G,3
+Lee,Amboy 1,President,,STEIN,G,1
+Lee,Amboy 2,President,,STEIN,G,4
+Lee,Amboy 3,President,,STEIN,G,2
+Lee,Ashton 1,President,,STEIN,G,3
+Lee,Ashton 2,President,,STEIN,G,1
+Lee,Bradford,President,,STEIN,G,1
+Lee,Brooklyn 1,President,,STEIN,G,0
+Lee,Brooklyn 2,President,,STEIN,G,4
+Lee,Dixon 1,President,,STEIN,G,5
+Lee,Dixon 2,President,,STEIN,G,0
+Lee,Dixon 3,President,,STEIN,G,2
+Lee,Dixon 4,President,,STEIN,G,2
+Lee,Dixon 5,President,,STEIN,G,2
+Lee,Dixon 6,President,,STEIN,G,0
+Lee,Dixon 7,President,,STEIN,G,1
+Lee,Dixon 8,President,,STEIN,G,4
+Lee,Dixon 9,President,,STEIN,G,1
+Lee,Dixon 10,President,,STEIN,G,3
+Lee,Dixon 11,President,,STEIN,G,2
+Lee,Dixon 12,President,,STEIN,G,0
+Lee,Dixon 13,President,,STEIN,G,3
+Lee,Dixon 14,President,,STEIN,G,3
+Lee,Dixon 15,President,,STEIN,G,1
+Lee,Dixon 16,President,,STEIN,G,0
+Lee,Dixon 17,President,,STEIN,G,2
+Lee,Dixon 18,President,,STEIN,G,2
+Lee,Dixon 19,President,,STEIN,G,7
+Lee,Dixon 20,President,,STEIN,G,8
+Lee,East Grove,President,,STEIN,G,1
+Lee,Franklin Grove 1,President,,STEIN,G,4
+Lee,Franklin Grove 2,President,,STEIN,G,1
+Lee,Hamilton,President,,STEIN,G,0
+Lee,Harmon,President,,STEIN,G,1
+Lee,Lee Center,President,,STEIN,G,4
+Lee,Marion,President,,STEIN,G,0
+Lee,May,President,,STEIN,G,1
+Lee,Nachusa,President,,STEIN,G,2
+Lee,Nelson,President,,STEIN,G,2
+Lee,Palmyra 1,President,,STEIN,G,4
+Lee,Palmyra 2,President,,STEIN,G,5
+Lee,Palmyra 3,President,,STEIN,G,3
+Lee,Reynolds,President,,STEIN,G,1
+Lee,South Dixon,President,,STEIN,G,1
+Lee,Sublette,President,,STEIN,G,0
+Lee,Viola,President,,STEIN,G,0
+Lee,Willow Creek,President,,STEIN,G,2
+Lee,Wyoming 1,President,,STEIN,G,2
+Lee,Wyoming 2,President,,STEIN,G,0
+Lee,Elections Office,President,,STEIN,G,0
+Lee,Alto,President,,Write-In Votes,,0
+Lee,Amboy 1,President,,Write-In Votes,,1
+Lee,Amboy 2,President,,Write-In Votes,,1
+Lee,Amboy 3,President,,Write-In Votes,,2
+Lee,Ashton 1,President,,Write-In Votes,,0
+Lee,Ashton 2,President,,Write-In Votes,,1
+Lee,Bradford,President,,Write-In Votes,,4
+Lee,Brooklyn 1,President,,Write-In Votes,,1
+Lee,Brooklyn 2,President,,Write-In Votes,,0
+Lee,Dixon 1,President,,Write-In Votes,,0
+Lee,Dixon 2,President,,Write-In Votes,,2
+Lee,Dixon 3,President,,Write-In Votes,,1
+Lee,Dixon 4,President,,Write-In Votes,,0
+Lee,Dixon 5,President,,Write-In Votes,,2
+Lee,Dixon 6,President,,Write-In Votes,,4
+Lee,Dixon 7,President,,Write-In Votes,,2
+Lee,Dixon 8,President,,Write-In Votes,,1
+Lee,Dixon 9,President,,Write-In Votes,,0
+Lee,Dixon 10,President,,Write-In Votes,,5
+Lee,Dixon 11,President,,Write-In Votes,,2
+Lee,Dixon 12,President,,Write-In Votes,,0
+Lee,Dixon 13,President,,Write-In Votes,,3
+Lee,Dixon 14,President,,Write-In Votes,,2
+Lee,Dixon 15,President,,Write-In Votes,,1
+Lee,Dixon 16,President,,Write-In Votes,,1
+Lee,Dixon 17,President,,Write-In Votes,,1
+Lee,Dixon 18,President,,Write-In Votes,,0
+Lee,Dixon 19,President,,Write-In Votes,,0
+Lee,Dixon 20,President,,Write-In Votes,,3
+Lee,East Grove,President,,Write-In Votes,,0
+Lee,Franklin Grove 1,President,,Write-In Votes,,1
+Lee,Franklin Grove 2,President,,Write-In Votes,,3
+Lee,Hamilton,President,,Write-In Votes,,0
+Lee,Harmon,President,,Write-In Votes,,0
+Lee,Lee Center,President,,Write-In Votes,,1
+Lee,Marion,President,,Write-In Votes,,0
+Lee,May,President,,Write-In Votes,,1
+Lee,Nachusa,President,,Write-In Votes,,0
+Lee,Nelson,President,,Write-In Votes,,0
+Lee,Palmyra 1,President,,Write-In Votes,,1
+Lee,Palmyra 2,President,,Write-In Votes,,1
+Lee,Palmyra 3,President,,Write-In Votes,,1
+Lee,Reynolds,President,,Write-In Votes,,0
+Lee,South Dixon,President,,Write-In Votes,,0
+Lee,Sublette,President,,Write-In Votes,,0
+Lee,Viola,President,,Write-In Votes,,0
+Lee,Willow Creek,President,,Write-In Votes,,2
+Lee,Wyoming 1,President,,Write-In Votes,,2
+Lee,Wyoming 2,President,,Write-In Votes,,0
+Lee,Elections Office,President,,Write-In Votes,,0
+Lee,Alto,Voters,,Reg. Voters,,368
+Lee,Amboy 1,Voters,,Reg. Voters,,582
+Lee,Amboy 2,Voters,,Reg. Voters,,588
+Lee,Amboy 3,Voters,,Reg. Voters,,733
+Lee,Ashton 1,Voters,,Reg. Voters,,425
+Lee,Ashton 2,Voters,,Reg. Voters,,322
+Lee,Bradford,Voters,,Reg. Voters,,212
+Lee,Brooklyn 1,Voters,,Reg. Voters,,203
+Lee,Brooklyn 2,Voters,,Reg. Voters,,261
+Lee,Dixon 1,Voters,,Reg. Voters,,825
+Lee,Dixon 2,Voters,,Reg. Voters,,594
+Lee,Dixon 3,Voters,,Reg. Voters,,304
+Lee,Dixon 4,Voters,,Reg. Voters,,277
+Lee,Dixon 5,Voters,,Reg. Voters,,309
+Lee,Dixon 6,Voters,,Reg. Voters,,384
+Lee,Dixon 7,Voters,,Reg. Voters,,385
+Lee,Dixon 8,Voters,,Reg. Voters,,440
+Lee,Dixon 9,Voters,,Reg. Voters,,368
+Lee,Dixon 10,Voters,,Reg. Voters,,521
+Lee,Dixon 11,Voters,,Reg. Voters,,397
+Lee,Dixon 12,Voters,,Reg. Voters,,568
+Lee,Dixon 13,Voters,,Reg. Voters,,857
+Lee,Dixon 14,Voters,,Reg. Voters,,574
+Lee,Dixon 15,Voters,,Reg. Voters,,439
+Lee,Dixon 16,Voters,,Reg. Voters,,509
+Lee,Dixon 17,Voters,,Reg. Voters,,380
+Lee,Dixon 18,Voters,,Reg. Voters,,484
+Lee,Dixon 19,Voters,,Reg. Voters,,777
+Lee,Dixon 20,Voters,,Reg. Voters,,696
+Lee,East Grove,Voters,,Reg. Voters,,203
+Lee,Franklin Grove 1,Voters,,Reg. Voters,,463
+Lee,Franklin Grove 2,Voters,,Reg. Voters,,361
+Lee,Hamilton,Voters,,Reg. Voters,,127
+Lee,Harmon,Voters,,Reg. Voters,,272
+Lee,Lee Center,Voters,,Reg. Voters,,408
+Lee,Marion,Voters,,Reg. Voters,,184
+Lee,May,Voters,,Reg. Voters,,228
+Lee,Nachusa,Voters,,Reg. Voters,,299
+Lee,Nelson,Voters,,Reg. Voters,,576
+Lee,Palmyra 1,Voters,,Reg. Voters,,625
+Lee,Palmyra 2,Voters,,Reg. Voters,,761
+Lee,Palmyra 3,Voters,,Reg. Voters,,695
+Lee,Reynolds,Voters,,Reg. Voters,,207
+Lee,South Dixon,Voters,,Reg. Voters,,684
+Lee,Sublette,Voters,,Reg. Voters,,537
+Lee,Viola,Voters,,Reg. Voters,,223
+Lee,Willow Creek,Voters,,Reg. Voters,,425
+Lee,Wyoming 1,Voters,,Reg. Voters,,441
+Lee,Wyoming 2,Voters,,Reg. Voters,,342
+Lee,Elections Office,Voters,,Reg. Voters,,0
+Lee,Alto,Voters,,Cards Cast,,263
+Lee,Amboy 1,Voters,,Cards Cast,,392
+Lee,Amboy 2,Voters,,Cards Cast,,403
+Lee,Amboy 3,Voters,,Cards Cast,,495
+Lee,Ashton 1,Voters,,Cards Cast,,300
+Lee,Ashton 2,Voters,,Cards Cast,,234
+Lee,Bradford,Voters,,Cards Cast,,154
+Lee,Brooklyn 1,Voters,,Cards Cast,,150
+Lee,Brooklyn 2,Voters,,Cards Cast,,181
+Lee,Dixon 1,Voters,,Cards Cast,,657
+Lee,Dixon 2,Voters,,Cards Cast,,387
+Lee,Dixon 3,Voters,,Cards Cast,,213
+Lee,Dixon 4,Voters,,Cards Cast,,198
+Lee,Dixon 5,Voters,,Cards Cast,,174
+Lee,Dixon 6,Voters,,Cards Cast,,206
+Lee,Dixon 7,Voters,,Cards Cast,,235
+Lee,Dixon 8,Voters,,Cards Cast,,262
+Lee,Dixon 9,Voters,,Cards Cast,,250
+Lee,Dixon 10,Voters,,Cards Cast,,388
+Lee,Dixon 11,Voters,,Cards Cast,,316
+Lee,Dixon 12,Voters,,Cards Cast,,407
+Lee,Dixon 13,Voters,,Cards Cast,,650
+Lee,Dixon 14,Voters,,Cards Cast,,422
+Lee,Dixon 15,Voters,,Cards Cast,,281
+Lee,Dixon 16,Voters,,Cards Cast,,366
+Lee,Dixon 17,Voters,,Cards Cast,,252
+Lee,Dixon 18,Voters,,Cards Cast,,279
+Lee,Dixon 19,Voters,,Cards Cast,,582
+Lee,Dixon 20,Voters,,Cards Cast,,515
+Lee,East Grove,Voters,,Cards Cast,,142
+Lee,Franklin Grove 1,Voters,,Cards Cast,,333
+Lee,Franklin Grove 2,Voters,,Cards Cast,,265
+Lee,Hamilton,Voters,,Cards Cast,,88
+Lee,Harmon,Voters,,Cards Cast,,184
+Lee,Lee Center,Voters,,Cards Cast,,279
+Lee,Marion,Voters,,Cards Cast,,140
+Lee,May,Voters,,Cards Cast,,162
+Lee,Nachusa,Voters,,Cards Cast,,216
+Lee,Nelson,Voters,,Cards Cast,,367
+Lee,Palmyra 1,Voters,,Cards Cast,,458
+Lee,Palmyra 2,Voters,,Cards Cast,,605
+Lee,Palmyra 3,Voters,,Cards Cast,,503
+Lee,Reynolds,Voters,,Cards Cast,,152
+Lee,South Dixon,Voters,,Cards Cast,,496
+Lee,Sublette,Voters,,Cards Cast,,385
+Lee,Viola,Voters,,Cards Cast,,160
+Lee,Willow Creek,Voters,,Cards Cast,,303
+Lee,Wyoming 1,Voters,,Cards Cast,,346
+Lee,Wyoming 2,Voters,,Cards Cast,,243
+Lee,Elections Office,Voters,,Cards Cast,,0
 Lee,Alto,U.S. House,16,ADAM KINZINGER,R,174
 Lee,Amboy 1,U.S. House,16,ADAM KINZINGER,R,219
 Lee,Amboy 2,U.S. House,16,ADAM KINZINGER,R,235
@@ -698,7 +698,7 @@ Lee,Viola,U.S. House,16,ADAM KINZINGER,R,117
 Lee,Willow Creek,U.S. House,16,ADAM KINZINGER,R,193
 Lee,Wyoming 1,U.S. House,16,ADAM KINZINGER,R,222
 Lee,Wyoming 2,U.S. House,16,ADAM KINZINGER,R,152
-Lee,Elections Office,U.S. House,16,ADAM KINZINGER,R,-
+Lee,Elections Office,U.S. House,16,ADAM KINZINGER,R,
 Lee,Alto,U.S. House,16,WANDA ROHL,D,75
 Lee,Amboy 1,U.S. House,16,WANDA ROHL,D,156
 Lee,Amboy 2,U.S. House,16,WANDA ROHL,D,152
@@ -748,4 +748,4 @@ Lee,Viola,U.S. House,16,WANDA ROHL,D,42
 Lee,Willow Creek,U.S. House,16,WANDA ROHL,D,100
 Lee,Wyoming 1,U.S. House,16,WANDA ROHL,D,115
 Lee,Wyoming 2,U.S. House,16,WANDA ROHL,D,87
-Lee,Elections Office,U.S. House,16,WANDA ROHL,D,-
+Lee,Elections Office,U.S. House,16,WANDA ROHL,D,
